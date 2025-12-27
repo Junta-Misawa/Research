@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/val/lindau/lindau_000028_000019_leftImg8bit.png",
+  "generated_text": "- road: The paved surface in the foreground and extending towards the parked cars is a road.\n- sidewalk: The cobblestone area to the right, elevated and adjacent to the building, is a sidewalk.\n- building: The white structure with a tiled roof and small windows, as well as the building on the right with a door and a lamp, are buildings.\n- wall: The white wall of the building with small windows is a wall.\n- vegetation: The trees with green leaves visible in the background and partially overhanging the roof are vegetation.\n- car: The silver SUV, red car, and black car parked in the lot are cars.\n- traffic sign: The blue and white sign mounted on the wall of the white building is a traffic sign."
+}

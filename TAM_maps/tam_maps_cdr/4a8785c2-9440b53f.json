@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/4a8785c2-9440b53f.jpg",
+  "generated_text": "- road: The image shows a paved street with visible lane markings and vehicles driving on it.\n- building: Multiple multi-story buildings line both sides of the street, including commercial structures with signs.\n- vegetation: Bare trees are visible along the street, indicating vegetation.\n- sky: The sky is visible above the buildings and trees, appearing overcast.\n- car: Several cars are visible on the road, including a black SUV directly ahead and a white van on the left.\n- truck: A silver pickup truck is parked on the right side of the road.\n- traffic sign: A \"NO TURN ON RED\" sign is visible painted on the road surface.\n- pole: Several poles are visible, including those supporting traffic lights and signs.\n- traffic light: A traffic light is visible in the distance, mounted on a pole."
+}

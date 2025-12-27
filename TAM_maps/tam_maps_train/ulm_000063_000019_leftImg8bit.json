@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/ulm/ulm_000063_000019_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved road with white lane markings and arrows, extending into the distance.\n- sidewalk: A paved sidewalk runs along the right side of the road, adjacent to the buildings.\n- building: Multiple multi-story buildings line both sides of the street.\n- vegetation: Several trees are visible along the sidewalk and street.\n- sky: The sky is visible above the buildings and trees, appearing overcast.\n- person: A person is visible walking on the sidewalk on the right side of the road.\n- car: Several cars are parked along the left side of the road."
+}

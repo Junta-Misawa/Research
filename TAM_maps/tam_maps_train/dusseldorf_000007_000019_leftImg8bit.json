@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/dusseldorf/dusseldorf_000007_000019_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved street with cars parked along both sides, indicating it is a road.\n- sidewalk: A narrow pedestrian path is visible on the left side of the road, bordered by trees and bushes, which is a sidewalk.\n- building: Multi-story buildings line both sides of the street, fitting the definition of building.\n- vegetation: Trees and bushes are visible along the sidewalks and between parked cars, which qualifies as vegetation.\n- car: Multiple cars are parked along the street, including a black car in the foreground and several others on both sides.\n- traffic sign: A circular traffic sign with a red border and a blue background is visible on the right side of the street, indicating a parking restriction."
+}

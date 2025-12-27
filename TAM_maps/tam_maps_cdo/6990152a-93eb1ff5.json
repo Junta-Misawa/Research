@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/6990152a-93eb1ff5.jpg",
+  "generated_text": "- road: The paved surface where vehicles are parked and driving, extending into the distance.\n- building: The residential houses visible on both sides of the street.\n- vegetation: Trees and bushes lining the street and in front of the houses.\n- terrain: The grassy areas along the sidewalks and in front of the houses.\n- sky: The overcast sky visible above the trees and buildings.\n- car: Multiple cars parked along the street, including a white sedan and a silver SUV.\n- fence: A low fence or barrier visible in front of one of the houses."
+}

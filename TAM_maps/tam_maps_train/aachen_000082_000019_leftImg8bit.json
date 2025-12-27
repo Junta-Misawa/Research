@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/aachen/aachen_000082_000019_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved road with white lane markings, viewed from the perspective of a vehicle.\n- sidewalk: A sidewalk is visible along the edge of the road, adjacent to the stone wall, where pedestrians are walking.\n- building: A modern building is visible on the left side of the image, and another building can be seen through the archway in the background.\n- wall: A large, ancient stone wall forms the structure of the archway and extends on both sides of the image.\n- vegetation: Trees are visible on the left side of the image and through the archway in the background.\n- person: Several people are visible walking on the sidewalk near the archway.\n- car: A car is visible parked in the background through the archway."
+}

@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/7f35db1c-1bee4be0.jpg",
+  "generated_text": "- road: The image shows a multi-lane road with visible lane markings and vehicles driving on it.\n- building: Multiple multi-story residential or commercial buildings are visible along both sides of the road.\n- vegetation: Several trees are visible along the road and sidewalks.\n- sky: A portion of the sky is visible above the buildings and trees.\n- car: Numerous cars are parked along the side of the road and others are driving in the lanes.\n- traffic sign: A yellow diamond-shaped traffic sign is visible on the right side of the road.\n- pole: A pole supporting the traffic sign is visible.\n- fence: A fence is visible along the sidewalk on the left side of the road."
+}

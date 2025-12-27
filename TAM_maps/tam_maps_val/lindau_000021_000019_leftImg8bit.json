@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/val/lindau/lindau_000021_000019_leftImg8bit.png",
+  "generated_text": "- road: The image shows a cobblestone street that serves as a road for vehicles, as indicated by the perspective from a car's dashboard and the road markings.\n- building: Multiple buildings line both sides of the street, with visible windows, doors, and architectural features typical of urban structures.\n- traffic sign: There are several traffic signs visible, including a \"Pfeiffergässle\" street sign and a \"No Parking\" sign attached to poles.\n- pole: Poles are visible holding the traffic signs, such as the one with the \"No Parking\" sign.\n- person: A person can be seen in the distance walking down the street, near the archway at the end of the alley."
+}

@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/val/lindau/lindau_000027_000019_leftImg8bit.png",
+  "generated_text": "- building: The white structure with multiple windows and an arched entrance in the background is a building.\n- vegetation: The tree with green leaves visible in the upper right portion of the image is vegetation.\n- road: The paved surface where vehicles are parked and the Mercedes-Benz emblem is visible is a road.\n- car: The blue car parked on the left side of the image is a car.\n- truck: The silver van parked on the right side of the image is a truck.\n- fence: The metal posts with chains running between them, located near the silver van, form a fence.\n- pole: The black pole with a light fixture attached, standing near the silver van, is a pole."
+}

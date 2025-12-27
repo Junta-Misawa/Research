@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/erfurt/erfurt_000094_000019_leftImg8bit.png",
+  "generated_text": "- road: The image shows a cobblestone street with cars parked along its sides, indicating it is a road.\n- sidewalk: A paved walkway runs alongside the road, separated by a curb, which is characteristic of a sidewalk.\n- building: Several multi-story residential buildings with distinct architectural features are visible along the street.\n- wall: A stone wall runs along the left side of the sidewalk.\n- vegetation: Numerous trees and bushes are visible throughout the image, including along the street and in front of the buildings.\n- car: Multiple cars are parked along the right side of the road, and the front of a car is visible at the bottom of the image."
+}

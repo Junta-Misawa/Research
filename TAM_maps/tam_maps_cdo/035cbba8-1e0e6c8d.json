@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/035cbba8-1e0e6c8d.jpg",
+  "generated_text": "- road: The asphalt surface with visible lane markings and parked cars along its sides.\n- sidewalk: The concrete path adjacent to the road, separated by a curb, with some vegetation and parked cars nearby.\n- building: Multiple residential structures with distinct walls, windows, and roofs lining both sides of the street.\n- vegetation: Trees and shrubs visible along the sidewalks and in front of the buildings.\n- sky: The overcast sky visible above the buildings and trees.\n- car: Several passenger vehicles, including an SUV and sedans, parked along the street and in driveways.\n- truck: A white pickup truck parked on the right side of the street.\n- pole: A vertical pole with wires attached, visible near the center of the image."
+}

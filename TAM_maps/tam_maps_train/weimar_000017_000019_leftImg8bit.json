@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/weimar/weimar_000017_000019_leftImg8bit.png",
+  "generated_text": "- road: The cobblestone surface where the motorcycle and cars are driving is a road.\n- sidewalk: The raised stone path next to the road, with a curb separating it, is a sidewalk.\n- building: The multi-story structures with windows and doors visible in the background are buildings.\n- vegetation: The large tree with green leaves in the center of the image is vegetation.\n- person: Several individuals are visible walking or standing on the sidewalk and near the buildings.\n- rider: The person on the motorcycle is a rider.\n- car: The black SUV on the right and the silver car parked further back are cars.\n- motorcycle: The two-wheeled vehicle being ridden by the person is a motorcycle."
+}

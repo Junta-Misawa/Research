@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/99111627-955d95e4.jpg",
+  "generated_text": "- road: The image shows a paved street with cars parked along its sides and a white line marking the edge of the road.\n- building: Multi-story brick buildings with fire escapes are visible on both sides of the street.\n- vegetation: Bare trees without leaves are visible along the street.\n- sky: A gray, overcast sky is visible above the buildings and trees.\n- car: Multiple cars, including a silver sedan in the foreground and various SUVs and sedans parked along the street, are visible.\n- traffic sign: A green traffic sign indicating \"ONE WAY\" is visible on a pole in the background.\n- pole: A pole with a traffic sign is visible in the background.\n- traffic light: A green traffic light is visible in the distance, mounted on a pole."
+}

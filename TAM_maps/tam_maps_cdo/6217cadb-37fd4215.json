@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/6217cadb-37fd4215.jpg",
+  "generated_text": "- road: The image shows a multi-lane paved road with visible lane markings, which is the primary surface for vehicle travel.\n- vegetation: There are visible trees and shrubs along the roadside and in the background.\n- terrain: Grass and other ground cover are visible along the roadside and in the median.\n- sky: The upper portion of the image shows a cloudy sky.\n- car: Multiple cars are visible on the road, including a dark SUV directly ahead and other vehicles in adjacent lanes.\n- pole: Several streetlight poles are visible along the road.\n- building: Houses and other structures are visible on the right side of the road.\n- fence: A guardrail or barrier is visible along the edge of the road."
+}

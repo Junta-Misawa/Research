@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/203fb7bc-cbb4be86.jpg",
+  "generated_text": "- road: The image shows a multi-lane roadway with visible lane markings and vehicles driving on it.\n- building: Several tall structures, including skyscrapers, are visible in the background cityscape.\n- fence: A metal guardrail runs along the side of the road, separating the traffic from the edge.\n- pole: Vertical poles supporting the bridge cables and other infrastructure are visible.\n- sky: The upper portion of the image shows a clear blue sky with some clouds.\n- car: Multiple cars and SUVs are visible on the road, including a silver Toyota RAV4 in the foreground.\n- vegetation: A tree is visible on the far right edge of the image.\n- truck: A white truck is visible in the distance on the left side of the road."
+}

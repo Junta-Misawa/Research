@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/9150fada-d7d8af68.jpg",
+  "generated_text": "- road: The image shows a paved surface with lane markings and vehicles driving on it, which is characteristic of a road.\n- vegetation: There are trees visible along the side of the road, which fall under the category of vegetation.\n- car: The image shows the front view of a vehicle from which the photo is taken, and other vehicles with visible taillights ahead, which are cars.\n- pole: There are vertical poles visible, likely for streetlights or signs, which are poles.\n- traffic sign: A green highway sign is visible in the distance, which is a traffic sign."
+}

@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/8e0154c1-eac18763.jpg",
+  "generated_text": "- road: The paved surface with yellow lines where vehicles are driving.\n- sidewalk: The snow-covered path next to the road, elevated and delimited by a curb and poles.\n- building: The brick building on the right and the red brick building on the left.\n- pole: The vertical pole with a sign attached to it near the sidewalk.\n- person: The individual standing on the sidewalk wearing a backpack.\n- car: The white SUV on the right and the silver car on the left.\n- bus: The white public transport vehicle with \"New York City Bus\" and route \"B52\" displayed.\n- vegetation: The bare tree branches visible on the left side of the image.\n- sky: The visible portion of the sky above the buildings and tree branches."
+}

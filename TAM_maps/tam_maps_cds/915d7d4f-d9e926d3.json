@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/915d7d4f-d9e926d3.jpg",
+  "generated_text": "- road: The visible surface where vehicles are driving and parked, including lane markings.\n- sidewalk: The elevated pedestrian area with snow piles, bordered by curbs and poles.\n- building: The large structure with windows and scaffolding in the background.\n- pole: The vertical poles supporting traffic lights and signs.\n- traffic light: The yellow traffic light box visible above the road.\n- traffic sign: The green street sign reading \"Queens Plaza North\" and other regulatory signs.\n- vegetation: The bare trees visible on the left side of the image.\n- person: Pedestrians walking on the sidewalk.\n- car: The black SUV and the white van with \"BALKAN GLASS CORP\" written on it.\n- truck: The white truck visible in the background on the right side of the image."
+}

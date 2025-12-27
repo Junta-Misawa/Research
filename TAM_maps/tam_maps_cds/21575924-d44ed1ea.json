@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/21575924-d44ed1ea.jpg",
+  "generated_text": "- road: The image shows a paved street with double yellow lines, which is a road.\n- building: Several buildings are visible along the street, including commercial storefronts.\n- vegetation: Bare trees are visible along the sidewalk and street.\n- sky: The clear blue sky is visible above the buildings and trees.\n- car: Multiple cars are parked along the street and driving on the road.\n- truck: A white box truck is parked on the right side of the street.\n- pole: Several poles are visible, including those for streetlights and signs.\n- traffic light: A traffic light is visible in the distance at an intersection.\n- traffic sign: A traffic sign is visible on the right side of the street.\n- person: A person is visible standing on the sidewalk near the \"QUALITY USED CARS\" store."
+}

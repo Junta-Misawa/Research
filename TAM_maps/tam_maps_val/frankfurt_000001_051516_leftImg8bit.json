@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/val/frankfurt/frankfurt_000001_051516_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved surface with white lane markings, typical of a road.\n- sidewalk: A paved area with a curb separating it from the road, suitable for pedestrians, is visible.\n- vegetation: There are numerous trees and bushes visible in the background and along the roadside.\n- person: Two individuals can be seen walking on the sidewalk in the background.\n- pole: Several vertical poles are visible, including one with a traffic sign and another supporting a street light.\n- traffic sign: A circular traffic sign with the letter 'S' is visible on a pole.\n- terrain: There is a grassy area with some bushes and trees, which is not meant to be driven on.\n- car: The hood and emblem of a car are visible in the foreground, indicating the perspective is from inside a vehicle."
+}

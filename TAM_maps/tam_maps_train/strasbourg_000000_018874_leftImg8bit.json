@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/strasbourg/strasbourg_000000_018874_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved street with visible lane markings and parked cars on both sides, indicating it is a road.\n- building: Multiple buildings line both sides of the street, featuring various architectural styles and windows.\n- car: Numerous cars are parked along both sides of the street, including a black car on the left and a silver car on the right.\n- person: A person is visible sitting in the driver's seat of the black car on the left side of the image."
+}

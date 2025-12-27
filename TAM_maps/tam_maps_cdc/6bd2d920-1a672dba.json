@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/6bd2d920-1a672dba.jpg",
+  "generated_text": "- road: The image shows a multi-lane highway with visible lane markings, which is a part of ground on which cars usually drive.\n- building: Tall residential and commercial buildings are visible along the sides of the highway.\n- vegetation: Trees and shrubs are visible along the roadside and in the background.\n- sky: The upper portion of the image shows a clear blue sky with some clouds.\n- person: A few pedestrians can be seen standing near a small building on the right side of the highway.\n- car: Multiple cars are visible on the highway, including sedans and SUVs.\n- truck: A large truck is visible in the middle lane ahead of the camera.\n- motorcycle: A motorcycle is visible on the right side of the highway, near the roadside.\n- traffic sign: Green highway signs indicating directions and exits are visible overhead."
+}

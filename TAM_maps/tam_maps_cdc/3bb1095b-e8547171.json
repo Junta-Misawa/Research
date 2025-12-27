@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/3bb1095b-e8547171.jpg",
+  "generated_text": "- road: The image shows a multi-lane roadway with visible lane markings and vehicles driving on it.\n- sky: The upper portion of the image displays a clear blue sky with some clouds.\n- car: Multiple cars, including a silver Toyota sedan in the foreground and various other vehicles, are visible on the road.\n- truck: A white box truck with \"HLA 74\" on its side is visible in the distance.\n- pole: Several tall, vertical poles, likely for lighting or signage, are visible along the roadway.\n- traffic sign: A small, rectangular traffic sign with \"HLA 74\" is visible on the side of the truck, indicating a highway or route marker.\n- wall: A concrete barrier wall runs along the left side of the roadway."
+}

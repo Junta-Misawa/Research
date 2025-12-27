@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/314db341-693a7d4d.jpg",
+  "generated_text": "- road: The paved surface on which the cars are driving and the truck is parked.\n- building: Multi-story residential or commercial buildings visible in the background.\n- fence: Metal fence running along the side of the road.\n- pole: Utility poles visible in the background.\n- vegetation: Trees and bushes lining the street.\n- sky: Visible above the buildings and trees.\n- person: A man standing next to the truck.\n- car: Several cars parked or driving on the road.\n- truck: A large truck with its back door open.\n- terrain: Grass visible in the background behind the fence."
+}

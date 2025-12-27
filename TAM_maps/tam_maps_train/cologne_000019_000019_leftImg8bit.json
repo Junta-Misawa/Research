@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/cologne/cologne_000019_000019_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved road with white lane markings and arrows, used for vehicle traffic.\n- sidewalk: The sidewalk is visible along the edge of the road, with pedestrians and some barriers.\n- building: The large commercial building with \"PRIMARK\" signage is clearly visible.\n- vegetation: Trees are visible along the sidewalk and near the building.\n- person: Numerous people are visible walking or standing on the sidewalk and near the building entrance.\n- rider: A person wearing a helmet is riding a motorcycle in the foreground.\n- car: Several cars, including a blue sedan and a black sedan, are visible on the road.\n- motorcycle: Multiple motorcycles are parked or being ridden on the street.\n- bicycle: Several bicycles are parked on the sidewalk near the building."
+}

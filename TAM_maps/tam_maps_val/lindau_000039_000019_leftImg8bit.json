@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/val/lindau/lindau_000039_000019_leftImg8bit.png",
+  "generated_text": "- building: The ornate, multi-story structure with detailed facade and windows is clearly a building.\n- road: The cobblestone surface covering the entire foreground and extending to the parked vehicles is a road.\n- vegetation: The large tree with dense foliage on the right side of the image is vegetation.\n- car: Several cars are parked on the right side of the image, including a silver SUV and a blue car.\n- truck: A truck with a covered cargo area is parked on the right side of the image.\n- sidewalk: The cobblestone area directly in front of the building, where vehicles are parked, can be considered a sidewalk as it is designated for parking and pedestrians.\n- person: There is no visible person in the image."
+}

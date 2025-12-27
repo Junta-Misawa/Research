@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/54ea83be-4fb34641.jpg",
+  "generated_text": "- road: The wet surface with visible lane markings and vehicles indicates a road.\n- sidewalk: The paved area next to the road with scaffolding and a curb is a sidewalk.\n- building: The structure with glass walls and scaffolding attached is a building.\n- pole: The metal scaffolding poles are visible.\n- vegetation: The greenery in the planter box is vegetation.\n- car: The vehicles parked on the side of the road are cars.\n- bus: The yellow vehicle with the number \"001\" and school bus design is a bus."
+}

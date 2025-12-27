@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/val/munster/munster_000081_000019_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved street with cars parked along both sides, indicating it is a road.\n- building: Multiple brick buildings are visible on both sides of the street, fulfilling the definition of buildings.\n- vegetation: Several trees are visible along the street, particularly on the left and right sides, qualifying as vegetation.\n- sky: A portion of the sky is visible above the buildings and trees, appearing as an open sky.\n- car: Numerous cars are parked along both sides of the street, including a black van on the left and a silver car on the right, which are clearly identifiable as cars.\n- traffic sign: A circular traffic sign with a red border and a blue background is visible on the left side of the street, mounted on a pole. This qualifies as a traffic sign."
+}

@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/ulm/ulm_000022_000019_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved surface with lane markings, typical of a road, extending forward into a tunnel.\n- wall: The right side of the image features a tiled wall, which is an individual standing wall.\n- pole: A vertical pole with a circular sign attached is visible on the left side of the road.\n- traffic sign: A circular traffic sign is mounted on the pole on the left side of the road.\n- vegetation: Green vegetation, likely trees or bushes, is visible on the left side outside the tunnel entrance.\n- sky: The bright, overexposed area at the tunnel entrance suggests the presence of the sky outside.\n- bus: A bus with a visible rear and advertisement is seen ahead, driving in the same direction as the camera's perspective."
+}

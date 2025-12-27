@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/1035bd63-ccca27ee.jpg",
+  "generated_text": "- road: The paved surface where vehicles are driving and parked, including the visible lane markings.\n- building: Multi-story residential buildings visible in the background.\n- vegetation: Trees and hedges visible along the roadside and behind the parked cars.\n- sky: The visible portion of the sky above the buildings and trees.\n- car: Several passenger cars parked and one in motion on the road.\n- truck: A white truck with a crane attachment and a green trailer is prominently visible on the right side of the image."
+}

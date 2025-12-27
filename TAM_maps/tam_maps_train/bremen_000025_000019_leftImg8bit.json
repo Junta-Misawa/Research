@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/bremen/bremen_000025_000019_leftImg8bit.png",
+  "generated_text": "- road: The cobblestone surface extending forward is clearly a road, as it is the main driving surface in the image.\n- sidewalk: The paved areas on both sides of the road, separated by curbs, are sidewalks designated for pedestrians.\n- building: Multiple buildings with distinct architectural features line both sides of the street.\n- pole: A vertical pole with a traffic sign attached is visible on the right side of the street.\n- traffic sign: A blue parking sign (P) is mounted on the pole on the right side of the street.\n- vegetation: A tree with green foliage is visible in the background between the buildings.\n- person: A person is visible standing near the parked car in the distance.\n- car: A silver car is parked on the right side of the street, partially visible in the distance."
+}

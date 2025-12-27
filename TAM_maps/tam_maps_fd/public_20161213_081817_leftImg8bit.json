@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/FD/leftImg8bit/test/public_20161213_081817_leftImg8bit.png",
+  "generated_text": "- road: The image shows a multi-lane road with visible lane markings and tram tracks, indicating it is a road for vehicles.\n- building: Several buildings are visible along both sides of the road, including residential and commercial structures.\n- vegetation: Trees are visible along the road, some with bare branches, indicating vegetation.\n- sky: The sky is visible above the buildings and trees, appearing overcast and gray.\n- car: Multiple cars are visible on the road, including a white car in the foreground and other vehicles further ahead.\n- pole: Utility poles with overhead wires are visible along the road.\n- traffic sign: A blue traffic sign is visible on the right side of the road.\n- terrain: Patches of grass or dirt are visible along the edges of the road, particularly on the left side."
+}

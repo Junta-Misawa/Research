@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/68e7781a-cffc2268.jpg",
+  "generated_text": "- road: The image shows a multi-lane highway with visible lane markings, which is a type of road.\n- vegetation: Trees are visible along the sides of the road and in the background.\n- sky: The sky is visible above the trees and the highway, appearing overcast.\n- car: Multiple cars are visible on the road, including a gray sedan on the left and several vehicles ahead.\n- train: A train on an elevated track is visible on the right side of the image."
+}

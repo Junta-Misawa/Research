@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/ulm/ulm_000016_000019_leftImg8bit.png",
+  "generated_text": "- sidewalk: The ground surface is paved with bricks and is designated for pedestrians, as indicated by the presence of a person walking and outdoor seating areas.\n- building: Multiple multi-story structures with windows and commercial signage are visible along the street.\n- vegetation: Trees with green foliage are present on both sides of the street.\n- person: A man wearing a striped shirt and carrying a bag is walking away from the camera.\n- car: Several cars are parked along the street, including a dark-colored car and a red car.\n- traffic sign: A blue parking sign (P) is visible on a pole near the sidewalk.\n- pole: Several poles are visible, including those supporting traffic signs and possibly streetlights.\n- terrain: A small patch of grass is visible near the sidewalk on the left side."
+}

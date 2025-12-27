@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/a12f1d14-1c6a524a.jpg",
+  "generated_text": "- road: The image shows a paved surface with yellow lane markings, which is characteristic of a road.\n- building: Red brick buildings are visible on both sides of the street.\n- vegetation: Trees are visible along the sides of the road.\n- sky: A portion of the sky is visible above the buildings and trees.\n- truck: A white box truck is visible ahead in the center of the road.\n- car: Several cars are visible parked on the right side of the road and in the distance.\n- pole: Traffic light poles are visible in the distance.\n- traffic light: A green traffic light is visible in the distance.\n- fence: A fence is visible along the sidewalk on the left side of the road."
+}

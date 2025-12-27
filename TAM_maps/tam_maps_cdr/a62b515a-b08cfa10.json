@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/a62b515a-b08cfa10.jpg",
+  "generated_text": "- road: The image shows a multi-lane highway with visible lane markings and vehicles driving on it.\n- vegetation: Trees and bushes are visible along the sides of the road and in the background.\n- sky: The sky is visible above the trees and vehicles, appearing overcast.\n- car: Several cars are visible on the road, including a black sedan directly ahead.\n- truck: A large white semi-truck with a trailer is visible on the right side of the road.\n- pole: A street light pole is visible on the right side of the road."
+}

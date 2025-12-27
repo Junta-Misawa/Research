@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/val/munster/munster_000029_000019_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved road with white lane markings, extending into the distance.\n- sidewalk: A paved sidewalk runs along the right side of the road, separated by poles.\n- building: Multi-story buildings are visible on both sides of the street.\n- vegetation: Trees are present along the street, lining both sides.\n- sky: A portion of the sky is visible above the buildings and trees.\n- person: A person is standing on the sidewalk near the bicycles on the right.\n- car: Several cars are parked or driving on the road.\n- bicycle: Multiple bicycles are parked along the sidewalk on the right."
+}

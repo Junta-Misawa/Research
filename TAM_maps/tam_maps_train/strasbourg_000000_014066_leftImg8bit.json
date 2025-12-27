@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/strasbourg/strasbourg_000000_014066_leftImg8bit.png",
+  "generated_text": "- road: The paved surface with visible lane markings and a manhole cover is clearly a road.\n- sidewalk: The paved area next to the road where pedestrians are walking, separated by bollards, is a sidewalk.\n- building: The large structure with commercial signs and storefronts is a building.\n- pole: There are several vertical poles, including one with a stop sign and another with a banner.\n- traffic sign: There are multiple traffic signs visible, including a \"P Tanneurs\" sign and a stop sign.\n- vegetation: Trees are visible in the background on the left side of the image.\n- person: Two individuals are visible walking on the sidewalk, each carrying a backpack.\n- car: A silver car is parked on the side of the road near the sidewalk."
+}

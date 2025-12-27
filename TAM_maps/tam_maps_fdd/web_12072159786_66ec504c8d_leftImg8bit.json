@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/FDD/leftImg8bit/test_extra/web_12072159786_66ec504c8d_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved surface with lane markings (dotted yellow lines and white arrows) typical of a road.\n- sidewalk: A curb and a strip of grass adjacent to the road on the right side indicate a sidewalk.\n- vegetation: Trees and bushes are visible on both sides of the road, partially obscured by fog.\n- terrain: Grass is visible along the sidewalk and in the background, indicating terrain.\n- sky: The upper part of the image shows a gray, overcast sky, though it is heavily obscured by fog.\n- traffic sign: A \"SPEED LIMIT 30\" sign is visible on the right side of the road.\n- pole: A pole supporting the speed limit sign is visible on the right side of the road.\n- car: A white van is partially visible parked on the left side of the road."
+}

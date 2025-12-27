@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/weimar/weimar_000084_000019_leftImg8bit.png",
+  "generated_text": "- road: The cobblestone surface under the vehicles and extending into the distance is a road.\n- sidewalk: The paved area to the right of the road, where pedestrians are walking, is a sidewalk.\n- building: The structures on both sides of the street, with windows and walls, are buildings.\n- fence: The black metal barrier with vertical bars and horizontal supports is a fence.\n- pole: The vertical posts holding the traffic signs are poles.\n- traffic sign: The \"ZONE\" sign and the \"Kartstraße\" street sign are traffic signs.\n- vegetation: The trees with green leaves on both sides of the street are vegetation.\n- person: The two individuals walking on the sidewalk are people.\n- car: The green car in the foreground and the blue car parked on the right are cars."
+}

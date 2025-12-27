@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/stuttgart/stuttgart_000123_000019_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved street with visible lane markings, which is designated for vehicle traffic.\n- building: Multiple multi-story residential and commercial buildings line both sides of the street.\n- car: Numerous cars are parked along both sides of the street.\n- person: A person is visible walking on the road in the distance.\n- truck: A yellow truck is visible parked on the left side of the street in the distance."
+}

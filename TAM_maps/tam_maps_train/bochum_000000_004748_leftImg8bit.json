@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/bochum/bochum_000000_004748_leftImg8bit.png",
+  "generated_text": "- road: The paved surface with parking lines and cars parked along its sides is clearly a road.\n- sidewalk: The paved area next to the parked cars, separated from the road by curbs and vegetation, is a sidewalk.\n- building: The structures on both sides of the street, with windows and doors, are buildings.\n- vegetation: There are numerous trees and bushes lining the street and in front of the buildings.\n- terrain: There are patches of grass and soil visible along the edges of the sidewalk and road.\n- person: A person can be seen standing near the parked cars in the background.\n- car: Multiple cars are parked along both sides of the road.\n- pole: There are vertical poles visible, likely for streetlights or signs, near the buildings."
+}

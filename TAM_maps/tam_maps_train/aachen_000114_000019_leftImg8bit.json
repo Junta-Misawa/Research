@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/aachen/aachen_000114_000019_leftImg8bit.png",
+  "generated_text": "- building: The image shows a multi-story structure with windows and commercial signage, which is clearly a building.\n- sidewalk: The paved area where pedestrians are walking, separated from the road by a curb or edge, is a sidewalk.\n- person: Several individuals are visible walking or standing on the sidewalk.\n- car: Multiple cars are parked along the street, including a silver car and a black car.\n- pole: A vertical pole is visible on the left side of the image, likely for a sign or traffic light.\n- vegetation: There are trees and bushes visible in the background and along the sidewalk.\n- terrain: The ground is paved with cobblestones, which is a type of terrain.\n- traffic sign: A traffic sign is visible on the left side of the image, mounted on a pole."
+}

@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/strasbourg/strasbourg_000001_052544_leftImg8bit.png",
+  "generated_text": "- road: The road surface with white pedestrian crossing markings is visible in the foreground.\n- sidewalk: The paved area where pedestrians are walking and bicycles are parked, bordered by the building and curbs, is present.\n- building: The stone-faced building with arched windows and doors is clearly visible along the street.\n- vegetation: A large potted plant (tree or shrub) is situated on the sidewalk.\n- person: Multiple individuals are visible walking on the sidewalk.\n- pole: A metal pole with a traffic sign attached is visible near the sidewalk.\n- traffic sign: A blue traffic sign indicating \"DES SERRURIERS\" and \"Schlossergass\" is visible on the pole.\n- bicycle: Two bicycles are parked on the sidewalk near the building."
+}

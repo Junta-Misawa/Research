@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/krefeld/krefeld_000000_000442_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved street with cars parked on both sides and a pedestrian crossing, which is part of the road.\n- building: There are multi-story residential buildings visible on both sides of the street.\n- vegetation: Trees and bushes are visible along the street and in front of the buildings.\n- car: Multiple cars are parked on both sides of the street, including a blue van and a pink station wagon.\n- truck: A blue van is parked on the left side of the street, which is a type of truck.\n- person: A person is visible sitting in the driver's seat of the black car on the left side of the street."
+}

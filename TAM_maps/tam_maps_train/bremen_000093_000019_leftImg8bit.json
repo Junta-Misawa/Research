@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/bremen/bremen_000093_000019_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved road with visible lane markings and cars driving on it.\n- sidewalk: A sidewalk is visible along the right side of the road, separated from the road by a curb.\n- building: Multi-story buildings with windows and architectural details are visible along the left side of the road.\n- vegetation: Trees with green and some autumn-colored leaves are visible along both sides of the road.\n- sky: A portion of the sky is visible above the trees, appearing overcast.\n- car: Numerous cars, including sedans and vans, are parked along both sides of the road and some are driving in the lanes.\n- pole: Several poles, likely for streetlights or traffic signs, are visible along the road.\n- traffic sign: A traffic sign is visible on a pole on the left side of the road."
+}

@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/3d187d59-48023a43.jpg",
+  "generated_text": "- road: The image shows a paved street with visible lane markings and a curb, which is a road.\n- building: There are multiple multi-story residential or commercial buildings visible along the street.\n- fence: A black metal fence is visible in front of one of the buildings.\n- pole: Several poles are visible, including a tall streetlight pole and traffic light poles.\n- traffic light: A red traffic light is visible at an intersection.\n- vegetation: Trees and shrubs are visible along the sidewalk and in front of buildings.\n- terrain: There are patches of grass and soil visible along the sidewalk and between the buildings.\n- sky: The sky is visible above the buildings and trees, appearing overcast.\n- bus: A white public transit bus is visible on the street.\n- car: A car is visible in the distance on the right side of the road."
+}

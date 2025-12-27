@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/dusseldorf/dusseldorf_000161_000019_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved road with white lane markings and cars parked along both sides.\n- building: Buildings are visible on both sides of the street, particularly on the right side with brick facades.\n- vegetation: Numerous trees and green foliage are present along both sides of the road.\n- sky: A gray, overcast sky is visible above the trees and buildings.\n- car: Multiple cars are parked along both sides of the road, including a white car, a red car, and a gray car in the foreground."
+}

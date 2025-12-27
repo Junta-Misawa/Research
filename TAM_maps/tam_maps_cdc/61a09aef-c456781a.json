@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/61a09aef-c456781a.jpg",
+  "generated_text": "- road: The image shows a paved surface with lane markings, which is clearly a road where vehicles are driving.\n- building: Tall multi-story structures with windows are visible in the background, which are buildings.\n- vegetation: Trees with green foliage are visible in the background, which are vegetation.\n- sky: The upper portion of the image shows a blue sky with some clouds, which is sky.\n- car: A silver Toyota Camry is clearly visible in the center of the image, which is a car.\n- truck: Large commercial vehicles with trailers are visible on both sides of the road, which are trucks.\n- traffic sign: A yellow sign with the text \"CAUTION WIDE TURNS\" is attached to the rear of the truck on the right, which is a traffic sign."
+}

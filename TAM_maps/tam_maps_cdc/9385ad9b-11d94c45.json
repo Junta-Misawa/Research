@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/9385ad9b-11d94c45.jpg",
+  "generated_text": "- road: The image shows a paved road with lane markings and vehicles driving on it.\n- sidewalk: A sidewalk is visible on the right side of the road, separated from the road by a curb.\n- building: A large white building with signage is visible on the left side of the road.\n- vegetation: Trees and shrubs are visible along the sides of the road and near the building.\n- terrain: Grass areas are visible alongside the road and sidewalk.\n- sky: The sky is visible above the road, buildings, and trees.\n- car: A silver SUV is visible ahead on the road.\n- pole: Several utility poles are visible along the road.\n- traffic sign: A red traffic sign is visible on the right side of the road."
+}

@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/2a7a4866-18b0208f.jpg",
+  "generated_text": "- road: The image shows a paved street with visible lane markings and vehicles driving on it.\n- sidewalk: A pedestrian walkway is visible on the right side of the street, separated from the road by a curb.\n- building: Multiple multi-story buildings line both sides of the street.\n- person: A person is visible walking on the sidewalk on the right side of the street.\n- rider: A person is riding a bicycle on the sidewalk on the right side of the street.\n- car: A yellow taxi is visible in the foreground, and a white van is visible on the left side of the street.\n- truck: A large garbage truck is visible in the middle of the street.\n- bicycle: A bicycle is visible being ridden by a person on the sidewalk on the right side of the street."
+}

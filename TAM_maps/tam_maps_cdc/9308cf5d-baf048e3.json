@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/9308cf5d-baf048e3.jpg",
+  "generated_text": "- road: The image shows a multi-lane highway with lane markings, which is a type of road.\n- vegetation: There are numerous bare trees and shrubs visible along the sides of the highway.\n- sky: The upper portion of the image shows a cloudy sky.\n- car: Several cars are visible on the road, including a blue car in the lane ahead and a white van further ahead.\n- truck: A white truck is visible on the road, and a red container truck is visible on the opposite side of the highway.\n- traffic sign: Multiple green and yellow traffic signs are visible overhead, providing directional information.\n- pole: Several poles are visible, including those supporting the traffic signs and streetlights.\n- rider: A person is visible in the driver's seat of the blue car ahead, indicating they are a rider."
+}

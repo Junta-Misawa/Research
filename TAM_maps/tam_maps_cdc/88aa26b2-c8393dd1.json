@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/88aa26b2-c8393dd1.jpg",
+  "generated_text": "- road: The image shows a multi-lane road with visible lane markings and vehicles driving on it.\n- sky: The upper portion of the image shows a blue sky with white clouds.\n- car: Several cars are visible, including a white SUV and a gray sedan, driving on the road.\n- truck: A large flatbed truck carrying a red scissor lift is prominently visible on the right side of the road.\n- pole: Several streetlight poles are visible along the road, extending from the ground upward.\n- traffic sign: A small blue traffic sign is visible on the dashboard in the foreground, and a white sign is visible on the side of the truck."
+}

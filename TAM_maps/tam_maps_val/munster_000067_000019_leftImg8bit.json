@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/val/munster/munster_000067_000019_leftImg8bit.png",
+  "generated_text": "- road: The paved surface with white lane markings is clearly visible as the road.\n- sidewalk: The paved area next to the road, separated by a curb, is designated for pedestrians.\n- building: The multi-story building with colorful panels and windows on the right side is a building.\n- vegetation: Trees with green leaves are visible along the street and in the background.\n- person: A person is visible walking on the sidewalk near the building on the right.\n- car: Multiple cars are parked along both sides of the road.\n- traffic sign: A blue parking sign with a 'P' is visible on the right side of the road.\n- pole: A pole with a traffic sign is visible on the right side of the road."
+}

@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/weimar/weimar_000015_000019_leftImg8bit.png",
+  "generated_text": "- building: The image shows a multi-story building with windows, awnings, and a storefront, which fits the definition of a building.\n- road: The ground surface where the horse-drawn carriage and cars are moving is paved and appears to be a street, fitting the definition of a road.\n- person: There are multiple individuals visible: the driver of the carriage, and two passengers seated in the carriage.\n- rider: The person driving the carriage is a rider, as they are using a horse to move the carriage.\n- car: A silver car is visible parked behind the carriage, and part of a red car with a Mercedes-Benz emblem is visible in the foreground.\n- pole: A tall, black lamppost is visible in the center of the image, which is a pole."
+}

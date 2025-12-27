@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/strasbourg/strasbourg_000001_003489_leftImg8bit.png",
+  "generated_text": "- road: The paved surface in the center of the image, where the car is driving and pedestrians are walking, is clearly a road.\n- sidewalk: The paved areas on both sides of the road, with curbs and pedestrian activity, are sidewalks.\n- building: Multiple buildings with windows, doors, and architectural details are visible along both sides of the street.\n- vegetation: Trees and bushes are visible in the background and along the sidewalks.\n- person: Two individuals are walking on the sidewalk in the middle of the image.\n- car: A white car is parked on the road, and another car is visible further down the street.\n- traffic sign: A blue traffic sign is mounted on a pole on the right side of the street."
+}

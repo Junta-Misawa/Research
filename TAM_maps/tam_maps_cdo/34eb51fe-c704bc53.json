@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/34eb51fe-c704bc53.jpg",
+  "generated_text": "- road: The image shows a paved surface with cars parked and driving on it, which is characteristic of a road.\n- building: There are multiple buildings visible, including a tall residential building on the left and commercial buildings on the right.\n- vegetation: Trees with bare branches are visible along the sidewalk and in front of the buildings.\n- sky: The upper portion of the image shows a cloudy sky.\n- car: Numerous cars are parked along the street and some are in motion.\n- pole: Several streetlight poles are visible along the road.\n- traffic sign: A \"NO PARKING\" sign is visible on the right side of the image.\n- rider: A person is visible riding a bicycle on the sidewalk in the distance."
+}

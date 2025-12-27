@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/932ab3d2-0ef6d829.jpg",
+  "generated_text": "- road: The street surface where vehicles are driving and parked, with visible road markings.\n- sidewalk: The elevated pedestrian area on the left side of the road, bordered by a curb and snow piles.\n- building: Multi-story structures lining the street, including brick and dark facades with windows.\n- vegetation: Bare trees without leaves lining the street.\n- sky: Dark blue sky visible above the buildings and trees.\n- car: Multiple cars and SUVs parked along the street and visible in traffic ahead.\n- traffic sign: A white rectangular sign mounted on a pole on the left side of the road.\n- pole: Several vertical poles, including those supporting streetlights and traffic signs.\n- traffic light: A green traffic light visible in the distance ahead."
+}

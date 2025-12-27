@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/43d4a202-cea9d2e0.jpg",
+  "generated_text": "- road: The image shows a paved street with cars parked along both sides, indicating it is a road.\n- building: Multi-story residential buildings line both sides of the street.\n- vegetation: Several trees are visible along the street, particularly on the left side.\n- sky: The sky is visible above the buildings and trees, appearing overcast.\n- person: A person is visible on the right side of the street, near a parked car.\n- car: Numerous cars are parked along both sides of the street, and the vehicle from which the photo is taken is visible at the bottom of the frame."
+}

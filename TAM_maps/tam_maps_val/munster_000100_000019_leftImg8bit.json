@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/val/munster/munster_000100_000019_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved surface that cars drive on, with a curb separating it from the sidewalk and vegetation, indicating it is a road.\n- sidewalk: A paved area adjacent to the road, separated by a curb, which is designated for pedestrians.\n- vegetation: Dense trees and bushes are visible along the roadside and in the background, indicating the presence of vegetation.\n- car: A dark-colored compact car is parked on the side of the road.\n- building: A building is partially visible behind the trees in the background."
+}

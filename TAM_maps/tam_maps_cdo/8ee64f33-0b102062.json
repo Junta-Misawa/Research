@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/8ee64f33-0b102062.jpg",
+  "generated_text": "- road: The image shows a multi-lane highway with visible lane markings and vehicles driving on it.\n- building: Several buildings, including skyscrapers, are visible in the background along the horizon.\n- pole: Multiple streetlight poles are visible along the highway.\n- traffic sign: A green traffic sign is visible in the distance.\n- sky: The sky is visible above the highway and buildings, showing clouds and some sunlight.\n- car: Multiple cars are visible on the highway, including the one from which the photo is taken.\n- truck: A white garbage truck is visible on the left side of the highway.\n- person: A person is visible standing on the sidewalk on the right side of the highway."
+}

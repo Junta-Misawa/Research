@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/tubingen/tubingen_000079_000019_leftImg8bit.png",
+  "generated_text": "- road: The cobblestone surface extending through the image, with visible road markings, is designated for vehicle traffic.\n- sidewalk: Pedestrian areas on both sides of the road, delimited by curbs and buildings, are clearly visible.\n- building: Multiple multi-story structures with windows and commercial signs line both sides of the street.\n- vegetation: Tall green plants in large pots are visible along the left sidewalk.\n- person: Several individuals are walking or standing on the sidewalks and street.\n- car: A gray car is parked on the right side of the road.\n- traffic sign: A blue and white traffic sign indicating a 30 km/h speed limit is visible on the right side of the street."
+}

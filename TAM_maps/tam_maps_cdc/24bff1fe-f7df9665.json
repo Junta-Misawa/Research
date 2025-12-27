@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/24bff1fe-f7df9665.jpg",
+  "generated_text": "- road: The image shows a paved surface with lane markings, consistent with a road.\n- vegetation: There are multiple tall, slender trees visible, which are a form of vegetation.\n- terrain: There is a grassy area visible in the foreground and middle ground, which is terrain.\n- sky: The upper portion of the image shows the sky with clouds and a sunset gradient.\n- pole: Several vertical poles are visible, including those supporting traffic lights and signs.\n- traffic light: A red traffic light is visible on the left side of the image.\n- traffic sign: A white rectangular sign with black text is visible on a pole in the middle ground.\n- car: Several cars are visible on the elevated roadway in the background."
+}

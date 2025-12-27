@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/val/lindau/lindau_000037_000019_leftImg8bit.png",
+  "generated_text": "- person: A person wearing a red top and white pants is walking on the sidewalk.\n- building: The image shows multiple buildings, including a pinkish building with shops and a more ornate building in the background.\n- sidewalk: The paved area where the person is walking is a sidewalk, bordered by a curb.\n- road: The cobblestone surface in front of the buildings and extending into the distance is a road.\n- vegetation: Trees with green leaves are visible on the left side and in the background on the right.\n- car: A dark blue car is parked on the right side of the road.\n- truck: A white truck is parked on the far right side of the image."
+}

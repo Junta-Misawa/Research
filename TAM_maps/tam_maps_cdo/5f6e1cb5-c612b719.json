@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/5f6e1cb5-c612b719.jpg",
+  "generated_text": "- road: The image shows a multi-lane highway with visible lane markings, which is a type of road.\n- vegetation: There are numerous bare trees lining the highway, which fall under the vegetation class.\n- sky: The upper portion of the image shows an overcast sky without visible leaves or obstructions.\n- traffic sign: Several green highway directional signs and a white speed limit sign are visible above and beside the road.\n- car: A black SUV is visible ahead in the right lane, and other cars are visible in the distance.\n- pole: The signs are mounted on vertical poles, which are clearly visible.\n- terrain: There is grass visible along the side of the road and in the median area, which is considered terrain."
+}

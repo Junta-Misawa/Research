@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/strasbourg/strasbourg_000000_034040_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved surface that serves as a roadway, with visible lane markings and curbs, consistent with a road.\n- sidewalk: There are pedestrian walkways on both sides of the road, separated from the road by curbs, which are sidewalks.\n- building: Multiple buildings with stone facades and windows line both sides of the street, which are clearly buildings.\n- person: Several individuals are visible walking on the sidewalks, including a group of people in the distance and others near the right side of the street.\n- car: A dark-colored car is parked on the street in the distance, visible behind the pedestrians."
+}

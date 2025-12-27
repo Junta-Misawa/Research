@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/strasbourg/strasbourg_000001_065572_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved surface with lane markings, including bicycle symbols and arrows, which is characteristic of a road.\n- sidewalk: There is a paved area adjacent to the road, separated by a curb, which is designated for pedestrians.\n- building: Multiple multi-story structures with windows and architectural details are visible along the street.\n- pole: A vertical pole with a traffic light attached is present in the foreground.\n- traffic light: A pedestrian traffic light displaying a red figure is visible on the pole.\n- traffic sign: A circular traffic sign is mounted on a pole on the right side of the road.\n- car: Several cars are parked along the street on the right side.\n- motorcycle: A motorcycle is parked on the sidewalk near the parked cars."
+}

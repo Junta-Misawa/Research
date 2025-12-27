@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/val/munster/munster_000061_000019_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved road with white pedestrian crossing markings.\n- sidewalk: Pedestrian walkways are visible on both sides of the road, separated by curbs.\n- building: Brick buildings line both sides of the street.\n- vegetation: Trees are visible in the background and along the street.\n- sky: A portion of the sky is visible above the buildings and trees.\n- person: Multiple pedestrians are visible crossing the street and walking along the sidewalks.\n- traffic sign: Traffic signs, including no-parking and no-left-turn signs, are mounted on poles.\n- pole: Several poles are visible, supporting traffic signs and possibly streetlights.\n- car: The hood and Mercedes-Benz emblem of a car are visible in the foreground, indicating the perspective is from inside a vehicle."
+}

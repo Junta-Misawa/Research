@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/2e1e3eaa-4ec66394.jpg",
+  "generated_text": "- road: The image shows a paved road with visible lane markings and cars driving on it.\n- vegetation: Trees are visible along the sides of the road and in the background.\n- terrain: Green hills are visible in the background behind the trees.\n- sky: The sky is visible above the trees and hills, with clouds.\n- car: Multiple cars are visible on the road and parked along the sides.\n- building: Houses and buildings are visible on the left side of the road.\n- pole: Utility poles are visible along the road, especially on the right side.\n- traffic sign: A traffic sign is visible on the right side of the road.\n- fence: A fence is visible on the right side of the road, near the parked cars."
+}

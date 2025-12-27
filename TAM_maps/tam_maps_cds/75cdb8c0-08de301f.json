@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/75cdb8c0-08de301f.jpg",
+  "generated_text": "- road: The paved surface where vehicles are driving and parked, including the area with snow patches and the curb.\n- building: The large brick structure with windows and air conditioners on the left side of the image.\n- vegetation: Bare trees lining the street and small bushes near the sidewalk.\n- sky: The overcast sky visible above the trees and building.\n- car: A black SUV parked on the side of the road with snow on its roof.\n- fence: A low fence running along the sidewalk in front of the building."
+}

@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/ulm/ulm_000040_000019_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved road stretching into the distance, with visible lane markings and curbs on both sides.\n- sidewalk: Sidewalks are visible on both sides of the road, bordered by curbs and vegetation.\n- building: Several residential buildings are visible on both sides of the street.\n- vegetation: Trees and bushes are present along the sidewalks and in front of the buildings.\n- sky: The sky is visible above the buildings and trees, showing clouds.\n- person: A person is walking on the sidewalk on the right side of the road.\n- car: A white car is visible in the distance on the road, and another car is visible further ahead.\n- truck: A white truck is visible in the distance on the road."
+}

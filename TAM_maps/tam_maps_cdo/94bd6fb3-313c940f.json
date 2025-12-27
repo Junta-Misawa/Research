@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/94bd6fb3-313c940f.jpg",
+  "generated_text": "- road: The image shows a multi-lane road with cars driving on it, including visible lane markings.\n- building: A large beige building with signage is visible in the background.\n- pole: Several vertical poles are visible, including those supporting traffic lights and signs.\n- traffic light: Red traffic lights are visible at intersections.\n- traffic sign: Green directional signs and other road signs are visible.\n- sky: The sky is visible above the buildings and road, appearing overcast.\n- car: Multiple cars are visible on the road, including a black Honda Accord and a red SUV.\n- truck: A white box truck with \"Bay Area Herbs & Specialties\" branding is visible on the right side of the image."
+}

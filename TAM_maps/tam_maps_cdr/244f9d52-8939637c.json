@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/244f9d52-8939637c.jpg",
+  "generated_text": "- road: The wet asphalt surface with white crosswalk markings and lane lines is clearly visible, indicating a road.\n- sidewalk: The paved area adjacent to the road, separated by a curb, is visible and designated for pedestrians.\n- building: Multi-story brick buildings with windows and fire escapes are prominently visible along the street.\n- pole: A vertical pole with a traffic sign attached is visible on the left side of the image.\n- traffic sign: A blue rectangular traffic sign with a white arrow is mounted on the pole.\n- vegetation: Bare-branched trees without leaves are visible along the street.\n- car: A silver sedan is parked on the right side of the street.\n- truck: A white box truck with text on its side is parked on the right side of the street."
+}

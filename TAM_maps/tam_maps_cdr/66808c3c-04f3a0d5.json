@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/66808c3c-04f3a0d5.jpg",
+  "generated_text": "- road: The image shows a wet multi-lane highway with visible lane markings, which is a type of road.\n- building: Several buildings are visible in the background on the right side of the image.\n- vegetation: Trees and bushes are visible along the sides of the road and in the background.\n- sky: The sky is overcast and gray, visible above the horizon and buildings.\n- car: Multiple cars are visible on the road, including a silver SUV, a black SUV, and a green car.\n- pole: Several poles are visible, including those supporting streetlights and traffic signs.\n- traffic sign: A blue and white traffic sign is visible on the right side of the road.\n- fence: A fence is visible running along the right side of the road, separating it from the buildings."
+}

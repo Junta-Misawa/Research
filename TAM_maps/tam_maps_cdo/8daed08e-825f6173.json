@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/8daed08e-825f6173.jpg",
+  "generated_text": "- road: The image shows a paved road with yellow lane markings, which is the primary surface for vehicle travel.\n- vegetation: There are numerous trees and bushes visible along both sides of the road.\n- sky: The upper portion of the image shows a pale sky, indicating either dawn or dusk.\n- car: A dark-colored car with headlights on is visible driving in the opposite direction.\n- fence: A fence runs along the left side of the road, separating the road from the wooded area.\n- pole: Several utility poles are visible along the right side of the road.\n- traffic sign: A diamond-shaped warning sign is visible on the left side of the road."
+}

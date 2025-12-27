@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/9c74eeb8-1aa96158.jpg",
+  "generated_text": "- road: The image shows a paved street with cars driving and parked on it, which is a road.\n- building: Multiple residential buildings with brick facades and windows are visible along both sides of the street.\n- vegetation: Several bare trees without leaves are visible along the street, indicating vegetation.\n- sky: The upper part of the image shows a clear, open sky with some thin wires.\n- car: Multiple cars are visible, including a dark SUV on the left, a sedan ahead, and a white car on the right.\n- pole: A vertical pole, likely for a streetlight or sign, is visible on the right side of the street.\n- fence: A low fence or barrier made of vertical slats is visible along the sidewalk on the right side."
+}

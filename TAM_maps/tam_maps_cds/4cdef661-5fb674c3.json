@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/4cdef661-5fb674c3.jpg",
+  "generated_text": "- road: The image shows a multi-lane road with visible lane markings and vehicles driving on it.\n- building: Multiple brick residential buildings are visible on both sides of the road.\n- vegetation: Bare trees and shrubs are visible along the roadside and in the background.\n- sky: The sky is visible above the buildings and road, appearing overcast.\n- car: Several cars are visible on the road, including a gray sedan and a black SUV.\n- traffic sign: A green overhead sign indicating \"Kappock St\" and \"EXIT ONLY\" is visible.\n- pole: Several poles are visible, including those supporting the traffic sign and streetlights.\n- fence: A low fence or barrier is visible along the edge of the road, separating it from the snow-covered area."
+}

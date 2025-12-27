@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/26afd0b9-d88e35cb.jpg",
+  "generated_text": "- road: The image shows a paved surface with lane markings and traffic lights, indicating it is a road.\n- vegetation: There are visible trees and bushes in the background and along the sides of the road.\n- sky: The upper portion of the image shows a dusky sky, indicating twilight or early night.\n- traffic light: Multiple traffic lights are visible at the intersection, showing red signals.\n- pole: Several poles are present, supporting the traffic lights and signs.\n- car: A dark-colored car is visible on the left side of the image, and a white vehicle is on the right.\n- truck: A white pickup truck is visible on the right side of the image.\n- traffic sign: A triangular warning sign is visible on a pole near the traffic light on the right."
+}

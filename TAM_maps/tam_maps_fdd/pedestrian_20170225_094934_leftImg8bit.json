@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/FDD/leftImg8bit/test_extra/pedestrian_20170225_094934_leftImg8bit.png",
+  "generated_text": "- sidewalk: The paved path running along the hedge and grass is designated for pedestrians and is delimited by a curb and vegetation, fitting the definition of a sidewalk.\n- vegetation: The image contains multiple bare trees and a hedge covered in brown leaves, which are forms of vertical vegetation.\n- terrain: The grassy areas on both sides of the sidewalk, covered with frost, are horizontal vegetation, fitting the definition of terrain.\n- person: A single individual is visible in the distance, walking along the sidewalk.\n- sky: The upper portion of the image shows a uniform, overcast gray sky, without any visible leaves or obstructions.\n- building: Faint outlines of multi-story structures are visible through the fog in the background, identifiable as buildings."
+}

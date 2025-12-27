@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/a9712a33-bc93e05f.jpg",
+  "generated_text": "- road: The image shows a paved street with cars parked on both sides and snow piled along the edges, indicating it is a road.\n- building: Multiple residential buildings with different architectural styles are visible along both sides of the street.\n- fence: A green fence is visible behind the parked cars on the right side of the street.\n- pole: Several utility poles are visible along the street, supporting overhead wires.\n- vegetation: Bare trees without leaves are visible in the background and along the street.\n- sky: The sky is visible above the buildings and trees, appearing overcast and gray.\n- person: A person is visible walking on the sidewalk near the parked cars on the left side of the street.\n- car: Multiple cars, including sedans, SUVs, and a minivan, are parked along both sides of the street."
+}

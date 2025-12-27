@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/tubingen/tubingen_000130_000019_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved road with white lane markings and a crosswalk, which is characteristic of a road.\n- building: A large building with glass windows and signage is visible in the background.\n- vegetation: Trees and bushes are visible in the background and along the roadside.\n- car: A yellow car is driving on the road, and another car is visible in the distance.\n- pole: A pole with traffic lights is visible on the right side of the road.\n- traffic sign: A traffic sign is visible on the pole on the right side of the road.\n- fence: A fence is visible on the left side of the image, near the building."
+}

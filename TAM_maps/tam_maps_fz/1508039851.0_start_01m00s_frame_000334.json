@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/FZ/leftImg8bit/test/1508039851.0_start_01m00s_frame_000334.png",
+  "generated_text": "- road: The image shows a paved road with visible lane markings, including white dashed lines and a yellow line, extending into the fog.\n- vegetation: Trees with autumn-colored leaves are visible on both sides of the road, partially obscured by fog.\n- traffic sign: Blue overhead road signs indicating directions to \"Tierspital,\" \"City Oberstrass Zoo,\" and \"City Oberstrass Universität Irchel\" are clearly visible.\n- pole: A tall metal pole supporting the overhead traffic signs is visible in the center of the image.\n- sky: The sky is visible as a uniform grayish-white background, indicating overcast or foggy conditions.\n- terrain: Some grassy areas and soil are visible along the roadside and at the base of the trees, particularly on the right side."
+}

@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/2bf43ae4-abec45f5.jpg",
+  "generated_text": "- road: The paved surface with lane markings and vehicles is clearly visible as a road.\n- building: Several residential houses and a small red brick structure are visible in the background.\n- vegetation: Bare trees and a hedge are visible along the roadside and in front of the houses.\n- sky: The blue sky with scattered clouds is visible above the buildings and trees.\n- person: A person wearing an orange cap and green jacket is visible leaning over the car hood.\n- car: A white car is partially visible on the left, and a green SUV is visible on the right.\n- pole: Utility poles with wires are visible in the background.\n- traffic sign: A blue and white \"Gulf\" gas station sign is visible in the background."
+}

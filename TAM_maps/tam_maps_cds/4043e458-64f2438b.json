@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/4043e458-64f2438b.jpg",
+  "generated_text": "- road: The image shows a paved surface with white crosswalk markings, which is characteristic of a road.\n- sidewalk: There are pedestrian areas with snow piled up along the edge, separated from the road by curbs and poles, indicating sidewalks.\n- building: Multiple multi-story structures with windows and commercial signage are visible along the street.\n- pole: Vertical poles, likely for traffic lights or signs, are visible in the image.\n- traffic light: A traffic light with a green signal is visible in the upper left portion of the image.\n- vegetation: Trees with bare branches are visible in the background.\n- person: Pedestrians are visible walking on the sidewalk.\n- car: Several cars are visible parked or driving on the road.\n- truck: A white pickup truck is visible parked on the right side of the road."
+}

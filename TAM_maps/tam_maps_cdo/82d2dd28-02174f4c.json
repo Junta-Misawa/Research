@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/82d2dd28-02174f4c.jpg",
+  "generated_text": "- road: The image shows a paved road with visible lane markings curving ahead, typical of a road used for vehicle travel.\n- vegetation: Trees are visible on both sides of the road, some bare and some with sparse foliage, indicating vegetation.\n- terrain: Grass and dirt areas are visible along the roadside and in the background, qualifying as terrain.\n- sky: The upper portion of the image shows a gray, overcast sky without visible leaves or obstructions.\n- car: A white car is visible ahead on the road, driving in the same direction as the viewpoint.\n- traffic sign: A rectangular traffic sign with multiple symbols is visible on the right side of the road, mounted on a pole.\n- pole: A vertical pole supporting the traffic sign is visible on the right side of the road."
+}

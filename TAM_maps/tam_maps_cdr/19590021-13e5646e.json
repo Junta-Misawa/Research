@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/19590021-13e5646e.jpg",
+  "generated_text": "- sidewalk: The paved area next to the road, elevated and delimited by curbs and poles, is clearly a sidewalk.\n- building: The structure with the metal roll-up door and windows is a building.\n- pole: The yellow cylindrical posts near the roll-up door are poles.\n- traffic sign: The yellow sign reading \"NO PARKING ACTIVE DELIVERY LOADING ZONE DO NOT BLOCK DOORS\" is a traffic sign.\n- vegetation: The tree with visible leaves on the left side of the image is vegetation.\n- car: The vehicle parked on the left side of the image, partially visible, is a car.\n- sky: The open area above the tree and building on the left is the sky."
+}

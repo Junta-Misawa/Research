@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/4a8b2a88-cdff47db.jpg",
+  "generated_text": "- road: The image shows a paved surface with white parking lines, which is characteristic of a road designated for parking.\n- building: A large building with \"UNITED AIR LINES\" signage is visible in the background.\n- pole: A tall, thin vertical pole is visible on the right side of the image.\n- traffic sign: A white rectangular sign with black text reading \"PARKING ONLY\" is visible on a pole.\n- vegetation: A tree is visible in the background near the building.\n- sky: The upper portion of the image shows a cloudy sky.\n- person: Two individuals are visible standing near a car in the middle of the parking lot.\n- car: Multiple cars are parked in the lot, including a white sedan in the foreground and several others in the background.\n- truck: A white van is visible parked in the background."
+}

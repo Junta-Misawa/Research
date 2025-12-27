@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/160d9039-7f5b9f08.jpg",
+  "generated_text": "- road: The surface beneath the cars and extending into the distance is a paved road.\n- sidewalk: The paved area to the right of the road, bordered by a curb and buildings, is a sidewalk.\n- building: Multiple multi-story structures with windows and doors are visible along both sides of the street.\n- vegetation: Trees with bare branches are visible along the street.\n- sky: The upper portion of the image shows a blue sky with white clouds.\n- car: Several cars are parked along the street, including a black Chevrolet Impala directly in front of the viewpoint.\n- pole: A tall, thin pole with wires attached is visible in the background.\n- traffic sign: A white sign with black text reading \"718-651\" is mounted on a building."
+}

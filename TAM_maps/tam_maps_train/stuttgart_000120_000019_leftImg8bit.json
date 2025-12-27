@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/stuttgart/stuttgart_000120_000019_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved road with white lane markings, curving to the left, and cars driving on it.\n- sidewalk: A sidewalk is visible on the right side of the road, adjacent to the building, with a curb separating it from the road.\n- building: A large stone building with windows and architectural details is prominently visible on the right side of the image.\n- vegetation: Numerous trees with green foliage are visible along both sides of the road and in the background.\n- car: Multiple cars are parked along the side of the road, including a black SUV and a gold SUV on the right, and several other cars on the left.\n- traffic sign: A blue parking sign (with a 'P') is visible on a pole attached to the building on the right side of the road."
+}

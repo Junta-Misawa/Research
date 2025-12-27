@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/39c3e66d-8075a5f8.jpg",
+  "generated_text": "- road: The image shows a paved street with visible lane markings and cars driving on it.\n- building: Multi-story brick residential buildings are visible on both sides of the street.\n- fence: A low fence runs along the sidewalk on the right side of the street.\n- pole: Traffic light poles and utility poles are visible in the image.\n- traffic light: Red traffic lights are visible at the intersection.\n- vegetation: Trees are visible along the street and sidewalks.\n- sky: The sky is visible above the buildings and traffic lights.\n- car: Several cars, including an SUV in the foreground and others parked along the street, are visible.\n- person: A person is visible sitting inside the silver SUV on the left side of the image."
+}

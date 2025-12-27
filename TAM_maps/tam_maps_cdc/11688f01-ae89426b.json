@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/11688f01-ae89426b.jpg",
+  "generated_text": "- road: The image shows a paved surface with lane markings, which is clearly a road where vehicles are driving.\n- vegetation: There are visible trees and greenery along the roadside and in the background.\n- sky: The upper portion of the image shows a clear blue sky with some clouds.\n- car: A dark-colored sedan is visible directly ahead in the lane.\n- truck: A white truck or trailer is visible on the right side of the road, partially obscured.\n- pole: Several vertical poles, including streetlights and traffic signal poles, are visible along the road.\n- traffic sign: A red and white traffic sign is visible on the right side of the road, near the truck.\n- fence: A metal guardrail runs along the left side of the road.\n- wall: A concrete wall runs along the left side of the road, separating the roadway from an elevated structure."
+}

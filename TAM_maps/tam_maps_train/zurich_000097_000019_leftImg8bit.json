@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/zurich/zurich_000097_000019_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved road with cars parked along its sides and a visible lane for driving.\n- sidewalk: A sidewalk is visible on the right side of the road, separated by a curb and bordered by hedges.\n- building: A building is visible on the left side of the road, partially obscured by trees.\n- vegetation: Trees and hedges are present along both sides of the road.\n- sky: A portion of the sky is visible through the tree canopy at the top center of the image.\n- car: Multiple cars are parked along both sides of the road.\n- pole: A pole is visible on the right side of the road, near the sidewalk.\n- traffic sign: A traffic sign is visible on the right side of the road, near the sidewalk.\n- person: A person is visible on the right side of the road, near the sidewalk."
+}

@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/357dcfc2-08ccedc6.jpg",
+  "generated_text": "- road: The image shows a multi-lane highway with road markings, which is a part of ground on which cars usually drive.\n- vegetation: There are trees and shrubs visible along the roadside and on the hillsides.\n- terrain: Green grassy hills and open land are visible on both sides of the highway.\n- sky: The upper portion of the image shows a clear blue sky with some clouds.\n- car: Multiple cars are visible on the highway, including a white sedan in the right lane and another white sedan in the left lane.\n- pole: Several utility poles and sign poles are visible along the highway.\n- traffic sign: A green highway sign indicating \"EXIT\" and \"SAN FRANCISCO\" is visible on the right side of the road.\n- fence: A fence is visible along the right side of the road, near the billboard."
+}

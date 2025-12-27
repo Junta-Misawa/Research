@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/66effbb9-1e48e319.jpg",
+  "generated_text": "- road: The image shows a paved road with lane markings, which is the surface on which cars are driving.\n- vegetation: There are numerous trees lining the road, which are a form of vertical vegetation.\n- terrain: There is grass on the sides of the road, which is a horizontal vegetation area.\n- sky: The sky is visible above the trees, appearing cloudy.\n- car: Several cars are visible on the road, including a silver sedan and a white SUV.\n- pole: There are poles visible, such as those supporting streetlights and traffic signs.\n- traffic sign: A yellow diamond-shaped traffic sign is visible on a pole.\n- building: Houses are visible in the background on the right side of the road."
+}

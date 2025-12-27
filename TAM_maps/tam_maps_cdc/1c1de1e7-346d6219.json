@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/1c1de1e7-346d6219.jpg",
+  "generated_text": "- road: The image shows a multi-lane highway with visible lane markings, which is a type of road.\n- vegetation: There are numerous trees and bushes visible along the sides of the highway.\n- sky: The upper portion of the image shows the sky with clouds.\n- car: Several cars are visible on the highway, including a dark blue sedan on the right and a silver SUV in the middle lane.\n- traffic sign: Green overhead highway signs are visible, indicating directions and exits.\n- pole: The green traffic signs are mounted on poles above the road.\n- wall: Concrete barriers or walls are visible along the side of the road."
+}

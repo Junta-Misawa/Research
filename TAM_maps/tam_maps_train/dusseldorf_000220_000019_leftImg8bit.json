@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/dusseldorf/dusseldorf_000220_000019_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved road with lane markings and traffic flowing on it.\n- building: There are residential buildings visible along the sides of the road.\n- vegetation: Trees and bushes are present on both sides of the road and in the background.\n- sky: A portion of the sky is visible above the buildings and trees.\n- traffic light: Traffic lights are visible at the intersection ahead.\n- traffic sign: Various traffic signs are visible, including yield signs and directional arrows.\n- car: Several cars are visible on the road, including a black car directly ahead and a white car further ahead.\n- pole: Multiple poles are visible, including those supporting traffic lights and signs."
+}

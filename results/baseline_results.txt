@@ -1,0 +1,217 @@
+=== Running Benchmark on All Datasets ===
+
+[Info] Starting evaluation on NighttimeDrivingTest...
+       Root: Dataset/NighttimeDrivingTest
+       Split: test
+       TAM Dir: TAM_maps/tam_maps_nd
+[NighttimeDrivingTest] mIoU=0.6375
+[NighttimeDrivingTest] Per-class IoU:
+  road           : 0.9344
+  sidewalk       : 0.7573
+  building       : 0.8984
+  wall           : 0.6914
+  fence          : 0.0032
+  pole           : 0.6664
+  traffic light  : 0.8585
+  traffic sign   : 0.8519
+  vegetation     : 0.5291
+  terrain        : 0.0000
+  sky            : 0.8169
+  person         : 0.6870
+  rider          : 0.3114
+  car            : 0.8023
+  truck          : 0.8393
+  bus            : 0.9769
+  train          : 0.9522
+  motorcycle     : 0.0000
+  bicycle        : 0.5352
+Saving visualizations to /home/suzukilab/Research/Vis_Seg/NighttimeDrivingTest...
+
+[Info] Starting evaluation on FoggyZurich...
+       Root: Dataset/FZ
+       Split: test
+       TAM Dir: TAM_maps/tam_maps_fz
+[FoggyZurich] mIoU=0.5536
+[FoggyZurich] Per-class IoU:
+  road           : 0.9323
+  sidewalk       : 0.5860
+  building       : 0.8177
+  wall           : 0.6430
+  fence          : 0.4106
+  pole           : 0.5269
+  traffic light  : 0.6649
+  traffic sign   : 0.6853
+  vegetation     : 0.7932
+  terrain        : 0.5161
+  sky            : 0.9504
+  person         : 0.1630
+  rider          : 0.4517
+  car            : 0.8785
+  truck          : 0.1638
+  bus            : 0.5775
+  train          : 0.0000
+  motorcycle     : 0.5485
+  bicycle        : 0.2095
+Saving visualizations to /home/suzukilab/Research/Vis_Seg/FoggyZurich...
+
+[Info] Starting evaluation on FoggyDriving...
+       Root: Dataset/FD
+       Split: test
+       TAM Dir: TAM_maps/tam_maps_fd
+[FoggyDriving] mIoU=0.5752
+[FoggyDriving] Per-class IoU:
+  road           : 0.9758
+  sidewalk       : 0.7107
+  building       : 0.7716
+  wall           : 0.3656
+  fence          : 0.1785
+  pole           : 0.5342
+  traffic light  : 0.5383
+  traffic sign   : 0.5307
+  vegetation     : 0.7738
+  terrain        : 0.6434
+  sky            : 0.9181
+  person         : 0.6894
+  rider          : 0.5944
+  car            : 0.6685
+  truck          : 0.1806
+  bus            : 0.1326
+  train          : 0.8360
+  motorcycle     : 0.3416
+  bicycle        : 0.5441
+Saving visualizations to /home/suzukilab/Research/Vis_Seg/FoggyDriving...
+
+[Info] Starting evaluation on FoggyDriving-Dense...
+       Root: Dataset/FDD
+       Split: test_extra
+       TAM Dir: TAM_maps/tam_maps_fdd
+[FoggyDriving-Dense] mIoU=0.5189
+[FoggyDriving-Dense] Per-class IoU:
+  road           : 0.9442
+  sidewalk       : 0.0001
+  building       : 0.4996
+  wall           : 0.0000
+  fence          : 0.0000
+  pole           : 0.6667
+  traffic light  : 0.4468
+  traffic sign   : 0.8476
+  vegetation     : 0.8316
+  terrain        : 0.0000
+  sky            : 0.9509
+  person         : 0.8958
+  rider          : 0.0000
+  car            : 0.8928
+  truck          : 0.9005
+  bus            : 0.9451
+  train          : 0.0000
+  motorcycle     : 0.0000
+  bicycle        : 0.0000
+Saving visualizations to /home/suzukilab/Research/Vis_Seg/FoggyDriving-Dense...
+
+[Info] Starting evaluation on C-driving-cloudy...
+       Root: Dataset/C-driving-cloudy
+       Split: test
+       TAM Dir: TAM_maps/tam_maps_C-driving-cloudy
+[C-driving-cloudy] mIoU=0.5646
+[C-driving-cloudy] Per-class IoU:
+  road           : 0.9056
+  sidewalk       : 0.4972
+  building       : 0.8167
+  wall           : 0.4961
+  fence          : 0.5261
+  pole           : 0.3090
+  traffic light  : 0.2789
+  traffic sign   : 0.4386
+  vegetation     : 0.8205
+  terrain        : 0.4614
+  sky            : 0.9325
+  person         : 0.5994
+  rider          : 0.6484
+  car            : 0.8692
+  truck          : 0.7279
+  bus            : 0.6942
+  train          : 0.0000
+  motorcycle     : 0.5157
+  bicycle        : 0.1897
+Saving visualizations to /home/suzukilab/Research/Vis_Seg/C-driving-cloudy...
+
+[Info] Starting evaluation on C-driving-overcast...
+       Root: Dataset/C-driving-overcast
+       Split: test
+       TAM Dir: TAM_maps/tam_maps_C-driving-overcast
+[C-driving-overcast] mIoU=0.5663
+[C-driving-overcast] Per-class IoU:
+  road           : 0.9006
+  sidewalk       : 0.5145
+  building       : 0.8307
+  wall           : 0.4848
+  fence          : 0.4756
+  pole           : 0.3597
+  traffic light  : 0.2214
+  traffic sign   : 0.5548
+  vegetation     : 0.7992
+  terrain        : 0.4339
+  sky            : 0.9165
+  person         : 0.6593
+  rider          : 0.5479
+  car            : 0.8622
+  truck          : 0.7406
+  bus            : 0.6426
+  train          : 0.1394
+  motorcycle     : 0.4534
+  bicycle        : 0.2219
+Saving visualizations to /home/suzukilab/Research/Vis_Seg/C-driving-overcast...
+
+[Info] Starting evaluation on C-driving-rainy...
+       Root: Dataset/C-driving-rainy
+       Split: test
+       TAM Dir: TAM_maps/tam_maps_C-driving-rainy
+[C-driving-rainy] mIoU=0.5156
+[C-driving-rainy] Per-class IoU:
+  road           : 0.8762
+  sidewalk       : 0.5408
+  building       : 0.8139
+  wall           : 0.3405
+  fence          : 0.3313
+  pole           : 0.3432
+  traffic light  : 0.1993
+  traffic sign   : 0.4151
+  vegetation     : 0.7670
+  terrain        : 0.2885
+  sky            : 0.9175
+  person         : 0.5431
+  rider          : 0.6690
+  car            : 0.8558
+  truck          : 0.7603
+  bus            : 0.7469
+  train          : 0.0000
+  motorcycle     : 0.3608
+  bicycle        : 0.0271
+Saving visualizations to /home/suzukilab/Research/Vis_Seg/C-driving-rainy...
+
+[Info] Starting evaluation on C-driving-snowy...
+       Root: Dataset/C-driving-snowy
+       Split: test
+       TAM Dir: TAM_maps/tam_maps_C-driving-snowy
+[C-driving-snowy] mIoU=0.5091
+[C-driving-snowy] Per-class IoU:
+  road           : 0.8883
+  sidewalk       : 0.3312
+  building       : 0.8236
+  wall           : 0.3686
+  fence          : 0.4658
+  pole           : 0.2924
+  traffic light  : 0.4609
+  traffic sign   : 0.5844
+  vegetation     : 0.7478
+  terrain        : 0.3404
+  sky            : 0.8853
+  person         : 0.6436
+  rider          : 0.2739
+  car            : 0.8751
+  truck          : 0.7629
+  bus            : 0.6534
+  train          : 0.0000
+  motorcycle     : 0.0721
+  bicycle        : 0.2035
+Saving visualizations to /home/suzukilab/Research/Vis_Seg/C-driving-snowy...

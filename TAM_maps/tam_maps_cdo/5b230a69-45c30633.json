@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/5b230a69-45c30633.jpg",
+  "generated_text": "- road: The image shows a paved surface with lane markings, used for vehicle traffic.\n- building: Multi-story residential or commercial structures are visible along the street.\n- vegetation: Trees with green foliage line the street and are present on both sides.\n- sky: The upper portion of the image shows a partly cloudy sky.\n- car: Multiple cars are parked along the side of the road.\n- pole: Utility poles with wires are visible in the background and along the street.\n- traffic sign: A small traffic sign is visible on the right side of the road."
+}

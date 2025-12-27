@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/stuttgart/stuttgart_000011_000019_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved surface with cars parked along its sides and a visible lane marking, which is characteristic of a road.\n- vegetation: There are numerous trees and dense green foliage lining both sides of the road, which qualifies as vegetation.\n- car: Multiple cars are parked along the road, including a white Volkswagen Golf on the left and a black SUV on the right, which are clearly identifiable as cars.\n- pole: A tall, vertical pole, likely for lighting or signage, is visible on the right side of the road.\n- sky: A portion of the sky is visible through the tree canopy at the top of the image, appearing as a clear blue area.\n- terrain: The ground beside the road, particularly on the left, shows patches of grass and soil, which are part of the terrain."
+}

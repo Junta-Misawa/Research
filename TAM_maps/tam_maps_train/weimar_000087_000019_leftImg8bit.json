@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/weimar/weimar_000087_000019_leftImg8bit.png",
+  "generated_text": "- road: The cobblestone surface in the center of the image, where the car is driving, is the road.\n- sidewalk: The paved areas on both sides of the road, where pedestrians are walking, are sidewalks.\n- building: Multiple buildings with distinct facades and windows are visible along both sides of the street.\n- vegetation: Trees with green leaves are visible along the street, particularly on the right side.\n- person: Several individuals are visible walking or standing on the sidewalks.\n- car: A silver car is visible driving on the road ahead.\n- pole: A small vertical pole is visible on the left side of the street, near the building."
+}

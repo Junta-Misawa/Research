@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/NighttimeDrivingTest/leftImg8bit/test/night/0_frame_0932_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved road with visible lane markings and tram tracks, indicating it is a road for vehicle traffic.\n- building: Multi-story residential or commercial buildings are visible on both sides of the street.\n- vegetation: Trees are visible along the sidewalk on the right side of the street.\n- sky: The sky is visible above the street, illuminated by streetlights, with no visible clouds or leaves.\n- car: A white car is visible on the left side of the road, and a dark-colored car is parked on the right side.\n- pole: Streetlight poles are visible along the road, supporting the overhead lights.\n- traffic sign: A small white traffic sign is visible on the right side of the road, near the sidewalk.\n- rider: A person is visible on the sidewalk on the right side, walking near the parked car."
+}

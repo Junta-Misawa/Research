@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/NighttimeDrivingTest/leftImg8bit/test/night/01_frame_1536_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved road with white lane markings and arrows, viewed from a vehicle's perspective.\n- vegetation: Dark silhouettes of trees and possibly bushes are visible on both sides of the road, especially on the right and left edges.\n- sky: The dark, starless sky is visible above the streetlights and trees.\n- pole: Several tall, vertical poles are visible, supporting streetlights and traffic signs.\n- traffic sign: A blue rectangular traffic sign with a white symbol is visible on the right side of the road.\n- train: A long, multi-car vehicle with illuminated windows, running on rails alongside the road, is visible on the left side.\n- car: A dark-colored car is parked on the right side of the road, partially visible behind a traffic sign."
+}

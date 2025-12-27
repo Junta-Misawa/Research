@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/5570653a-a5fea6c0.jpg",
+  "generated_text": "- road: The image shows a multi-lane highway with visible lane markings and vehicles driving on it.\n- building: A brick building with a tower structure is visible on the left side of the road.\n- wall: Concrete barriers are present along both sides of the highway.\n- pole: Several streetlight poles are visible along the highway.\n- vegetation: Trees are visible on the right side of the highway.\n- sky: The sky is visible above the highway, covered with clouds.\n- car: Multiple cars are visible on the highway, including a white sedan in the left lane and a white sedan in the right lane.\n- truck: A white truck is visible in the distance ahead in the middle lane."
+}

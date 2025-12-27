@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/bremen/bremen_000125_000019_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved surface with cars parked on both sides and a visible manhole cover, indicating it is a road.\n- sidewalk: A paved pedestrian path is visible on the right side of the road, bordered by a curb and vegetation.\n- building: Multi-story residential buildings are visible on both sides of the street.\n- vegetation: Trees and bushes are present along the sidewalk and in the background.\n- car: Several cars are parked along the street, including a silver car on the left and a black car on the right.\n- pole: A pole with a circular sign is visible on the left side of the road.\n- traffic sign: A circular traffic sign is mounted on a pole on the left side of the road.\n- terrain: A small patch of grass is visible near the sidewalk on the right side."
+}

@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/erfurt/erfurt_000075_000019_leftImg8bit.png",
+  "generated_text": "- road: The asphalt surface in the foreground and extending into the distance is a road.\n- sidewalk: The paved areas on both sides of the road, separated by curbs, are sidewalks.\n- building: The yellow and beige buildings with windows and commercial signs are buildings.\n- wall: The white wall on the right side of the image is a wall.\n- pole: There are multiple poles visible, including those holding traffic signs and streetlights.\n- traffic sign: A blue circular sign with a right-turn arrow and a bicycle sign are visible.\n- vegetation: A tree is visible on the left side of the image.\n- person: Two individuals are visible walking on the sidewalk.\n- car: A dark-colored car is parked on the right side of the image."
+}

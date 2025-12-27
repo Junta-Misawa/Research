@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/3140aed0-3d840e4c.jpg",
+  "generated_text": "- road: The image shows a paved road with double yellow lines, flanked by parked cars and vegetation, indicating it is a road for vehicle traffic.\n- vegetation: There are visible trees and bushes lining the sides of the road, which are examples of vegetation.\n- sky: The upper portion of the image shows a cloudy sky, which fits the definition of open sky without tree leaves.\n- car: Multiple cars are parked along the side of the road and some are visible in the distance, including a blue van and a dark sedan in the foreground.\n- pole: Several vertical poles, including streetlights and utility poles, are visible along the road.\n- building: A building with a visible facade and windows is present on the left side of the image.\n- terrain: There is a grassy embankment on the right side of the road, which is a type of terrain."
+}

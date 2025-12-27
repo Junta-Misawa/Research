@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/5e93181f-aef45d3d.jpg",
+  "generated_text": "- road: The area where the cars are driving and the lane markings are visible.\n- building: The large blue structure with signs and lanes, which is part of a toll facility.\n- wall: The blue vertical structures on either side of the toll lane, which are individual standing walls.\n- pole: The vertical poles with \"DO NOT BACK UP\" signs attached.\n- traffic sign: The blue signs indicating \"ATTENTION TOLL LANE UNDER VIDEO OBSERVATION\" and \"CARS $8.00\".\n- sky: The open sky visible through the toll booth opening.\n- person: The uniformed officer standing next to the vehicle.\n- car: The silver SUV in the toll lane.\n- truck: The black vehicle partially visible on the right side of the image.\n- bus: Not present.\n- train: Not present.\n- motorcycle: Not present.\n- bicycle: Not present."
+}

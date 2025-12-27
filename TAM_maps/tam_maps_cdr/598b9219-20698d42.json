@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/598b9219-20698d42.jpg",
+  "generated_text": "- road: The wet, paved surface with visible tire tracks and parked cars indicates it is a road.\n- sidewalk: The elevated, wet area next to the road, separated by a curb, is a sidewalk.\n- building: The yellow building on the right and the blue house in the background are buildings.\n- vegetation: Trees are visible along the street and in front of the buildings.\n- sky: The overcast, gray sky is visible above the buildings and trees.\n- car: Several cars are parked along the street, including a silver SUV and a gray sedan.\n- pole: A vertical pole with a traffic sign attached is visible on the right side of the road.\n- traffic sign: A yellow and white \"SCHOOL SPEED LIMIT 15\" sign is visible on the pole.\n- person: A person is partially visible in the driver's seat of the silver SUV on the left."
+}

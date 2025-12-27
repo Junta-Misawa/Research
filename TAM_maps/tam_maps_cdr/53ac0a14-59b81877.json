@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/53ac0a14-59b81877.jpg",
+  "generated_text": "- road: The image shows a multi-lane road with visible lane markings and vehicles driving on it.\n- building: Brick residential buildings are visible on the right side of the road.\n- vegetation: Bare trees are visible along the road and sidewalks.\n- sky: The overcast sky is visible above the buildings and trees.\n- car: Multiple cars are visible, including a yellow taxi on the right and a dark SUV on the left.\n- truck: A white truck is visible on the far left of the image.\n- traffic sign: A red triangular yield sign is visible on the right side of the road.\n- pole: Several streetlight poles are visible along the road.\n- fence: A fence is visible along the sidewalk on the right side of the road."
+}

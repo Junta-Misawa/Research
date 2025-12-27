@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/99e9d816-7fdd0a07.jpg",
+  "generated_text": "- road: The image shows a wet road surface with visible lane markings and multiple cars driving on it.\n- building: A building is visible on the right side of the image, with commercial signage attached to it.\n- pole: A vertical pole, likely for a traffic sign or light, is visible in the background.\n- traffic sign: A traffic sign is visible in the background, mounted on a pole.\n- car: Multiple cars are visible in the image, including the vehicle directly in front and others in adjacent lanes.\n- truck: A large truck is visible on the right side of the image, partially obscured by raindrops.\n- sky: The sky is visible through the rain-streaked windshield, appearing overcast and gray.\n- person: A person is visible walking on the sidewalk on the left side of the image, near a parked car."
+}

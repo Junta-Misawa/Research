@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/6b39a1db-631bbb48.jpg",
+  "generated_text": "- road: The image shows a paved street with cars parked along its sides and a visible manhole cover, indicating it is a road.\n- sidewalk: A paved area adjacent to the road, separated by a curb, is visible on the right side, which is a sidewalk.\n- building: Multiple multi-story brick buildings line both sides of the street, fitting the definition of buildings.\n- vegetation: Trees with green leaves are visible along the sidewalk and street, indicating vegetation.\n- sky: A portion of the sky is visible above the buildings, showing clouds and open sky.\n- car: Numerous cars and SUVs are parked along the street, including a black SUV directly in front of the viewpoint and a tan SUV further ahead.\n- traffic sign: A red and white traffic sign is visible mounted on a pole on the right side of the street."
+}

@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/2a253698-e5d5dcb2.jpg",
+  "generated_text": "- road: The image shows a multi-lane highway with visible lane markings and vehicles driving on it.\n- vegetation: Trees and bushes are visible along the sides of the road and in the background.\n- sky: The sky is visible above the road, with clouds.\n- car: Multiple cars and SUVs are visible on the road, including the vehicle from which the photo is taken.\n- traffic sign: Green highway signs indicating exits for \"Pennsylvania Ave\" and \"Rockaway Pkwy\" are visible overhead.\n- pole: Poles supporting the overhead traffic signs and other signs are visible.\n- fence: A fence is visible along the right side of the road, behind the barrier.\n- wall: Concrete barriers are visible along the sides of the road."
+}

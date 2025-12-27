@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/strasbourg/strasbourg_000001_002081_leftImg8bit.png",
+  "generated_text": "- building: The image shows stone buildings with windows and architectural details, which are clearly part of a building structure.\n- sidewalk: The ground is paved with cobblestones and is designated for pedestrians, as evidenced by the people walking on it and the absence of vehicles.\n- vegetation: There is a tree visible with green leaves, which qualifies as vegetation.\n- person: Multiple individuals are visible walking on the sidewalk, fitting the definition of person.\n- car: A white car is parked in the background, which is clearly identifiable as a car.\n- traffic sign: A blue traffic sign with white text is visible on a pole in the background, which is a traffic sign."
+}

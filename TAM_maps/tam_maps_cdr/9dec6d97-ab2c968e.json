@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/9dec6d97-ab2c968e.jpg",
+  "generated_text": "- road: The paved surface beneath the vehicles and extending into the background is clearly a road.\n- sidewalk: A paved area adjacent to the road, separated by a curb and with a mat on it, is visible on the right side.\n- building: Multiple brick and stone buildings are visible on both sides of the street.\n- fence: A chain-link fence is visible behind the motorcycle on the right side.\n- pole: A vertical pole is visible on the right side, near the fence.\n- sky: The sky is visible above the buildings and wires, appearing overcast.\n- car: A black sedan is parked on the left side of the road.\n- motorcycle: A motorcycle is parked on the right side, behind the fence.\n- van: The main vehicle in the foreground is a van.\n- vegetation: No vegetation is visibly present in the image."
+}

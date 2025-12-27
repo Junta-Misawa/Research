@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/49069e94-9e026b41.jpg",
+  "generated_text": "- road: The image shows a multi-lane road with visible lane markings and vehicles driving on it.\n- building: Several tall buildings, including skyscrapers, are visible in the background.\n- fence: A fence is visible along the right side of the road, near the buildings.\n- pole: Multiple street light poles are visible along the road.\n- vegetation: Trees are visible on the right side of the road, near the fence.\n- sky: The sky is visible above the buildings and road, appearing overcast.\n- car: Several cars, including SUVs, are visible on the road.\n- truck: A pickup truck is visible in the center of the image.\n- bus: No bus is visible in the image."
+}

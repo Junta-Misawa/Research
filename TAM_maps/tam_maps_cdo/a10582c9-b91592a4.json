@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/a10582c9-b91592a4.jpg",
+  "generated_text": "- road: The image shows a marked crosswalk and surrounding lanes where vehicles are driving, indicating a road.\n- building: A large modern structure with glass walls and a canopy is visible, which is a building.\n- pole: Vertical poles supporting traffic lights are present in the image.\n- traffic light: Red traffic lights are visible at the intersection.\n- person: Several individuals are visible, including pedestrians crossing the street and police officers.\n- car: Multiple cars, including SUVs and police vehicles, are visible on the road.\n- truck: No truck is visibly present in the image."
+}

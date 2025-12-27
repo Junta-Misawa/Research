@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/val/munster/munster_000008_000019_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved road with white lane markings and cars parked along both sides.\n- sidewalk: Sidewalks are visible on both sides of the road, separated from the road by curbs.\n- building: Multiple residential buildings are visible along both sides of the street.\n- vegetation: Trees and hedges are present along the sidewalks and in front of some buildings.\n- sky: The sky is visible above the buildings and trees, appearing overcast.\n- car: Numerous cars are parked along both sides of the road.\n- pole: A tall pole is visible on the right side of the road, near the sidewalk.\n- traffic sign: A small traffic sign is visible in the distance on the right side of the road."
+}

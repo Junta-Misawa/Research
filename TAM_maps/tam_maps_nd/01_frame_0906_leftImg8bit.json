@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/NighttimeDrivingTest/leftImg8bit/test/night/01_frame_0906_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved surface with white lane markings, clearly designated for vehicle traffic.\n- sidewalk: Pedestrian areas are visible on both sides of the road, separated from the road by curbs.\n- building: Multi-story structures with windows and storefronts line both sides of the street.\n- wall: A white wall is visible on the right side of the image, separate from the building.\n- pole: Vertical poles supporting traffic lights are visible in the distance.\n- traffic light: Red traffic lights are visible at an intersection ahead.\n- person: A person can be seen standing on the sidewalk on the left side of the street.\n- car: A car with red brake lights is visible ahead, stopped at the traffic light.\n- motorcycle: No motorcycle is visible in the image."
+}

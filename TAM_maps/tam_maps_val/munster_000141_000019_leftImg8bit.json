@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/val/munster/munster_000141_000019_leftImg8bit.png",
+  "generated_text": "- building: The image shows a multi-story structure with windows and commercial signs, which is a building.\n- sidewalk: The ground surface where pedestrians are walking and bicycles are parked is a sidewalk, delimited from the road by curbs and poles.\n- person: Multiple individuals are visible walking or standing on the sidewalk.\n- car: A red compact car is parked on the street.\n- bicycle: Numerous bicycles are parked along the sidewalk and in racks.\n- pole: Several poles are visible, including those supporting signs and traffic lights.\n- traffic sign: A circular traffic sign with a red border and blue background is visible on a pole.\n- fence: A metal fence is visible on the right side of the image."
+}

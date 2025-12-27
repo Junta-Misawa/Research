@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/9aead4d4-5bb03f38.jpg",
+  "generated_text": "- road: The image shows a paved surface with lane markings, which is clearly a road.\n- vegetation: Trees and bushes are visible along the roadside and in the background.\n- sky: The sky is visible above the trees and road, showing clouds and light.\n- car: A red car is visible ahead on the road.\n- fence: A fence is visible along the left side of the road.\n- pole: Poles are visible supporting traffic signs and streetlights.\n- traffic sign: Traffic signs are visible in the distance, mounted on poles.\n- terrain: Grass and other ground vegetation are visible along the roadside and in the background."
+}

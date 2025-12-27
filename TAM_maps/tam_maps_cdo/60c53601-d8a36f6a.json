@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/60c53601-d8a36f6a.jpg",
+  "generated_text": "- road: The image shows a paved surface with cars driving on it, which is characteristic of a road.\n- sidewalk: There is a paved area alongside the road, separated by a curb, which is a sidewalk.\n- building: Houses are visible on both sides of the street, which are buildings.\n- fence: A white picket fence is visible on the right side of the image.\n- pole: A tall wooden utility pole is visible on the right side of the image.\n- vegetation: Trees and shrubs are visible throughout the image.\n- terrain: Grass areas are visible along the sidewalks and between the houses.\n- sky: The sky is visible above the trees and buildings.\n- car: Several cars are visible on the road and parked along the sides.\n- truck: A pickup truck is visible parked on the right side of the road."
+}

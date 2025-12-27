@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/43e04451-9ab4c11c.jpg",
+  "generated_text": "- road: The image shows a multi-lane road with visible lane markings and vehicles driving on it.\n- building: There are several buildings visible along the street, including a beige commercial building on the right.\n- vegetation: Trees are visible along the sides of the road, some with bare branches and some with foliage.\n- sky: The upper portion of the image shows a clear blue sky.\n- car: Multiple cars are visible on the road, including a silver sedan on the left and a gray SUV on the right.\n- pole: Several utility poles are visible along the road, supporting wires and signs.\n- traffic sign: A yellow diamond-shaped warning sign is visible on a pole on the right side of the road.\n- fence: A fence is visible in front of the beige building on the right."
+}

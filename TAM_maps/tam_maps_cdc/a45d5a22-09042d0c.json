@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/a45d5a22-09042d0c.jpg",
+  "generated_text": "- road: The image shows a paved road with visible lane markings and vehicles driving on it.\n- vegetation: Numerous trees are visible along the sides of the road.\n- terrain: Dry grass and dirt are visible along the roadside and between the road and parked vehicles.\n- sky: The upper portion of the image shows a clear blue sky.\n- car: Multiple cars are visible on the road and parked along the side.\n- truck: A white pickup truck is parked on the right side of the road.\n- van: A white van is parked on the left side of the road.\n- pole: Several poles are visible, including streetlights and traffic signal poles.\n- traffic light: A traffic light is visible in the distance on the right side of the road.\n- traffic sign: A yellow traffic sign is visible on the right side of the road."
+}

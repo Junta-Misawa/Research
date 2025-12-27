@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/stuttgart/stuttgart_000068_000019_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved surface with white lane markings, typical of a road where vehicles drive.\n- sidewalk: A paved pedestrian area is visible on the right side of the road, separated by poles.\n- building: Multiple buildings with stone and brick facades are visible along the street.\n- vegetation: Trees with green foliage are present along the sidewalk and in the background.\n- sky: A portion of the sky is visible above the buildings and trees.\n- person: A man wearing a white shirt and tie is standing on the left side of the road.\n- car: Several cars are parked on the left side of the road, including a red car and a black car.\n- truck: A white truck is partially visible behind the red car on the left side of the road."
+}

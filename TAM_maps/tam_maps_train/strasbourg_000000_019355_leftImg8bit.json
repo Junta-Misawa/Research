@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/strasbourg/strasbourg_000000_019355_leftImg8bit.png",
+  "generated_text": "- building: The image shows multiple buildings with storefronts and windows along the street.\n- sidewalk: The cobblestone area where pedestrians are walking and bicycles are parked is a sidewalk.\n- vegetation: Trees with green leaves are visible on the right side of the image.\n- person: Several people are visible walking on the sidewalk in the distance.\n- car: A black car is parked on the left side of the image, and the hood of another car is visible in the foreground.\n- bicycle: Multiple bicycles are parked in a rack on the right side of the image."
+}

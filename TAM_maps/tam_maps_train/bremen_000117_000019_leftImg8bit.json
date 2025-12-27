@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/bremen/bremen_000117_000019_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved road with white lane markings and cars driving on it.\n- vegetation: There are numerous trees lining both sides of the road, which are a form of vegetation.\n- traffic sign: A yellow traffic sign with directional arrows is visible above the road.\n- car: Multiple cars are visible on the road, including a blue SUV directly ahead and several others parked on the right side.\n- truck: A white pickup truck is parked on the right side of the road.\n- sidewalk: A sidewalk is visible on the left side of the road, separated from the road by a curb and trees.\n- pole: Several poles are visible, including the one holding the traffic sign and others along the road.\n- building: A building is partially visible in the background on the right side of the road."
+}

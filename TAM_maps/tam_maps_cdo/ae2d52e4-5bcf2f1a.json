@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/ae2d52e4-5bcf2f1a.jpg",
+  "generated_text": "- road: The image shows a multi-lane highway with visible lane markings and vehicles driving on it.\n- building: A large commercial building with glass walls and signage is visible on the right side of the road.\n- vegetation: Trees are visible along the sides of the road and in the background.\n- sky: The sky is visible above the trees and buildings, showing clouds.\n- car: Multiple cars are visible on the road, including a red SUV directly ahead and a white sedan to the right.\n- traffic sign: Green highway signs indicating \"Flushing Meadows Corona Park BJK Tennis Center\" and \"EXIT ONLY\" are visible, along with a \"SPEED LIMIT 50\" sign.\n- pole: Several poles are visible, including those supporting the traffic signs and streetlights.\n- fence: A metal guardrail is visible along the side of the road."
+}

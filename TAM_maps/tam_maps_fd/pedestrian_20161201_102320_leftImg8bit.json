@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/FD/leftImg8bit/test/pedestrian_20161201_102320_leftImg8bit.png",
+  "generated_text": "- road: The paved surface with blue parking markings and cars driving on it.\n- building: Multi-story residential buildings visible on the left side of the road.\n- wall: Concrete retaining wall along the left side of the road.\n- fence: Low concrete barrier along the left side of the road.\n- pole: Streetlight pole visible on the left side of the road.\n- traffic sign: Blue parking sign (with 'P' symbol) mounted on a pole.\n- vegetation: Bare trees and evergreen shrubs visible along the road.\n- terrain: Grass and fallen leaves on the right side of the road.\n- sky: Overcast sky visible above the buildings and trees.\n- car: Silver Volkswagen car parked on the right side of the road.\n- motorcycle: Black motorcycle parked next to a green trash bin on the left side of the road."
+}

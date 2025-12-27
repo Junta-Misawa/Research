@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/dusseldorf/dusseldorf_000113_000019_leftImg8bit.png",
+  "generated_text": "- road: The paved surface with markings and vehicles is clearly a road.\n- sidewalk: The paved area with curbs and pedestrians is a sidewalk.\n- building: The multi-story structures with windows and commercial signs are buildings.\n- vegetation: Trees and shrubs are visible in the image.\n- terrain: Grass areas are visible along the sidewalk and road.\n- person: Pedestrians are visible walking on the sidewalk.\n- car: Several cars are visible on the road and parked along the street.\n- pole: Multiple poles supporting signs are visible.\n- traffic sign: Various traffic signs are visible, including directional and regulatory signs.\n- sky: The sky is visible through the tree canopy.\n- motorcycle: A motorcycle is visible parked on the left side of the street."
+}

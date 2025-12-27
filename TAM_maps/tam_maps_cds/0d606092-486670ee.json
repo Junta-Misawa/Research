@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/0d606092-486670ee.jpg",
+  "generated_text": "- road: The image shows a paved street with visible lane markings and snow piled along the sides, indicating it is a road.\n- building: Tall multi-story structures with windows and fire escapes line both sides of the street, which are clearly buildings.\n- vegetation: Bare trees without leaves are visible along the sidewalks, indicating vegetation.\n- sky: A bright, clear sky is visible above the buildings, indicating open sky.\n- car: Numerous cars and SUVs are parked along both sides of the street, and a few are visible driving down the road.\n- traffic sign: A yellow diamond-shaped traffic sign is visible on the right side of the road."
+}

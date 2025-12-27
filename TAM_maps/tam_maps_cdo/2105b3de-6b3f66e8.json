@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/2105b3de-6b3f66e8.jpg",
+  "generated_text": "- road: The image shows a multi-lane paved road with visible lane markings, which is the primary surface for vehicle travel.\n- vegetation: There are multiple trees and greenery visible along the sides of the road.\n- sky: The upper portion of the image shows a clear blue sky with some clouds.\n- car: Several cars are visible on the road, including a black Audi sedan in the right lane and a black sedan in the center lane.\n- traffic sign: A large blue sign indicating \"4 Terminal\" is visible on the right side of the road.\n- pole: Several poles are visible, including those supporting the traffic sign and streetlights.\n- fence: A fence is visible along the left side of the road, separating the road from a secured area.\n- building: A building is visible in the background on the right side of the road."
+}

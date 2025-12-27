@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/794b014f-a95ae60f.jpg",
+  "generated_text": "- road: The paved surface where vehicles are driving and parked, with snow piled along its edges.\n- sidewalk: The paved pedestrian area adjacent to the road, bordered by snow piles and curbs.\n- building: Multiple brick and other structured buildings line both sides of the street.\n- vegetation: Bare trees without leaves are visible along the sidewalk and street.\n- sky: A pale, overcast sky is visible above the buildings and trees.\n- person: A person in a white uniform is visible walking on the sidewalk.\n- car: Several cars, including a black Nissan Rogue in the foreground and others parked along the street, are present.\n- traffic sign: A yellow pedestrian crossing sign is visible on a pole near the sidewalk."
+}

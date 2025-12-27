@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/krefeld/krefeld_000000_027954_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved surface with lane markings, which is characteristic of a road.\n- sidewalk: There are pedestrian walkways on both sides of the road, clearly separated from the road by curbs.\n- building: Multiple buildings with windows and doors are visible along both sides of the street.\n- person: Two individuals are walking on the sidewalk in the distance, and two people are standing on the right sidewalk.\n- car: A silver car is visible in the middle of the road, and a white van is parked further down the street.\n- sky: The sky is visible at the top of the image, appearing bright and clear."
+}

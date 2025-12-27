@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/212289f5-732658d4.jpg",
+  "generated_text": "- road: The paved surface with white crosswalk markings and vehicle lanes is visible.\n- sidewalk: The pedestrian walkway adjacent to the building and crosswalk is visible.\n- building: The Chase bank building and surrounding structures are visible.\n- vegetation: Trees are visible along the street and sidewalk.\n- sky: The overcast sky is visible above the buildings and trees.\n- person: A woman wearing a pink hat and carrying a backpack is walking on the sidewalk.\n- car: Several cars are visible on the road and parked along the street.\n- motorcycle: A scooter is parked on the sidewalk near the crosswalk.\n- traffic light: A traffic light with a pedestrian walking symbol is visible.\n- traffic sign: A green street sign reading \"Washington St\" is visible.\n- pole: A traffic light pole and a street sign pole are visible."
+}

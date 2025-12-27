@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/8b773dfc-74c7c196.jpg",
+  "generated_text": "- road: The image shows a paved street with cars driving and parked along it, including visible lane markings.\n- building: Several buildings are visible, including residential houses and a larger building in the background.\n- vegetation: Trees and bushes are present along the street and in the background.\n- terrain: Grass is visible on the right side of the street.\n- sky: The sky is visible above the buildings and trees, with some electrical wires in front of it.\n- car: Multiple cars are parked along the street and some are driving on the road.\n- pole: Utility poles with wires are visible along the street.\n- fence: A fence is visible on the left side of the image, near the sidewalk.\n- traffic sign: A traffic sign is visible on the left side of the street, near the sidewalk."
+}

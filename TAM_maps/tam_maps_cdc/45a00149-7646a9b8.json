@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/45a00149-7646a9b8.jpg",
+  "generated_text": "- road: The image shows a multi-lane highway with visible lane markings and vehicles driving on it.\n- vegetation: Trees and greenery are visible along the sides of the road and in the background.\n- terrain: Grass areas are visible on the sides of the road and in the background.\n- sky: The sky is visible above the road and trees, showing clouds and blue sky.\n- car: Multiple cars and SUVs are visible on the road, including a black SUV directly in front.\n- traffic sign: Green overhead highway signs are visible above the road.\n- pole: Streetlights and sign poles are visible along the road.\n- building: A building is visible in the distance on the right side of the road."
+}

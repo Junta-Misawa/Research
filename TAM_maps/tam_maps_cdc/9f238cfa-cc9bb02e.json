@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/9f238cfa-cc9bb02e.jpg",
+  "generated_text": "- road: The image shows a multi-lane road with visible lane markings and vehicles driving on it.\n- vegetation: There are numerous trees and greenery visible along the sides of the road.\n- terrain: There is grass and dirt visible on the roadside embankment.\n- sky: The upper portion of the image shows a clear blue sky.\n- car: Multiple cars, including SUVs and sedans, are visible on the road.\n- pole: Several poles are visible, including those supporting streetlights and traffic signs.\n- traffic sign: A yellow \"EXIT 30\" sign and green highway signs are visible.\n- fence: A fence is visible along the left side of the road."
+}

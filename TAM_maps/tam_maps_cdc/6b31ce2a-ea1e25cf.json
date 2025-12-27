@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/6b31ce2a-ea1e25cf.jpg",
+  "generated_text": "- road: The image shows a paved road with visible lane markings and vehicles driving on it.\n- vegetation: There are trees and greenery visible along the side of the road.\n- terrain: Grass and other ground vegetation are visible along the roadside.\n- sky: The sky is visible above the trees and buildings.\n- car: Multiple cars, including a red sedan and a red SUV, are visible on the road.\n- pole: A tall, thin pole is visible on the left side of the image.\n- fence: A fence is visible along the side of the road, near the stone wall.\n- wall: A stone wall is visible on the right side of the road.\n- building: A building with a stone facade is visible on the right side of the road."
+}

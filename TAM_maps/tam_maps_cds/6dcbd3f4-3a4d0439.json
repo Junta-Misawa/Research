@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/6dcbd3f4-3a4d0439.jpg",
+  "generated_text": "- road: The image shows a street with visible lane markings and vehicles driving on it.\n- building: Structures with windows and walls are visible on both sides of the street.\n- pole: Vertical poles supporting traffic lights and signs are visible.\n- traffic light: Green traffic lights are visible above the road.\n- traffic sign: A directional sign indicating \"Right Turn\" is visible.\n- vegetation: Trees are visible along the sidewalk.\n- person: A person is visible walking on the sidewalk.\n- car: Several cars are visible on the road, including one directly in front of the viewpoint.\n- terrain: Patches of snow are visible on the ground, indicating terrain."
+}

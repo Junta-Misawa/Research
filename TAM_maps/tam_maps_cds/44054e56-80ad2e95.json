@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/44054e56-80ad2e95.jpg",
+  "generated_text": "- road: The image shows a paved street with visible lane markings and vehicles driving on it.\n- sidewalk: A pedestrian walkway is visible on the right side of the street, separated from the road by a curb.\n- building: Multiple multi-story buildings line both sides of the street, featuring commercial signs and storefronts.\n- sky: The upper portion of the image shows a clear sky with some clouds.\n- person: Several pedestrians are visible walking on the sidewalk on the right side of the street.\n- car: Several cars are visible on the road, including a yellow taxi and other sedans.\n- truck: A large white box truck is parked on the right side of the road.\n- motorcycle: A motorcycle is visible parked on the left side of the street."
+}

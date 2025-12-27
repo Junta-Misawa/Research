@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/stuttgart/stuttgart_000062_000019_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved road with visible lane markings, where cars are parked along the sides.\n- sidewalk: A sidewalk is visible on the left side of the road, bordered by a curb and vegetation.\n- vegetation: There is abundant vegetation, including trees and bushes, lining both sides of the road.\n- car: Multiple cars are parked along the right side of the road, and the vehicle from which the photo is taken is also a car.\n- pole: A vertical pole, likely for street lighting or signage, is visible on the left side of the road.\n- traffic sign: A traffic sign is visible on the left side of the road, mounted on a pole."
+}

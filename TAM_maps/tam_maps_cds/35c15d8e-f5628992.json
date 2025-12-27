@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/35c15d8e-f5628992.jpg",
+  "generated_text": "- road: The image shows a multi-lane highway with visible lane markings, which is a type of road.\n- vegetation: There are numerous trees with bare branches visible along both sides of the road, indicating vegetation.\n- sky: The upper portion of the image shows an overcast sky without tree leaves.\n- traffic sign: Green highway directional signs are visible overhead, indicating exits and destinations.\n- car: A white car is visible ahead in the right lane, and other cars are visible in the distance.\n- pole: Several vertical poles supporting the traffic signs and streetlights are visible along the road.\n- fence: A fence-like structure is visible along the right shoulder of the road, separating the road from a snow-covered area."
+}

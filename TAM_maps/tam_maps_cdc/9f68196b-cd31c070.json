@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/9f68196b-cd31c070.jpg",
+  "generated_text": "- road: The paved surface where vehicles are driving and parked, including visible lane markings.\n- building: Multi-story residential buildings visible on the left side of the street.\n- vegetation: Trees with green and autumn-colored leaves lining the street.\n- sky: Clear blue sky visible above the trees and buildings.\n- car: Several passenger cars and SUVs parked along the street.\n- truck: A large white delivery truck (USPS) parked on the right side of the street.\n- fence: Chain-link fence visible behind parked cars on the left side of the street."
+}

@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/strasbourg/strasbourg_000000_027233_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved surface with visible lane markings, which is characteristic of a road.\n- sidewalk: A pedestrian area is visible on the left side of the road, adjacent to parked cars and buildings, indicating a sidewalk.\n- building: A multi-story building is visible on the left side of the image, with windows and architectural features.\n- vegetation: Numerous trees with green leaves are present along the road, providing shade.\n- person: Two individuals are visible standing near a white car on the left side of the road.\n- car: Multiple cars are parked along both sides of the road, including a white car with its trunk open and several other vehicles.\n- motorcycle: A motorcycle is visible parked on the left side of the road, behind the white car with its trunk open."
+}

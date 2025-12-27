@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/4c9b2f94-42e0f78e.jpg",
+  "generated_text": "- road: The image shows a paved road with yellow lane markings and cars driving on it.\n- sidewalk: A sidewalk is visible on the right side of the road, where a person is walking.\n- building: Residential buildings are visible along both sides of the street.\n- vegetation: Trees are present along the street, lining both sides.\n- sky: The sky is visible above the trees and buildings.\n- person: A person is walking on the sidewalk on the right side of the road.\n- car: Multiple cars are parked along the street and some are driving on the road."
+}

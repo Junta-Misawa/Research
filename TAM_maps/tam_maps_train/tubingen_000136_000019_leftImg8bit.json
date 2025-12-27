@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/tubingen/tubingen_000136_000019_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved road surface with white lane markings, which is characteristic of a road.\n- vegetation: There is a dense hedge and trees visible in the background, which fall under the vegetation category.\n- car: A white van is visible on the road, which is classified as a car.\n- person: A person can be seen inside the driver's seat of the white van, indicating a person is present."
+}

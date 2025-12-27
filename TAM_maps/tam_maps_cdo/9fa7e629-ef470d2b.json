@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/9fa7e629-ef470d2b.jpg",
+  "generated_text": "- road: The image shows a multi-lane roadway with painted lane markings and vehicles driving on it.\n- vegetation: Trees are visible on the right side of the road.\n- sky: The sky is visible above the bridge and trees, appearing cloudy.\n- car: Multiple cars are visible on the road, including one directly in front of the camera and others in adjacent lanes.\n- pole: Several poles are visible, including those supporting streetlights and possibly signs along the road.\n- fence: A fence is visible along the right side of the road, running parallel to the concrete barrier.\n- building: The bridge structure, which includes architectural elements like towers and trusses, is visible in the background.\n- wall: The concrete barriers along the sides of the road are visible, acting as individual standing walls."
+}

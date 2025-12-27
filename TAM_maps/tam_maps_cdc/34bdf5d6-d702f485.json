@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/34bdf5d6-d702f485.jpg",
+  "generated_text": "- road: The image shows a multi-lane asphalt road with white lane markings, extending into the distance, which is characteristic of a road.\n- vegetation: Trees and greenery are visible along the sides of the road and in the background.\n- sky: The upper portion of the image shows a blue sky with scattered white clouds.\n- car: A white car is visible on the left side of the road, driving in the same direction.\n- pole: Several vertical poles, likely for traffic signs or lighting, are visible along the roadside.\n- traffic sign: A triangular traffic sign with a red border and black symbol (possibly a warning sign) is visible on the right side of the road.\n- rider: The image is taken from the perspective of a vehicle, implying a rider (driver) is operating the vehicle."
+}

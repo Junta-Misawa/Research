@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/0e946d23-8a9b41b7.jpg",
+  "generated_text": "- road: The image shows a multi-lane road with visible lane markings and a white directional arrow painted on the surface.\n- building: A building with a sign reading \"Yesterday's Restaurant\" is visible on the right side of the road.\n- vegetation: Trees and shrubs are visible along the roadside and near the building.\n- sky: The sky is visible above the trees and buildings, showing clouds and some sunlight.\n- car: Multiple cars are visible on the road, including a silver SUV directly ahead and other vehicles in adjacent lanes.\n- pole: Several utility poles with wires are visible along the road.\n- traffic sign: A blue and white informational sign is visible on the right side of the road.\n- traffic light: A red traffic light is visible ahead, indicating stop for traffic."
+}

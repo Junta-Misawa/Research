@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/04629c39-1d564d8a.jpg",
+  "generated_text": "- road: The wet surface with yellow lane markings and cars driving on it is clearly a road.\n- sidewalk: The paved area next to the road, separated by a curb, is a sidewalk.\n- building: Multiple buildings line the street, including one with a \"Dovre Club\" sign.\n- vegetation: Trees with green leaves are visible along the street.\n- sky: The overcast sky is visible above the buildings and trees.\n- car: Several cars are parked and driving on the road.\n- pole: Poles supporting traffic lights and signs are visible along the street.\n- traffic sign: A green street sign with \"Green Street\" is visible.\n- traffic light: A red traffic light is visible at an intersection ahead.\n- person: A person is visible walking on the sidewalk."
+}

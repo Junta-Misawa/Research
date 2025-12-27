@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/912e44a6-dc2d2079.jpg",
+  "generated_text": "- road: The image shows a paved surface with lane markings, which is clearly a road where vehicles are driving.\n- building: Several residential buildings are visible along the street, including brick houses with chimneys and porches.\n- vegetation: Bare trees are visible along the street, indicating vegetation.\n- sky: The clear blue sky is visible above the buildings and trees.\n- car: Multiple cars and SUVs are parked along the sides of the road and some are in motion on the road.\n- fence: A fence is visible on the right side of the road, behind the parked cars.\n- pole: A vertical pole is visible on the right side of the road, near the fence."
+}

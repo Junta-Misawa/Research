@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/24f4ab6d-81c4c57d.jpg",
+  "generated_text": "- road: The image shows a paved street with visible lane markings and debris scattered across it, indicating it is a road.\n- building: Multiple multi-story structures with windows and architectural features are visible along both sides of the street, which are buildings.\n- vegetation: Trees with green foliage are visible on the left side of the street, which are vegetation.\n- sky: A pale, overcast sky is visible above the buildings and street, which is sky.\n- car: Several passenger vehicles are parked along the sides of the street and one is visible in the foreground, which are cars.\n- truck: A large vehicle with a rear cargo area and visible taillights is driving ahead in the center of the road, which is a truck."
+}

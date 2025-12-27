@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/1f4b8e7d-82f7e836.jpg",
+  "generated_text": "- road: The image shows a paved road with visible lane markings and vehicles driving on it.\n- vegetation: There are numerous bare trees lining the road and on the snowy slopes, indicating vegetation.\n- sky: A portion of the sky is visible above the trees and the road, appearing overcast.\n- car: A black car is visible ahead on the road, driving in the same direction as the viewpoint.\n- person: A person can be seen sitting in the driver's seat of the black car ahead."
+}

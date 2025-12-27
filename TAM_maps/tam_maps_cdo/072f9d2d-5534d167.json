@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/072f9d2d-5534d167.jpg",
+  "generated_text": "- road: The image shows a multi-lane road with visible lane markings and vehicles driving on it.\n- building: Several tall buildings, including skyscrapers, are visible in the background and along the sides of the road.\n- vegetation: Trees are visible along the roadside and in the background.\n- sky: The sky is visible above the buildings and vehicles, appearing overcast.\n- car: Multiple cars, including sedans and SUVs, are visible on the road.\n- pole: Several poles, likely for streetlights or traffic signs, are visible along the road.\n- traffic sign: A green traffic sign is visible in the distance, mounted on a pole.\n- person: A person is visible standing on the sidewalk near the building on the right side of the image."
+}

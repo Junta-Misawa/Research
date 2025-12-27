@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/78a851f4-f0ae3dad.jpg",
+  "generated_text": "- road: The paved surface where cars are parked and driving, visible in front of and beside the cars.\n- sidewalk: The paved path next to the road, bordered by grass and trees, where pedestrians can walk.\n- building: The multi-story residential buildings with windows and porches visible on the right side of the image.\n- vegetation: The bare trees lining the street and the grassy areas.\n- terrain: The grassy areas along the sidewalk and between the buildings.\n- sky: The visible portion of the sky behind the trees, showing the sun setting.\n- person: A person standing next to the car on the left side of the image.\n- car: Multiple cars parked along the street, including the Acura in the foreground.\n- traffic sign: A yellow diamond-shaped traffic sign visible on a pole in the middle distance."
+}

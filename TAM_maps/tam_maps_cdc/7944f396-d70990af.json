@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/7944f396-d70990af.jpg",
+  "generated_text": "- road: The paved surface extending forward, marked with lane lines, is clearly visible as a road.\n- sidewalk: A pedestrian path bordered by curbs and trees is visible alongside the road, indicating a sidewalk.\n- building: Multi-story residential or commercial structures are visible in the background.\n- fence: A metal fence runs along the left side of the road.\n- pole: Several vertical poles, including streetlights, are visible along the road.\n- traffic sign: A circular traffic sign and a rectangular sign are visible on poles.\n- vegetation: Numerous trees and a dense hedge are visible along the roadside.\n- terrain: Some grassy areas are visible between the sidewalk and the road.\n- sky: The blue sky with clouds is visible above the trees and buildings.\n- car: A car is visible ahead on the road."
+}

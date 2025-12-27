@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/strasbourg/strasbourg_000001_002216_leftImg8bit.png",
+  "generated_text": "- building: The large stone structure with windows and doors in the background is a building.\n- sidewalk: The paved area with cobblestones where people are walking is a sidewalk, delimited from the road by curbs and poles.\n- person: Several individuals are visible walking or standing on the sidewalk.\n- car: A white compact car is parked on the cobblestone surface.\n- pole: A vertical pole with traffic signs is visible on the right side of the image.\n- traffic sign: A blue rectangular sign with white text indicating \"PLACE DE LA CATHÉDRALE\" is mounted on the pole.\n- bicycle: Several bicycles are parked on the right side of the image, next to the pole."
+}

@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/bremen/bremen_000024_000019_leftImg8bit.png",
+  "generated_text": "- road: The image shows a cobblestone street that serves as a road for vehicles, including the visible Mercedes-Benz hood.\n- sidewalk: There is a paved sidewalk running alongside the road, separated by a curb, and it is designated for pedestrians.\n- building: The image contains multiple buildings, including a large stone building on the left and a white building with a \"NOTEN\" sign on the right.\n- vegetation: There is a small potted plant with flowers on the sidewalk near the white building.\n- car: A black car is visible parked on the road in the distance.\n- person: A person is partially visible inside the black car, sitting in the driver's seat."
+}

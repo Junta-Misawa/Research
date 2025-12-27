@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/af59aee0-759730e7.jpg",
+  "generated_text": "- road: The image shows a paved road with visible lane markings and vehicles driving on it.\n- building: A Shell gas station building and adjacent structures are visible in the background.\n- vegetation: Trees and shrubs are visible around the gas station and along the roadside.\n- sky: The sky is visible above the trees and buildings, appearing overcast.\n- car: Several cars are visible, including one in the foreground and others at the gas station and on the road.\n- truck: A flatbed truck is visible on the road, carrying materials.\n- pole: Traffic light poles and street signs are visible.\n- traffic light: Traffic lights are visible at the intersection.\n- traffic sign: A street sign reading \"Hickey Blvd\" is visible.\n- terrain: Grass and dirt areas are visible around the gas station and along the roadside."
+}

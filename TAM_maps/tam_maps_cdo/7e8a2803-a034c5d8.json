@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/7e8a2803-a034c5d8.jpg",
+  "generated_text": "- road: The image shows a multi-lane asphalt road with lane markings, extending into the distance under an overpass.\n- vegetation: Trees are visible on both sides of the road, particularly on the right side and in the background.\n- sky: The sky is visible above the overpass and trees, showing clouds.\n- traffic sign: A green highway sign indicating \"WEST 25 Northern Blvd\" is clearly visible above the road.\n- pole: Several poles are visible, including those supporting the overpass and the traffic sign.\n- car: A car is visible in the distance on the right side of the road."
+}

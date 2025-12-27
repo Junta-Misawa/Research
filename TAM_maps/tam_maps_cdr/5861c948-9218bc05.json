@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/5861c948-9218bc05.jpg",
+  "generated_text": "- road: The image shows a paved highway with lane markings, which is a type of road.\n- vegetation: Trees and bushes are visible along the sides of the road.\n- terrain: Grass is visible along the roadside and in the background.\n- sky: The sky is visible above the road and trees, appearing overcast.\n- car: Several cars are visible on the road, including one directly ahead and others in the distance.\n- truck: A large truck with a trailer is visible ahead on the road.\n- traffic sign: A traffic sign is visible above the road ahead."
+}

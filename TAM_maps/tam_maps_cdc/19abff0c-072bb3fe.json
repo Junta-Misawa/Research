@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/19abff0c-072bb3fe.jpg",
+  "generated_text": "- road: The image shows a multi-lane highway with visible lane markings, which is a type of road.\n- vegetation: Trees are visible on both sides of the road, indicating the presence of vegetation.\n- sky: The upper portion of the image shows a clear blue sky with some clouds.\n- car: Several cars are visible on the road, including a black SUV directly ahead and other vehicles in adjacent lanes.\n- truck: A white semi-truck is visible on the left side of the road.\n- traffic sign: A yellow rectangular sign reading \"HEAVY MERGE AHEAD KEEP LEFT\" is visible overhead.\n- pole: Several poles are visible, including the ones supporting the traffic sign and streetlights.\n- wall: A concrete wall runs along the left side of the road.\n- fence: A metal fence is visible along the right side of the road."
+}

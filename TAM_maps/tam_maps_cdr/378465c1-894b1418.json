@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/378465c1-894b1418.jpg",
+  "generated_text": "- road: The image shows a wet, dark surface with visible lane markings and the reflection of lights, consistent with a road.\n- car: A vehicle with illuminated red taillights is visible ahead, indicating a car.\n- person: A faint, illuminated figure is visible on the left side of the road, consistent with a person.\n- vegetation: Faint, illuminated shapes on the left side of the road suggest vegetation.\n- terrain: The dark, wet ground visible on the left side of the road, possibly with some texture, suggests terrain."
+}

@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/9eb5163f-701f3217.jpg",
+  "generated_text": "- road: The image shows a multi-lane paved road with visible lane markings and curbs, which is designated for vehicle traffic.\n- building: Several multi-story buildings are visible in the background, along the side of the road.\n- vegetation: Trees and bushes are visible along the roadside and in the background.\n- sky: The upper portion of the image shows a clear blue sky with scattered clouds.\n- car: Multiple cars are visible on the road, including a white sedan directly ahead and a dark-colored car further ahead.\n- truck: A pickup truck is visible on the far left side of the road.\n- pole: Several vertical poles, likely for streetlights or signs, are visible along the road.\n- traffic sign: A yellow traffic sign is visible on the right side of the road."
+}

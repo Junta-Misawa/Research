@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/7c0dbcb7-84b4dcfe.jpg",
+  "generated_text": "- road: The image shows a paved surface with lane markings and vehicles driving on it.\n- sidewalk: Pedestrian areas are visible along the sides of the road, separated by curbs.\n- building: Multiple buildings are visible along both sides of the street.\n- vegetation: Trees are visible on the right side of the street.\n- sky: The sky is visible above the buildings and trees, with clouds.\n- person: Several pedestrians are visible walking on the sidewalks.\n- car: Several cars and an SUV are visible on the road.\n- bus: A public transit bus is visible in the middle of the road.\n- pole: Traffic light poles and other utility poles are visible.\n- traffic light: Traffic lights are visible at intersections.\n- traffic sign: Traffic signs are visible on poles along the street."
+}

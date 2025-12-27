@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/5ce2bd49-980d24d9.jpg",
+  "generated_text": "- road: The image shows a paved street with visible lane markings and vehicles driving on it.\n- building: Tall multi-story residential and commercial buildings line the street.\n- vegetation: Bare trees are visible along the street and in the background.\n- sky: Clear blue sky is visible above the buildings and trees.\n- person: A person wearing a red jacket is visible riding a bicycle on the street.\n- rider: The person on the bicycle is classified as a rider.\n- car: Multiple cars, including a silver SUV on the right and a yellow taxi ahead, are visible.\n- bus: A white bus is visible driving ahead in the street.\n- motorcycle: A motorcycle is visible parked on the left side of the street.\n- bicycle: A bicycle is visible being ridden by a person on the street."
+}

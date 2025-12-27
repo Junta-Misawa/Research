@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/bochum/bochum_000000_003005_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved road with lane markings extending into the distance.\n- sidewalk: A sidewalk is visible along the right side of the road, adjacent to the building.\n- building: A brick building with large garage doors is visible on the right side of the image.\n- vegetation: Trees and bushes are visible along the road and near the building.\n- traffic light: A traffic light is visible on a pole on the left side of the road.\n- traffic sign: A blue circular traffic sign with a white arrow pointing right is visible on a pole.\n- car: A red car is visible on the left side of the road, and an orange van is visible further down the road.\n- pole: Several poles are visible in the image, including those holding traffic lights and signs."
+}

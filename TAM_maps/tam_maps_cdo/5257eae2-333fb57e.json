@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/5257eae2-333fb57e.jpg",
+  "generated_text": "- road: The image shows a paved surface with lane markings, which is used for driving cars.\n- sidewalk: A pedestrian walkway is visible on the right side of the road, separated by a curb.\n- building: Multiple structures with windows and commercial signs are visible along the street.\n- pole: A vertical pole with graffiti and signs is present on the sidewalk.\n- traffic light: Red traffic lights are visible above the street.\n- vegetation: Trees are visible along the sidewalk and street.\n- sky: The sky is visible above the buildings and trees.\n- car: A black car is parked on the side of the road.\n- truck: A white truck with a refrigerated trailer is visible on the left side of the road.\n- person: A person is visible walking on the sidewalk in the background."
+}

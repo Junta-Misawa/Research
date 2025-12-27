@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/val/frankfurt/frankfurt_000001_051737_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved road with white lane markings and arrows, extending into the distance.\n- sidewalk: Pedestrians are walking on a paved area adjacent to the road, separated by a curb, which is a sidewalk.\n- building: Large stone buildings with windows are visible on both sides of the street.\n- pole: Vertical poles supporting traffic lights and signs are present.\n- traffic light: A red traffic light is visible at the intersection.\n- traffic sign: Several traffic signs, including a yield sign and directional signs, are visible.\n- vegetation: Trees are visible along the street.\n- person: Multiple pedestrians are visible on the sidewalk.\n- car: A black SUV is visible on the road.\n- motorcycle: No motorcycle is visible in the image."
+}

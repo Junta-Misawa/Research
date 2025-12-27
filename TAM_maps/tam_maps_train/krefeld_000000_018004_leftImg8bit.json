@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/krefeld/krefeld_000000_018004_leftImg8bit.png",
+  "generated_text": "- road: The paved surface with visible markings and parked cars on both sides indicates a road.\n- sidewalk: Pedestrian areas on both sides of the road, separated by curbs and poles, are visible.\n- building: Commercial buildings with storefronts and signs line both sides of the street.\n- vegetation: Hanging flower baskets and potted plants are visible along the sidewalk.\n- sky: A bright, overcast sky is visible above the buildings.\n- person: Pedestrians are visible walking on the sidewalk.\n- car: Multiple cars are parked along both sides of the street.\n- pole: Vertical poles supporting the awnings and signs are visible.\n- traffic sign: Blue parking signs (P) and other traffic signs are visible on poles.\n- terrain: A small patch of grass is visible near the sidewalk on the left side."
+}

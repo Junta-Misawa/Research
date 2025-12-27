@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/strasbourg/strasbourg_000000_034387_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved surface with white lane markings, which is characteristic of a road.\n- sidewalk: There is a paved area adjacent to the road, separated by a curb, where pedestrians are walking, indicating a sidewalk.\n- building: Multiple buildings with windows and architectural features are visible in the image.\n- pole: A vertical pole with a traffic sign attached is visible on the right side of the image.\n- traffic sign: A circular \"No Parking\" sign is mounted on the pole on the right side of the image.\n- person: Several individuals are visible walking on the sidewalk.\n- car: The front part of a car, including the hood and the Mercedes-Benz emblem, is visible at the bottom of the image."
+}

@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/FDD/leftImg8bit/test_extra/web_012217_fogalbion4_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved surface with visible lane markings, which is characteristic of a road.\n- traffic light: Two green lights are visible hanging from a horizontal bar, which are clearly traffic lights.\n- car: A dark-colored vehicle, appearing to be an SUV or pickup truck, is visible on the right side of the road.\n- pole: Vertical structures supporting the traffic lights and signs are visible, which are poles.\n- traffic sign: A rectangular sign with an arrow pointing left is visible above the traffic lights, which is a traffic sign."
+}

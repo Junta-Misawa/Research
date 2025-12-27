@@ -1,0 +1,13 @@
+**/__pycache__/**
+
+.venv
+
+.vscode
+
+Dataset
+
+runs_seg
+
+TAM_visualizations
+
+Vis_Seg

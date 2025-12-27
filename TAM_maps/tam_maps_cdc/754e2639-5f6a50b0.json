@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/754e2639-5f6a50b0.jpg",
+  "generated_text": "- road: The image shows a multi-lane paved road with visible lane markings and vehicles driving on it.\n- vegetation: There are trees and bushes visible along the roadside and in the background.\n- terrain: Grass areas are visible alongside the road and in the background.\n- sky: The sky is visible above the road, with some clouds and electrical wires.\n- car: Multiple cars are visible on the road, including a black car on the left and a silver SUV ahead.\n- traffic sign: A yellow \"EXIT 35 MPH\" sign is visible on the left side of the road.\n- pole: Several poles are visible, including the one holding the traffic sign and others along the road.\n- building: A building structure with a blue roof is visible on the left side of the road, near the exit."
+}

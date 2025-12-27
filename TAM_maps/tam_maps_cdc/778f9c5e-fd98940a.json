@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/778f9c5e-fd98940a.jpg",
+  "generated_text": "- road: The surface on which the cars are parked and driving is the road.\n- sidewalk: The paved area next to the road where pedestrians are walking is the sidewalk.\n- building: Multiple residential buildings are visible on both sides of the street.\n- fence: A metal fence is visible on the right side of the image, separating the buildings from the street.\n- pole: Utility poles with wires are visible in the image.\n- traffic sign: A blue triangular traffic sign with a white arrow pointing down is visible.\n- vegetation: Trees and bushes are visible along the street and in front of the buildings.\n- sky: The sky is visible above the buildings and trees.\n- person: Several people are visible walking on the sidewalk.\n- car: Multiple cars are visible parked and driving on the road."
+}

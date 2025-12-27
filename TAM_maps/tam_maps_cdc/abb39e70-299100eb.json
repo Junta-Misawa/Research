@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/abb39e70-299100eb.jpg",
+  "generated_text": "- road: The image shows a paved surface with lane markings, clearly designated for vehicle traffic.\n- sidewalk: A curb separates the road from a pedestrian area on the left side.\n- building: Multiple multi-story structures with windows are visible along the street.\n- vegetation: Trees and hedges are present along the road and sidewalk.\n- sky: The upper portion of the image shows a blue sky with clouds.\n- car: Numerous cars are parked along both sides of the road, and some are in motion on the road.\n- pole: Several vertical poles, including traffic light poles and sign poles, are visible.\n- traffic sign: A white rectangular traffic sign with a black arrow is visible on the left side of the road.\n- traffic light: A red traffic light is visible on the left side of the road."
+}

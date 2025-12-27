@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/hamburg/hamburg_000000_021353_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved road with visible lane markings and vehicles driving on it.\n- sidewalk: A sidewalk is visible on the right side of the road, bordered by curbs and some poles.\n- vegetation: There are numerous trees and greenery lining both sides of the road.\n- traffic sign: Several traffic signs are visible, including a blue circular sign with a white arrow and a triangular warning sign.\n- traffic light: A traffic light is visible in the distance, mounted on a pole.\n- car: Multiple cars are parked or driving on the road, including a black car on the left and a silver car on the right.\n- truck: A white truck is visible in the distance, driving on the road.\n- person: A person can be seen standing near the sidewalk on the right side of the road."
+}

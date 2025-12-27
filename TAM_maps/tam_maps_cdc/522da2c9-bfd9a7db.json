@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/522da2c9-bfd9a7db.jpg",
+  "generated_text": "- road: The image shows a paved surface with lane markings and crosswalks, which is characteristic of a road.\n- building: Residential houses are visible in the background, which are types of buildings.\n- vegetation: Trees and bushes are present along the roadside and in front of the houses.\n- sky: The upper portion of the image shows a clear blue sky with some thin electrical wires.\n- car: Multiple cars are visible on the road, including a white sedan crossing the intersection and a dark gray sedan on the right side of the frame.\n- pole: Several utility poles and traffic light poles are visible throughout the scene.\n- traffic light: A traffic light is hanging above the intersection, showing red lights.\n- traffic sign: A speed limit sign indicating \"25\" is visible, as well as a green street sign indicating \"Hill St.\""
+}

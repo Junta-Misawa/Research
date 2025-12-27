@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/11773b3e-b7282c87.jpg",
+  "generated_text": "- road: The image shows a paved surface with lane markings, including a bicycle lane, on which cars are driving.\n- building: Multi-story structures with windows and balconies are visible on both sides of the street.\n- vegetation: Trees with green and flowering branches are present along the sidewalks and streets.\n- sky: The clear blue sky is visible above the buildings and trees.\n- person: A person is visible sitting inside the driver's seat of the black Volkswagen sedan.\n- car: Multiple cars are parked along the street and driving in the lanes.\n- pole: Several utility poles and street light poles are visible along the road.\n- traffic sign: A white bicycle symbol painted on the road surface indicates a bicycle lane.\n- fence: A white picket fence is visible on the right side of the image, behind parked cars."
+}

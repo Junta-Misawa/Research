@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/FZ/leftImg8bit/test/1508040913.0_frame_000464.png",
+  "generated_text": "- road: The image shows a multi-lane paved surface with lane markings, clearly designated for vehicle travel, which fits the definition of a road.\n- pole: Several tall, vertical poles supporting overhead electrical wires are visible along the road, fitting the definition of poles.\n- car: A dark-colored car is visible in the left lane, and another vehicle is visible further ahead in the distance, both fitting the definition of cars.\n- sky: The background above the road and poles is a uniform gray, indicating overcast conditions, which fits the definition of sky.\n- vegetation: Faint outlines of what appear to be trees or bushes are visible on the left side of the road, partially obscured by fog, fitting the definition of vegetation."
+}

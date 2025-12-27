@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/90ea4f91-6de4faa1.jpg",
+  "generated_text": "- road: The image shows a paved road with visible lane markings and snow on the sides, indicating it is a road.\n- sidewalk: There is a sidewalk visible along the edge of the road, separated by a curb or barrier.\n- building: Buildings are visible on both sides of the road, including commercial structures with signs.\n- fence: A fence runs along the side of the road, separating the sidewalk from the property.\n- pole: Several poles are visible, including utility poles and streetlight poles.\n- vegetation: Trees are visible along the road, mostly bare of leaves, indicating winter.\n- sky: The sky is visible above the trees and buildings, appearing overcast.\n- car: A car is visible in the distance on the road, and part of the vehicle from which the photo is taken is visible at the bottom."
+}

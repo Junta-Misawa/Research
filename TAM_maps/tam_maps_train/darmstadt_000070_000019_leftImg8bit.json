@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/darmstadt/darmstadt_000070_000019_leftImg8bit.png",
+  "generated_text": "- sidewalk: The image shows a paved pedestrian area with people walking, bordered by buildings and a curb, which is characteristic of a sidewalk.\n- building: Multiple buildings are visible along the street, including commercial storefronts and multi-story structures.\n- vegetation: Trees are clearly visible along the sidewalk and in the background.\n- sky: A portion of the sky is visible above the buildings and trees.\n- person: Several individuals are walking on the sidewalk, including a man in a grey jacket and a woman in a white coat.\n- car: A grey car is parked on the left side of the sidewalk.\n- pole: Several street lamps and sign poles are visible along the sidewalk.\n- traffic sign: A traffic sign is visible on a pole near the center of the image."
+}

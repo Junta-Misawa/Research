@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/FDD/leftImg8bit/test_extra/web_5402273377_00e789f3ce_leftImg8bit.png",
+  "generated_text": "- road: The image shows a multi-lane asphalt road with painted markings (yellow line and white dashed lines) extending into the fog, which is consistent with the definition of a road.\n- vegetation: Trees and bushes are visible on the right side of the road and in the background, partially obscured by fog, fitting the definition of vegetation.\n- pole: A tall, vertical pole (likely a streetlight pole) is visible on the left side of the road, and another similar pole is visible further ahead, both fitting the definition of a pole.\n- car: A dark-colored car is visible in the distance, driving on the road, which matches the definition of a car.\n- traffic sign: A small blue rectangular sign is visible on the left side of the road, mounted on a pole, which fits the definition of a traffic sign."
+}

@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/95ff4937-54310c60.jpg",
+  "generated_text": "- road: The image shows a wet street with cars parked along both sides and a visible lane for driving.\n- sidewalk: A sidewalk is visible on the right side of the road, adjacent to the buildings, with a curb separating it from the road.\n- building: Multi-story brick buildings are visible on both sides of the street.\n- vegetation: Trees with green leaves are visible along the street, especially on the left side.\n- sky: A portion of the sky is visible above the buildings, appearing overcast.\n- car: Multiple cars and SUVs are parked along both sides of the street and some are in motion on the road.\n- pole: Streetlights with poles are visible along the street, especially on the left side."
+}

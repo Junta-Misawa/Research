@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/0bc0b27e-b932a660.jpg",
+  "generated_text": "- road: The image shows a paved surface with visible parking space markings, which is characteristic of a road designated for vehicle parking.\n- building: A large, beige, rectangular structure with a flat roof is visible in the background, consistent with a building.\n- pole: Several vertical poles are visible, including one with lights at the top and another with a sign attached.\n- traffic sign: A red and white sign is mounted on a pole in the background.\n- sky: The upper portion of the image shows a clear blue sky with no clouds or obstructions.\n- person: A person is visible standing next to a black car on the right side of the image.\n- car: Multiple cars are parked in the lot, including sedans and SUVs, visible throughout the image."
+}

@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/012a9c41-edad898c.jpg",
+  "generated_text": "- road: The image shows a paved surface with white parking lines, which is characteristic of a road used for parking vehicles.\n- vegetation: There is a tree visible in the background, which qualifies as vegetation.\n- sky: The upper portion of the image shows the open sky with clouds, fitting the definition of sky.\n- car: Multiple cars are visible parked in the lot, including a black SUV, a black sedan, and a white SUV.\n- pole: Several vertical poles are visible, including one with a sign and another with a flag.\n- traffic sign: A red and white sign with the number \"505\" is visible on a pole, which is a traffic sign.\n- fence: A blue and yellow barrier fence is visible in the background, separating the parking area from other areas."
+}

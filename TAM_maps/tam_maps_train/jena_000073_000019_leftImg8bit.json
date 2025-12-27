@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/jena/jena_000073_000019_leftImg8bit.png",
+  "generated_text": "- road: The paved surface where vehicles are parked and driving, including visible lane markings.\n- sidewalk: The paved area on the left side of the road, bordered by curbs and buildings, intended for pedestrians.\n- building: Multiple multi-story structures line both sides of the street, with commercial signs and windows.\n- vegetation: A small potted plant with flowers is visible on the sidewalk near the building entrance.\n- sky: A portion of the sky is visible above the buildings, appearing partly cloudy.\n- person: A person wearing a dark coat is walking on the sidewalk on the left side of the street.\n- car: Several cars are parked along the right side of the street, including a red Volkswagen Golf and other vehicles."
+}

@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/jena/jena_000062_000019_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved surface with cars parked along its sides and a vehicle's hood in the foreground, indicating it is a road.\n- sidewalk: On the left side of the road, there is a paved area with pedestrians walking, separated from the road by a curb.\n- building: Multiple multi-story residential buildings with balconies and windows line the street on both sides.\n- wall: A graffiti-covered wall is visible on the left side of the sidewalk.\n- vegetation: Trees with green leaves are present along the right side of the street.\n- person: Several people are visible walking on the sidewalk on the left side of the road.\n- car: Multiple cars are parked along the right side of the road, and one car is visible driving ahead in the center of the road."
+}

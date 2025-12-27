@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/val/lindau/lindau_000018_000019_leftImg8bit.png",
+  "generated_text": "- road: The cobblestone surface extending forward from the viewpoint, with the Mercedes-Benz emblem visible, indicates a road.\n- sidewalk: The paved area on the left side, bordered by curbs and featuring outdoor seating and trees, is a sidewalk.\n- building: Multiple multi-story structures with windows and doors are visible along the street, qualifying as buildings.\n- vegetation: Trees with green leaves and flowering bushes are present, especially on the right side and near the sidewalk.\n- person: A person is visible sitting at an outdoor table on the left side of the image.\n- car: The Mercedes-Benz emblem on the hood indicates the presence of a car."
+}

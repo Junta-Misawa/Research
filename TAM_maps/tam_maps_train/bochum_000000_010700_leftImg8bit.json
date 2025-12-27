@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/bochum/bochum_000000_010700_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved road with white lane markings and a curved section, indicating it is a road.\n- sidewalk: A sidewalk is visible along the edge of the road, separated by a curb and some vegetation.\n- building: There are multiple buildings visible, including a red building with commercial signage and a gray building.\n- vegetation: Trees are visible along the sidewalk and near the buildings.\n- traffic sign: Several traffic signs are visible, including directional signs and a \"P\" parking sign.\n- car: A black car is visible on the road, and a red car is parked on the right side of the road.\n- pole: Poles are visible supporting traffic signs and possibly traffic lights.\n- person: A person is visible standing near the sidewalk on the right side of the image."
+}

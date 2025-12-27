@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/9195066c-31518c7b.jpg",
+  "generated_text": "- road: The image shows a wet street with visible lane markings and reflections, indicating it is a road.\n- building: There are multiple buildings visible in the background, including a large structure with a GEICO sign.\n- vegetation: Bare trees are visible along the sides of the road and in the background.\n- sky: The sky is visible above the buildings and trees, appearing overcast.\n- car: Several cars are visible on the road, including a white car, a black car, and a red SUV.\n- pole: Multiple poles are visible, including streetlights and traffic sign poles.\n- traffic sign: A yellow diamond-shaped warning sign and a rectangular sign with an arrow are visible.\n- traffic light: A traffic light is visible on the right side of the image, showing a green light."
+}

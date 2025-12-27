@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/strasbourg/strasbourg_000000_019050_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved surface with white lane markings, which is characteristic of a road.\n- sidewalk: A raised curb separates the road from the pedestrian area on the left side of the image, indicating a sidewalk.\n- building: Multiple multi-story structures with windows and doors are visible along the street, which are buildings.\n- car: A black car is parked on the left side of the road, and a silver car is parked on the right side.\n- traffic sign: A blue and white traffic sign indicating a parking restriction or direction is visible on the right side of the road."
+}

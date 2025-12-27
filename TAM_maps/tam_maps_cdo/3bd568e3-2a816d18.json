@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/3bd568e3-2a816d18.jpg",
+  "generated_text": "- road: The image shows a paved surface with visible lane markings and a curb, which is characteristic of a road.\n- vegetation: There are numerous trees and greenery visible along the roadside and in the background.\n- terrain: Grass is visible on the roadside and in the background, forming part of the landscape.\n- sky: A portion of the sky is visible above the trees and the bridge structure.\n- car: A black SUV is visible ahead on the road.\n- pole: A tall, vertical pole is visible on the right side of the image, likely a utility pole.\n- traffic sign: A small, rectangular traffic sign is visible on the back of the black SUV."
+}

@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/NighttimeDrivingTest/leftImg8bit/test/night/0_frame_1127_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved surface with lane markings and tram tracks, which is characteristic of a road.\n- building: Multiple multi-story structures with windows and architectural features are visible along both sides of the street.\n- pole: A vertical pole with a traffic sign attached is visible on the right side of the image.\n- traffic sign: A traffic sign is mounted on the pole on the right side of the image.\n- car: A white van is parked on the right side of the street.\n- sky: The dark area above the street and buildings, with a visible streetlight flare, indicates the presence of the sky.\n- vegetation: A dark, indistinct shape resembling a tree or bush is visible near the parked van on the right side."
+}

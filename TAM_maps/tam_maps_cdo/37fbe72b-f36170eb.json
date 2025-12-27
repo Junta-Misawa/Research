@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/37fbe72b-f36170eb.jpg",
+  "generated_text": "- road: The paved surface on which vehicles are driving and parked.\n- sidewalk: The paved area beside the road where a person is walking.\n- building: Multi-story residential buildings lining the street.\n- pole: Utility poles with wires running along the street.\n- traffic sign: A red octagonal \"STOP\" sign visible on a pole.\n- vegetation: Trees and shrubs visible along the street and in front of buildings.\n- sky: Overcast sky visible above the buildings and wires.\n- person: A man walking on the sidewalk while looking at his phone.\n- car: Multiple cars parked and driving on the street, including a silver sedan and an SUV.\n- truck: A large gray pickup truck partially visible on the right side of the image."
+}

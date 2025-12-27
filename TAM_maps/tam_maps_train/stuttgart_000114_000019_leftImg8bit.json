@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/stuttgart/stuttgart_000114_000019_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved road with white lane markings, indicating it is a road for vehicle traffic.\n- vegetation: There are numerous trees and green foliage visible along the sides of the road and in the background.\n- car: Multiple cars are parked along the side of the road and some are driving on the road.\n- building: A portion of a building with a light-colored facade is visible on the right side of the image.\n- traffic sign: A blue traffic sign with a white symbol (possibly indicating a pedestrian crossing or a specific traffic rule) is visible in the background, attached to a pole."
+}

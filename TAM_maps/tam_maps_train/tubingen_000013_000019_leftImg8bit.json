@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/tubingen/tubingen_000013_000019_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved road with visible tire marks and parked cars along its edges.\n- vegetation: There are numerous trees and dense green foliage lining both sides of the road.\n- car: Multiple cars are parked along the roadside, including a silver hatchback and a black sedan.\n- motorcycle: A black motorcycle is parked on the right side of the road, near the silver car.\n- person: A person is visible riding a motorcycle in the middle distance, on the right side of the road."
+}

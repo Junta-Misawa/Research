@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/FDD/leftImg8bit/test_extra/web_9443635508_ccb844c48d_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved surface with visible lane markings, which is characteristic of a road.\n- vegetation: Faint outlines of trees and bushes are visible through the fog, especially on the left side and top right corner.\n- car: A red car is visible on the left side of the road, identifiable by its shape and rear lights.\n- bus: A large white vehicle with the characteristic shape and headlights of a bus is visible on the right side of the road.\n- terrain: Grass is visible along the right edge of the road, indicating a terrain area."
+}

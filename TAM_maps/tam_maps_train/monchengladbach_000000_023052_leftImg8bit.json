@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/monchengladbach/monchengladbach_000000_023052_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved road with lane markings extending into the distance.\n- sidewalk: A sidewalk is visible on the right side of the road, adjacent to the curb.\n- building: Buildings are visible in the background on both sides of the road.\n- vegetation: Trees and bushes are visible along the roadside and in the background.\n- sky: A portion of the sky is visible above the trees and buildings.\n- car: A white car is visible driving on the road.\n- pole: Poles are visible along the road, supporting signs and possibly traffic lights.\n- traffic sign: A traffic sign indicating a speed limit of 40 is visible on the left side of the road.\n- fence: A fence is visible along the left side of the road, separating the road from a wooded area."
+}

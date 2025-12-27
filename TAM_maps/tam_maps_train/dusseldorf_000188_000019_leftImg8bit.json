@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/dusseldorf/dusseldorf_000188_000019_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved street with cars parked on both sides and a visible lane marking, which is characteristic of a road.\n- sidewalk: A sidewalk is visible along the left side of the road, separated from the road by a curb.\n- building: Multiple residential buildings are visible along both sides of the street.\n- vegetation: Trees are present along both sides of the street.\n- sky: A portion of the sky is visible above the buildings.\n- car: Several cars are parked along both sides of the street.\n- truck: A truck with a blue tarp-covered cargo area is parked on the right side of the street."
+}

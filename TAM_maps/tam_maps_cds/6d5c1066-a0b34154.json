@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/6d5c1066-a0b34154.jpg",
+  "generated_text": "- road: The image shows a multi-lane road with visible lane markings and vehicles driving on it.\n- fence: A chain-link fence is visible running along the side of the road.\n- pole: Several vertical poles, including streetlights, are visible along the road.\n- vegetation: Numerous trees and bushes are visible along the roadside and in the background.\n- terrain: Grass and soil are visible along the roadside and behind the fence.\n- sky: The clear blue sky is visible above the trees and road.\n- car: Multiple cars are visible on the road, including a white sedan in the foreground.\n- bus: A bus is visible in the distance on the right side of the road.\n- person: A person is visible standing near the bus stop area on the right side of the road."
+}

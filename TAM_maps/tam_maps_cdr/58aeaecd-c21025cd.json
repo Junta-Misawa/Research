@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/58aeaecd-c21025cd.jpg",
+  "generated_text": "- road: The wet surface with visible lane markings and vehicles driving on it.\n- building: Tall structures with windows and fire escapes lining the street.\n- pole: Vertical poles supporting traffic lights and signs.\n- traffic light: Red lights visible at the intersection.\n- traffic sign: A \"No U-Turn\" sign is visible.\n- person: Pedestrians can be seen walking on the sidewalk.\n- car: A black Toyota Camry is directly in front, and other cars are visible.\n- truck: A large white truck is on the right side of the image.\n- sky: The overcast sky is visible above the buildings.\n- vegetation: No vegetation is visibly present."
+}

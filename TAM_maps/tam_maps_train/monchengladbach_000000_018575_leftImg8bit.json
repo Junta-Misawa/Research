@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/monchengladbach/monchengladbach_000000_018575_leftImg8bit.png",
+  "generated_text": "- road: The paved surface in the center of the image, extending from the foreground to the background, is a road.\n- sidewalk: The paved areas on both sides of the road, where pedestrians are walking and sitting, are sidewalks.\n- building: Multiple buildings are visible along the street, including commercial establishments and residential structures.\n- vegetation: Trees and bushes are visible along the sidewalks and in the background.\n- sky: The sky is visible above the buildings and trees, appearing mostly clear.\n- person: Several people are visible walking on the sidewalks and sitting at outdoor tables.\n- car: The front of a car, including the Mercedes-Benz emblem, is visible in the foreground."
+}

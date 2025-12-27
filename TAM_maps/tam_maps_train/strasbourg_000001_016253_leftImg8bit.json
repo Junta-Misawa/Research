@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/strasbourg/strasbourg_000001_016253_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved surface with lane markings, typical of a road.\n- sidewalk: There are pedestrian areas bordered by poles and trees, indicating sidewalks.\n- building: Structures with windows and architectural features are visible in the background.\n- fence: A metal fence is visible behind the trees and near the buildings.\n- pole: Several vertical poles are present along the sidewalk and road.\n- vegetation: Numerous trees and some bushes are visible throughout the scene.\n- terrain: Grass patches and soil areas are visible along the sidewalk and between trees.\n- person: Several individuals are visible walking or sitting on benches.\n- bicycle: A bicycle is parked on the sidewalk near the center of the image."
+}

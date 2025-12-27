@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/val/munster/munster_000017_000019_leftImg8bit.png",
+  "generated_text": "- road: The paved surface in the center of the image, where vehicles are driving, is the road.\n- sidewalk: The paved areas on both sides of the road, separated from the road by curbs, are sidewalks.\n- building: Multiple multi-story residential buildings are visible along both sides of the street.\n- vegetation: Numerous trees with green leaves are present along the street and in front of the buildings.\n- person: A person is visible riding a bicycle in the middle of the road.\n- rider: The person riding the bicycle is a rider.\n- car: Multiple cars are parked along both sides of the road.\n- motorcycle: A motorcycle is parked on the sidewalk near the center of the image.\n- bicycle: A bicycle is being ridden by a person in the middle of the road."
+}

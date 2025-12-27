@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/strasbourg/strasbourg_000001_061472_leftImg8bit.png",
+  "generated_text": "- road: The road surface with white markings, including \"ZONE 30\", is visible.\n- sidewalk: The sidewalk is visible on the right side of the image, where a person with a suitcase is walking.\n- building: The brick building on the left and the beige building on the right are both visible.\n- wall: The brick wall on the left side of the image is visible.\n- person: Several people are visible, including soldiers in camouflage uniforms and a person with a backpack and suitcase.\n- car: The hood of a car with a Mercedes-Benz emblem is visible at the bottom of the image.\n- traffic sign: A blue traffic sign with white text reading \"QUAI TURCKHEIM\" is visible on the brick wall."
+}

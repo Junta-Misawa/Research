@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/02504d95-8ede0c80.jpg",
+  "generated_text": "- road: The image shows a multi-lane paved road with white lane markings, which is the surface on which cars are driving.\n- building: A large brick building is visible on the right side of the road.\n- vegetation: Trees with bare branches are visible along the sides of the road and near the building.\n- sky: The sky is visible above the road and buildings, showing a gradient of colors typical of dusk or dawn.\n- car: Multiple cars are visible on the road, including a black SUV in the left lane and a white SUV ahead.\n- pole: Streetlight poles are visible along the road, especially on the right side.\n- traffic sign: Green highway signs indicating directions or exits are visible overhead in the distance."
+}

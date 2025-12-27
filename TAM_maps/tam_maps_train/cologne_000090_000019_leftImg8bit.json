@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/cologne/cologne_000090_000019_leftImg8bit.png",
+  "generated_text": "- road: The paved surface extending through the image, flanked by parked cars and trees, is clearly a road.\n- sidewalk: The paved areas adjacent to the road, separated by curbs and lined with parked cars, are sidewalks.\n- building: Multiple multi-story residential buildings are visible along both sides of the street.\n- vegetation: Several trees with green foliage are present along the street.\n- person: A person is visible riding a bicycle in the middle of the road.\n- rider: The person riding the bicycle qualifies as a rider.\n- car: Numerous cars and SUVs are parked along both sides of the street.\n- bicycle: A bicycle is visible being ridden by the person in the middle of the road."
+}

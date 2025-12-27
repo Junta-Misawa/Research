@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/strasbourg/strasbourg_000001_001072_leftImg8bit.png",
+  "generated_text": "- road: The paved surface with visible lane markings and parked cars on the right side is clearly a road.\n- sidewalk: The paved area on the left side of the road, bordered by a curb and lined with buildings, is a sidewalk.\n- building: The structures with arched windows and storefronts on both sides of the street are buildings.\n- person: Two individuals are visible walking on the sidewalk on the left side of the street.\n- car: Several cars are parked along the right side of the road, including a black car in the foreground and a red car further down.\n- pole: Several poles, likely for streetlights or signs, are visible along the buildings on both sides of the street."
+}

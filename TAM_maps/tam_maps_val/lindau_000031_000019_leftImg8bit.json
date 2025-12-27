@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/val/lindau/lindau_000031_000019_leftImg8bit.png",
+  "generated_text": "- building: The image shows multiple buildings lining the street, including structures with windows, doors, and commercial signs.\n- wall: A large, light-colored wall is visible on the left side of the image, running along the edge of the cobblestone street.\n- vegetation: There are trees with visible trunks and foliage, as well as potted plants with flowers along the sidewalk on the right.\n- sidewalk: The cobblestone area on the right side, where outdoor seating and planters are located, is designated for pedestrians and is separated from the road by a curb.\n- truck: A white delivery truck with a box trailer is visible in the background, parked on the street.\n- bicycle: Several bicycles are parked against the wall on the left side of the image."
+}

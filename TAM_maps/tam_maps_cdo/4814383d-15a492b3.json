@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/4814383d-15a492b3.jpg",
+  "generated_text": "- road: The image shows a multi-lane roadway with visible lane markings, surrounded by guardrails and vehicles, indicating it is a road.\n- sky: The sky is visible through the gaps in the bridge structure, appearing as a light blue background with some clouds.\n- car: Multiple cars are visible on the road, including sedans and SUVs, such as the black BMW sedan in the right lane and a Jeep in the left lane.\n- building: A building is visible in the background through the bridge structure, appearing as a tall, rectangular structure with windows.\n- pole: A vertical pole with red and white stripes is visible on the left side of the image, likely a marker or signal pole."
+}

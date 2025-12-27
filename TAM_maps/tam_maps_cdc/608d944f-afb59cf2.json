@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/608d944f-afb59cf2.jpg",
+  "generated_text": "- road: The image shows a multi-lane highway with visible lane markings and vehicles driving on it.\n- vegetation: Trees are visible on the left side of the road and in the background.\n- sky: The sky is visible above the road and structures, showing blue with some clouds.\n- car: Multiple cars are visible on the road, including a white SUV, a silver sedan, and other vehicles.\n- truck: A white box truck is visible on the right side of the road.\n- traffic sign: An orange diamond-shaped traffic sign is visible on the left side of the road.\n- pole: Several poles are visible, including those supporting signs and overhead structures.\n- building: A building with a large billboard is visible on the left side of the road.\n- wall: A concrete barrier wall is visible along the left side of the road."
+}

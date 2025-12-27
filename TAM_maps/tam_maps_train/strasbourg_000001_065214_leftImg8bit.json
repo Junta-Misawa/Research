@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/strasbourg/strasbourg_000001_065214_leftImg8bit.png",
+  "generated_text": "- road: The image shows a wide asphalt surface with road markings, which is characteristic of a road.\n- sidewalk: There are pedestrian walkways adjacent to the buildings, clearly separated from the road by curbs.\n- building: Multiple multi-story buildings with windows, doors, and architectural details are visible along the street.\n- pole: Several poles are visible, including those holding traffic signs and traffic lights.\n- traffic light: A traffic light is visible at the intersection, mounted on a pole.\n- traffic sign: Various traffic signs, including directional and regulatory signs, are visible on poles.\n- car: A black car is parked on the right side of the street.\n- person: A person is visible standing near the parked car on the right side of the street."
+}

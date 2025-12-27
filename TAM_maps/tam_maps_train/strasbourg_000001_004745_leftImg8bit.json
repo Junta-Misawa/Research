@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/strasbourg/strasbourg_000001_004745_leftImg8bit.png",
+  "generated_text": "- road: The main surface for vehicle travel is visible, extending into the distance with lane markings.\n- sidewalk: A pedestrian path is visible along the buildings, separated from the road by curbs and poles.\n- building: Multiple buildings with distinct architectural features are visible along the street.\n- vegetation: Trees with green leaves are visible along the street and in the background.\n- person: Several individuals are visible walking on the sidewalk.\n- car: Several cars are visible parked or driving on the road.\n- traffic sign: A pedestrian crossing sign is visible mounted on a pole.\n- pole: Several poles are visible along the sidewalk and road.\n- fence: A metal fence is visible along the left side of the road."
+}

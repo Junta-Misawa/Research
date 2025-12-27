@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/64eb725a-810c7303.jpg",
+  "generated_text": "- road: The image shows a multi-lane roadway with white lane markings, typical of a bridge roadway.\n- building: Several buildings are visible in the background, especially on the right side of the image.\n- sky: The sky is visible above the bridge structure, appearing overcast.\n- car: Multiple cars are visible on the road, including a black SUV directly ahead and a white van further ahead.\n- fence: The bridge structure includes metal railings and fencing along the sides of the roadway."
+}

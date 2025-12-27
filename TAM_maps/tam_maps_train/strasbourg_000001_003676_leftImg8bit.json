@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/strasbourg/strasbourg_000001_003676_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved street with cars parked along its side and a visible road marking.\n- sidewalk: A sidewalk is visible along the left side of the road, adjacent to the building wall.\n- building: Buildings are clearly visible on both sides of the street, with windows and architectural details.\n- vegetation: Trees are visible in the background and along the street, providing greenery.\n- car: Several cars are parked along the right side of the road.\n- sky: A portion of the sky is visible through the trees and between the buildings at the top of the image."
+}

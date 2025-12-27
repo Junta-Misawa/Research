@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/dusseldorf/dusseldorf_000184_000019_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved surface with cars parked along both sides, indicating it is a road.\n- building: There are multi-story structures with windows and doors visible on both sides of the street, which are buildings.\n- vegetation: Trees are visible along the street, particularly in the middle and background, indicating vegetation.\n- car: Multiple cars are parked along both sides of the street, including sedans and a van.\n- traffic sign: A triangular traffic sign with an arrow pointing down is visible on the right side of the street.\n- pole: A black lamppost is visible on the right side of the street, and there are also poles supporting the traffic sign."
+}

@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/2db2ae94-89514b88.jpg",
+  "generated_text": "- road: The paved surface with white markings visible in the foreground is a road.\n- sidewalk: The paved area adjacent to the road, where pedestrians are walking, is a sidewalk.\n- fence: A chain-link fence with graffiti is visible along the property line.\n- pole: Vertical poles are visible, including one holding traffic signs and another utility pole.\n- traffic sign: Green street signs with white text are mounted on a pole.\n- vegetation: Trees and bushes are visible in the background and along the fence line.\n- sky: The sky is visible above the trees and buildings, appearing overcast.\n- person: Two individuals are visible walking on the sidewalk.\n- car: A brown SUV is parked on the right side of the road."
+}

@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/79105e65-a1c48df8.jpg",
+  "generated_text": "- road: The image shows a street with visible white crosswalk markings and a yellow line, indicating it is a road.\n- building: Buildings are visible in the background, though blurred, with architectural features like windows and brickwork.\n- pole: A vertical pole with a traffic light attached is visible in the background.\n- traffic light: A red traffic light is visible in the background, indicating it is active.\n- traffic sign: A green rectangular traffic sign is visible in the background.\n- vegetation: A tree with bare branches is visible in the background.\n- car: Several cars are visible in the background, including one directly ahead and others further down the road.\n- person: A person is visible standing near the traffic light in the background."
+}

@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/erfurt/erfurt_000106_000019_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved surface with visible lane markings, typical of a road where vehicles are driving.\n- building: Multiple multi-story structures with windows and architectural details are visible along the street.\n- vegetation: Trees with green foliage are present on both sides of the street.\n- sky: A portion of the sky is visible above the buildings and trees, appearing overcast.\n- person: A few indistinct figures can be seen in the distance on the sidewalk.\n- car: Several cars and vans are parked along the sides of the road, and a vehicle is visible in the foreground.\n- traffic sign: A circular traffic sign with a red border and blue center is visible on a pole in the distance."
+}

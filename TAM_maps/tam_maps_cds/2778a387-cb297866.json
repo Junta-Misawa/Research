@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/2778a387-cb297866.jpg",
+  "generated_text": "- sidewalk: The paved path where pedestrians are walking, separated from the road by a curb and a metal pole.\n- building: The stone structure with arched windows and a CVS pharmacy sign attached to it.\n- person: Multiple individuals are visible walking on the sidewalk, including one in a brown coat and another with a blue backpack.\n- pole: A metal pole with a circular sign is visible in the foreground, and another pole with a traffic sign is visible further back.\n- traffic sign: Several traffic signs are visible, including a \"BUSES & OTHER VEHICLES ONLY\" sign and a \"RAISE PLOW\" sign.\n- truck: A white truck with \"MG 14\" on its side is visible on the left side of the image.\n- car: The hood and windshield of a car are visible in the foreground, indicating the perspective is from inside a car."
+}

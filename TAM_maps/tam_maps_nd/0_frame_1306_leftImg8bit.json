@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/NighttimeDrivingTest/leftImg8bit/test/night/0_frame_1306_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved road with lane markings, which is the main surface for vehicle travel.\n- building: There are multiple buildings visible on both sides of the street, including residential and commercial structures.\n- sidewalk: A sidewalk is visible on the right side of the road, where pedestrians are walking.\n- person: Two individuals are visible walking on the sidewalk on the right side of the road.\n- car: A car with red taillights is visible ahead in the distance, driving on the road.\n- pole: Several streetlights with poles are visible along the road.\n- traffic sign: A traffic sign is visible on the right side of the road, near the sidewalk.\n- sky: The sky is visible above the buildings and streetlights, appearing dark due to nighttime conditions."
+}

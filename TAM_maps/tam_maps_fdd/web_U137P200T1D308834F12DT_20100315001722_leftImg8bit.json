@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/FDD/leftImg8bit/test_extra/web_U137P200T1D308834F12DT_20100315001722_leftImg8bit.png",
+  "generated_text": "- road: The image shows a multi-lane paved surface with visible lane markings, which is characteristic of a road.\n- pole: A vertical pole supporting traffic signs is clearly visible in the image.\n- traffic sign: Blue rectangular signs with white text and symbols are mounted on the pole, indicating directions or exits.\n- vegetation: Faint outlines of trees or bushes can be seen through the fog on the right side of the road.\n- sky: The upper portion of the image, above the road and signs, appears as a uniform grayish-white haze, consistent with an overcast or foggy sky.\n- car: A silver minivan is prominently visible in the foreground, and other vehicles are faintly visible further ahead.\n- truck: A large, boxy vehicle, likely a truck or trailer, is visible in the distance on the left side of the road."
+}

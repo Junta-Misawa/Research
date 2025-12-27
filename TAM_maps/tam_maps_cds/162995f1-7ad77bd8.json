@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/162995f1-7ad77bd8.jpg",
+  "generated_text": "- road: The image shows a multi-lane paved road with visible lane markings, which is the primary surface for vehicle travel.\n- vegetation: There are numerous trees and shrubs visible along the sides of the road, some bare and some with sparse foliage.\n- sky: The upper portion of the image shows a clear, open blue sky.\n- car: Several vehicles, including sedans and SUVs, are visible driving on the road.\n- pole: There are tall, curved streetlight poles visible along the roadside.\n- traffic sign: A rectangular traffic sign is visible on the right side of the road, mounted on a pole.\n- wall: A long, tan-colored wall, possibly made of concrete or stone, runs along the right side of the road."
+}

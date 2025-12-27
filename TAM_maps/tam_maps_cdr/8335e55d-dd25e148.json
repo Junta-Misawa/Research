@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/8335e55d-dd25e148.jpg",
+  "generated_text": "- road: The image shows a wet paved surface with white pedestrian crossing stripes, which is part of a road.\n- vegetation: There are multiple trees visible in the background, which are a form of vegetation.\n- sky: The upper portion of the image shows a cloudy sky.\n- person: A person wearing a backpack is walking across the road.\n- car: A black SUV is visible on the right side of the image.\n- traffic sign: A stop sign and a \"ONE WAY\" sign are visible on the right side of the image.\n- pole: A pole supporting the traffic signs is visible on the right side of the image.\n- fence: A fence is visible in the background, behind the person walking.\n- terrain: There is a strip of dry, brown vegetation (possibly grass or weeds) along the edge of the road."
+}

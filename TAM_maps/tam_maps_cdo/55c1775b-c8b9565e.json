@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/55c1775b-c8b9565e.jpg",
+  "generated_text": "- road: The image shows a multi-lane highway with lane markings, which is a type of road.\n- vegetation: There are trees and bushes visible along the roadside.\n- sky: The upper portion of the image shows the sky with clouds.\n- truck: A large white truck with \"FOOD AUTHORITY\" written on its side is visible on the left.\n- car: Several cars are visible on the road, including a black sedan directly ahead.\n- traffic sign: A green highway sign indicating \"J Robinson Pkwy\" and \"Union Take WEST\" is visible overhead.\n- pole: The poles supporting the overhead traffic sign are visible."
+}

@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/31b7487a-a01d6351.jpg",
+  "generated_text": "- road: The image shows a paved surface with vehicles driving on it, indicating a road.\n- sidewalk: A pedestrian path is visible on the right side of the road, separated by a curb.\n- building: Residential buildings are visible in the background on both sides of the street.\n- fence: A white fence is visible along the sidewalk on the right side.\n- pole: Utility poles are visible along the street.\n- vegetation: Trees are visible in the background and along the street.\n- sky: The sky is visible above the buildings and trees, appearing overcast.\n- car: Multiple cars are visible parked along the street and one is driving on the road.\n- truck: A red pickup truck is visible parked on the left side of the street."
+}

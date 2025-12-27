@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/2e54b87c-9e02b648.jpg",
+  "generated_text": "- road: The image shows a wet, snow-dusted surface with tire tracks, clearly indicating a road where vehicles are driving.\n- wall: The right side of the tunnel has a large, textured concrete wall, and the left side also has a wall structure.\n- fence: A metal fence is visible along the left side of the road, running parallel to the wall.\n- pole: Several red poles are placed along the left side of the road, likely as barriers or delineators.\n- car: A black SUV is visible directly ahead, driving on the road.\n- traffic sign: A blue rectangular traffic sign with white text is visible on the right side of the tunnel, mounted on a pole.\n- building: In the background, beyond the tunnel exit, a large structure with windows and architectural features is visible, which appears to be a building."
+}

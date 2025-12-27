@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/2da06241-2d792d67.jpg",
+  "generated_text": "- road: The image shows a multi-lane roadway with visible lane markings and vehicles driving on it.\n- building: A large building with a visible sign is present in the background.\n- vegetation: Trees are visible along the roadside and in the background.\n- sky: The sky is visible above the scene, showing clouds and blue sky.\n- car: Multiple cars, including a yellow taxi and a silver SUV, are visible on the road.\n- pole: Several poles are visible, including one with a traffic light and others supporting signs or lights.\n- traffic sign: An orange traffic sign is visible on the left side of the road.\n- wall: A concrete wall separates the lanes of traffic from the shoulder or adjacent area."
+}

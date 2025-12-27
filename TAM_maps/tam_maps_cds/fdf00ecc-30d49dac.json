@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/fdf00ecc-30d49dac.jpg",
+  "generated_text": "- road: The image shows a paved street with cars parked along both sides and a visible wet surface, indicating it is a road.\n- building: Multiple brick residential buildings line both sides of the street, clearly identifiable as buildings.\n- vegetation: Bare tree branches are visible on the left side of the street, indicating vegetation.\n- sky: The upper portion of the image shows a gray, overcast sky.\n- car: Numerous cars and SUVs are parked along the street and visible in the distance, including a black SUV in the foreground on the right.\n- fence: A low fence or barrier is visible behind the parked cars on the right side of the street."
+}

@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/4a9fd9e6-470b727b.jpg",
+  "generated_text": "- road: The image shows a snow-covered street with visible tire tracks, indicating it is a road used for driving.\n- building: Houses with visible roofs and walls are present on both sides of the street.\n- fence: A hedge fence runs along the right side of the street.\n- pole: Utility poles and traffic sign poles are visible along the street.\n- traffic sign: A green street sign reading \"120 St\" is visible on a pole.\n- vegetation: Bare trees are visible along the street and in the background.\n- sky: The sky is visible above the trees and buildings, appearing overcast and gray.\n- car: Several cars, including a bright green van, are parked along the street.\n- person: A person is visible walking on the sidewalk on the right side of the street."
+}

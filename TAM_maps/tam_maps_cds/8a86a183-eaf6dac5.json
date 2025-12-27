@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/8a86a183-eaf6dac5.jpg",
+  "generated_text": "- road: The wet, paved surface in the foreground and extending into the background, where vehicles are parked and driving, qualifies as a road.\n- building: A multi-story brick building is visible in the background, clearly identifiable as a building.\n- vegetation: Bare trees and some low-lying shrubs/hedges are visible in the background and along the roadside, fitting the definition of vegetation.\n- car: A black Mercedes-Benz Sprinter van is prominently visible in the image, which is a type of car.\n- truck: The black Mercedes-Benz Sprinter van is also classified as a truck due to its boxy shape and cargo-carrying design.\n- terrain: Patches of snow and possibly some grass or dirt are visible along the edges of the road and sidewalk, fitting the definition of terrain."
+}

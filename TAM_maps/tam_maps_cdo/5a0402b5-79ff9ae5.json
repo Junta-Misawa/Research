@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/5a0402b5-79ff9ae5.jpg",
+  "generated_text": "- road: The image shows a street with cars driving and parked along both sides, indicating it is a road.\n- building: Multi-story brick buildings line both sides of the street, fitting the definition of buildings.\n- vegetation: Trees are visible along the sidewalks and street, indicating the presence of vegetation.\n- sky: A portion of the sky is visible above the buildings, appearing as a light grayish area.\n- car: Multiple cars are visible parked along the street and one car is in the foreground, indicating the presence of cars.\n- person: A person can be seen standing on the sidewalk near the parked cars on the right side."
+}

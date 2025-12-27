@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/9b0e122c-3ead3b61.jpg",
+  "generated_text": "- road: The paved surface where vehicles are parked and driving, with snow and ice patches.\n- sidewalk: The snow-covered path next to the road, bordered by a fence and buildings.\n- building: Red brick residential buildings line both sides of the street.\n- fence: Black metal fence along the sidewalk in front of the buildings.\n- pole: Visible utility poles and wires above the street.\n- traffic sign: Yellow pedestrian crossing sign with \"WALK\" and \"DON'T WALK\" symbols.\n- vegetation: Bare trees without leaves lining the street.\n- sky: Visible blue sky with some clouds above the trees and buildings.\n- car: Multiple cars parked along the street, including the SUV in the foreground.\n- truck: White box truck parked on the right side of the street."
+}

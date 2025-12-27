@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/3e1a7d8e-d9194441.jpg",
+  "generated_text": "- road: The image shows a paved surface with lane markings, designed for vehicle traffic, consistent with a road.\n- sky: The upper portion of the image shows a cloudy sky without any visible trees or foliage.\n- vegetation: Trees are visible on the right side of the image, beyond the guardrail.\n- car: Multiple vehicles, including a black SUV in the foreground and other cars ahead, are visible on the road.\n- pole: Several vertical poles, likely for lighting or signage, are visible along the roadway and bridge structure.\n- traffic sign: A large overhead highway sign is visible in the distance above the road."
+}

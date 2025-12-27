@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/1a3a8552-293f6a45.jpg",
+  "generated_text": "- road: The image shows a paved street with cars parked and driving, including road markings.\n- sidewalk: A pedestrian walkway is visible on the right side of the road, separated by a curb.\n- building: Multiple multi-story buildings line both sides of the street.\n- vegetation: Numerous trees with green leaves are visible along the street.\n- sky: A portion of the sky is visible above the trees and buildings.\n- person: Several pedestrians are visible walking on the sidewalk.\n- car: Multiple cars are parked along the street and some are in motion.\n- truck: A delivery truck is visible on the right side of the street.\n- traffic sign: A traffic sign is visible on the left side of the street."
+}

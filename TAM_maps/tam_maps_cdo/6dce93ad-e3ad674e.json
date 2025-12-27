@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/6dce93ad-e3ad674e.jpg",
+  "generated_text": "- road: The image shows a paved surface with lane markings, which is clearly a road.\n- building: Multiple buildings are visible along the street, including one with scaffolding.\n- vegetation: Trees are visible along the sidewalk and street.\n- sky: A portion of the sky is visible above the buildings.\n- traffic light: Traffic lights are visible at the intersection.\n- pole: Traffic light poles and street light poles are visible.\n- truck: A large white box truck is prominently visible on the right side of the road.\n- car: Several cars, including yellow taxis and a black SUV, are visible on the road.\n- person: A person is visible walking on the sidewalk on the right side of the road.\n- rider: A person on a bicycle is visible on the sidewalk on the right side of the road."
+}

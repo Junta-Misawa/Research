@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/861e83be-5772ca7b.jpg",
+  "generated_text": "- building: The image shows multiple tall structures with windows and scaffolding, which are clearly buildings.\n- road: The ground area visible in the lower right corner, with vehicles parked along it, indicates a road.\n- sidewalk: The area adjacent to the road with a curb and pedestrian activity is identifiable as a sidewalk.\n- vegetation: A tree is visible in the lower right portion of the image.\n- sky: The upper portion of the image shows a cloudy sky.\n- car: Several cars are parked along the road in the lower right corner.\n- truck: A truck is visible parked near the cars in the lower right corner.\n- bus: A bus is visible parked near the cars in the lower right corner."
+}

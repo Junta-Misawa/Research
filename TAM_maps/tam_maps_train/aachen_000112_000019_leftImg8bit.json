@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/aachen/aachen_000112_000019_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved street with cars parked along its sides, indicating it is a road.\n- sidewalk: A paved area alongside the road, separated by a curb, is visible on the right side, designated for pedestrians.\n- building: Multiple multi-story structures with windows and architectural details line both sides of the street.\n- pole: Several vertical poles are visible, including one with a traffic sign attached.\n- traffic sign: A circular traffic sign with a red border and blue background is visible on a pole.\n- car: Several cars, including a white van and a dark-colored sedan, are parked along the street.\n- person: A person can be seen walking in the distance on the sidewalk."
+}

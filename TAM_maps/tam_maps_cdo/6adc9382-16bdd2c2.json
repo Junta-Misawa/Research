@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/6adc9382-16bdd2c2.jpg",
+  "generated_text": "- road: The image shows a paved road with lane markings and vehicles driving on it.\n- vegetation: There are bare trees lining the side of the road.\n- terrain: Grass and dirt areas are visible along the roadside.\n- sky: The sky is visible above the trees and structures, appearing overcast.\n- car: Several cars are visible on the road, including a black sedan, a white sedan, and a yellow taxi.\n- traffic sign: A green highway sign indicating terminals, parking, and exit information is visible.\n- pole: Poles supporting the traffic sign and streetlights are visible.\n- wall: A concrete wall runs alongside the road, separating it from an elevated structure.\n- fence: A metal fence is visible along the elevated structure."
+}

@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/932c1c93-91f79869.jpg",
+  "generated_text": "- road: The image shows a paved surface with visible lane markings and cars driving on it, which is characteristic of a road.\n- building: There are brick buildings visible in the background, including one with a red-tiled roof.\n- vegetation: Trees and bushes are visible on the right side of the image and in the background.\n- sky: The upper portion of the image shows a cloudy sky.\n- car: Multiple cars are visible on the road, including a silver SUV on the right and a dark-colored sedan in front.\n- pole: Several poles are visible, including those supporting streetlights and traffic lights.\n- traffic light: Red traffic lights are visible at intersections in the distance.\n- traffic sign: A white traffic sign with black text is visible on the right side of the road."
+}

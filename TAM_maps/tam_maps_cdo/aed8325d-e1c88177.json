@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/aed8325d-e1c88177.jpg",
+  "generated_text": "- road: The image shows a multi-lane highway with visible lane markings and vehicles driving on it.\n- vegetation: Trees and bushes are visible along the sides of the road and in the background.\n- sky: The sky is visible above the road and trees, appearing overcast.\n- car: Multiple cars and SUVs are visible on the road, including a silver SUV in the right lane and a white pickup truck on the left.\n- truck: A white pickup truck is visible on the left side of the road.\n- traffic sign: A \"SPEED LIMIT 50\" sign is visible on the right side of the road.\n- pole: Several utility poles are visible along the roadside.\n- building: Buildings are visible in the background, including residential structures and possibly commercial buildings."
+}

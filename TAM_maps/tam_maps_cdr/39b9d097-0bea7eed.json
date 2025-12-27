@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/39b9d097-0bea7eed.jpg",
+  "generated_text": "- road: The image shows a wet street with visible lane markings and traffic, indicating it is a road.\n- sidewalk: A sidewalk is visible along the left side of the road, bordered by a curb and vegetation.\n- building: Multiple buildings are visible on both sides of the street, including a modern building on the left and brick buildings on the right.\n- vegetation: Trees and hedges are visible along the street and sidewalks.\n- sky: The sky is visible above the buildings and trees, appearing overcast.\n- car: Several cars are visible on the road and parked along the sides.\n- pole: Traffic light poles and street signs are visible along the road.\n- traffic sign: Traffic signs are visible, including a green street sign and a pedestrian crossing sign.\n- person: A person is visible walking on the sidewalk on the right side of the street."
+}

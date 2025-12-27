@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/5b4d4333-d74a0d2a.jpg",
+  "generated_text": "- road: The image shows a multi-lane highway with lane markings, which is a part of ground on which cars usually drive.\n- vegetation: There are tall trees and dry grass visible along the roadside, which are forms of vertical and horizontal vegetation.\n- sky: The upper part of the image shows the open sky with some clouds.\n- traffic sign: A green overhead road sign indicating directions to Tel Aviv-Yafo and Haifa is clearly visible.\n- car: Several cars are visible on the road, including one directly in front of the camera.\n- pole: Vertical poles supporting the overhead traffic sign and other signs are visible.\n- wall: A concrete retaining wall is visible along the side of the road.\n- terrain: Dry grass and soil are visible on the slopes beside the road, which are areas not meant to be driven on."
+}

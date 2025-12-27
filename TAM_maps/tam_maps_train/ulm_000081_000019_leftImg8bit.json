@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/ulm/ulm_000081_000019_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved road with visible lane markings and curbs, on which vehicles are driving.\n- vegetation: There are numerous trees and greenery lining both sides of the road.\n- terrain: The grassy areas alongside the road and in the background are visible.\n- sky: A portion of the sky is visible through the tree canopy.\n- car: Several cars are parked on the right side of the road, including a white van and a black car.\n- fence: A fence is visible on the left side of the road, behind the trees.\n- pole: Several poles are visible along the road, including one on the right side near the parked cars.\n- traffic sign: A traffic sign is visible on the left side of the road, near the fence."
+}

@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/a350db26-56c0e043.jpg",
+  "generated_text": "- road: The image shows a street with visible lane markings and vehicles driving on it, which qualifies as road.\n- building: Multiple multi-story brick buildings are visible along the street, which are clearly buildings.\n- pole: Several vertical poles, including traffic light poles, are visible in the image.\n- traffic light: A green traffic light is visible in the distance, indicating it is present.\n- traffic sign: A green rectangular traffic sign is visible on a pole.\n- vegetation: Trees with branches are visible along the street, which qualifies as vegetation.\n- sky: The sky is visible above the buildings and street, appearing as a bright, open area.\n- car: Multiple cars are visible on the road and parked along the side, including an SUV.\n- person: A person is visible walking on the sidewalk on the left side of the image."
+}

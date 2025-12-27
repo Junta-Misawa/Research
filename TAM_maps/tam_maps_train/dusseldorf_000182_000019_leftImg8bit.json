@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/dusseldorf/dusseldorf_000182_000019_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved street with cars parked on both sides and a vehicle driving forward, indicating it is a road.\n- building: Multiple multi-story buildings line both sides of the street, fitting the definition of buildings.\n- vegetation: Trees are visible along the street, particularly on the left side, and some are also seen on the right side.\n- sky: The sky is visible above the buildings, appearing overcast and gray.\n- car: Numerous cars are parked along both sides of the street, and one car is visible driving ahead in the center of the road.\n- pole: Several street lamps with vertical poles are visible along the street, especially on the right side."
+}

@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/5dbc01d7-b11a959b.jpg",
+  "generated_text": "- road: The image shows a paved surface with lane markings, which is characteristic of a road.\n- sidewalk: There is a paved area alongside the road, separated by curbs and poles, suitable for pedestrians.\n- building: Brick residential buildings are visible on the right side of the road.\n- pole: Several vertical poles, likely utility or street poles, are visible along the road.\n- vegetation: Trees are visible along the street and in the background.\n- sky: The upper portion of the image shows the sky with clouds and some electrical wires.\n- car: Multiple cars and an SUV are parked along the side of the road and visible in the distance.\n- traffic sign: A small traffic sign is visible on a pole near the center of the image.\n- person: A person is visible standing near the parked SUV on the right side of the road."
+}

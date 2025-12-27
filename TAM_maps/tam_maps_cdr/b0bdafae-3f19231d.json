@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/b0bdafae-3f19231d.jpg",
+  "generated_text": "- road: The image shows a wet street with visible lane markings and vehicles driving on it.\n- building: There are residential buildings visible on both sides of the street.\n- fence: A fence is visible on the left side of the image, running along the sidewalk.\n- pole: Several utility poles are visible along the street.\n- vegetation: Bare trees are visible along the street.\n- sky: The sky is visible above the buildings and street, appearing overcast.\n- car: Multiple cars are parked along the side of the road and one is driving ahead.\n- truck: A large truck with graffiti is visible on the right side of the image.\n- person: A person is visible standing on the sidewalk on the right side of the image."
+}

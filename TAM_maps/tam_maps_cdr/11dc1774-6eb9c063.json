@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/11dc1774-6eb9c063.jpg",
+  "generated_text": "- road: The image shows a wet parking lot with yellow painted lines, which is part of the road surface.\n- building: A large building with a gabled roof and arched window is visible in the background.\n- car: Several cars are parked in the lot, including a white SUV and a silver SUV.\n- pole: A dark vertical pole is visible in the foreground, partially obscuring the view.\n- sky: The sky is visible above the building, appearing overcast and gray.\n- vegetation: Some greenery or trees are faintly visible in the background behind the building."
+}

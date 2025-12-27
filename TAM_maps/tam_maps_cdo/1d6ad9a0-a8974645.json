@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/1d6ad9a0-a8974645.jpg",
+  "generated_text": "- road: The image shows a paved road with visible lane markings and vehicles driving on it.\n- building: A multi-story building with windows and signage (\"Park View Apartments\") is visible on the right side of the road.\n- vegetation: Trees are visible along the sides of the road and in the background.\n- sky: The sky is visible above the buildings and trees, appearing overcast.\n- traffic light: Traffic lights are visible at the intersection, showing green signals.\n- pole: Several poles are visible, including those supporting traffic lights and signs.\n- traffic sign: Traffic signs are visible, including a \"No Turn\" sign and other regulatory signs.\n- car: Multiple cars, including sedans and SUVs, are visible on the road.\n- fence: A fence is visible along the side of the building on the right."
+}

@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/bremen/bremen_000115_000019_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved road with visible lane markings and vehicles driving on it.\n- building: Multiple residential buildings are visible along the street, including one with scaffolding.\n- vegetation: Numerous trees and some hedges are visible along the street and sidewalks.\n- sky: A portion of the sky is visible above the trees and buildings.\n- car: Several cars are visible on the road, including sedans and SUVs.\n- traffic sign: A \"50\" speed limit sign is visible on the right side of the road.\n- pole: Several poles are visible, including those for traffic lights and signs.\n- sidewalk: Sidewalks are visible along the sides of the road, separated from the road by curbs or vegetation."
+}

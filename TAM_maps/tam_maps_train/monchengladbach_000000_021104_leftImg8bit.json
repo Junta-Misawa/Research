@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/monchengladbach/monchengladbach_000000_021104_leftImg8bit.png",
+  "generated_text": "- road: The image shows a paved street with cars parked along both sides and a visible lane for driving.\n- sidewalk: Sidewalks are visible on both sides of the road, separated from the road by curbs.\n- building: Multiple multi-story buildings line both sides of the street.\n- vegetation: Trees and bushes are visible along the sidewalks and in front of some buildings.\n- sky: A portion of the sky is visible above the buildings.\n- person: A person is visible walking on the sidewalk on the right side of the street.\n- car: Numerous cars are parked along both sides of the street.\n- bicycle: A bicycle is parked on the sidewalk on the left side of the street.\n- traffic sign: A traffic sign is visible on the left side of the street, mounted on a pole."
+}

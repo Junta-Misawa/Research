@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/439321d7-e21fde3d.jpg",
+  "generated_text": "- road: The image shows a paved surface with painted markings, including \"SCHOOL\" and directional arrows, which are characteristic of a road.\n- building: Multiple multi-story structures with windows and architectural features are visible along the street, indicating buildings.\n- vegetation: Trees with visible foliage are present on both sides of the street.\n- sky: The upper portion of the image shows a cloudy sky.\n- car: Several cars are visible on the road and parked along the sides.\n- traffic sign: Green street signs, including one reading \"Manhattan Av\" and another indicating \"ONLY,\" are visible.\n- traffic light: Traffic lights are visible at intersections, showing red and green signals.\n- pole: Poles supporting traffic lights and signs are visible throughout the scene."
+}

@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/9bfca14a-c83a58d2.jpg",
+  "generated_text": "- road: The image shows a paved surface with lane markings, which is clearly a road where vehicles drive.\n- sidewalk: There is a paved area adjacent to the road, separated by a curb, which is a sidewalk for pedestrians.\n- building: A commercial building with a sign reading \"BAYMILL SHOPPING CENTER\" is visible in the background.\n- vegetation: Multiple trees with green foliage are visible along the road and near the building.\n- sky: The upper portion of the image shows a bright sky with scattered clouds.\n- car: A black SUV is parked on the right side of the road, and another car is visible further down the road.\n- pole: A vertical pole with a traffic sign is visible on the left side of the road."
+}

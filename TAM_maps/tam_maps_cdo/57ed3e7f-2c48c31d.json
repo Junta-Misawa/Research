@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/57ed3e7f-2c48c31d.jpg",
+  "generated_text": "- road: The image shows a multi-lane street with visible lane markings, which is a road.\n- building: Multiple buildings are visible along the street, including commercial structures with storefronts and signage.\n- vegetation: Trees are visible along the sidewalk and street, indicating vegetation.\n- sky: The sky is visible above the buildings and street, showing clouds.\n- car: Several cars are visible on the road, including sedans and SUVs.\n- truck: A pickup truck is visible on the right side of the road.\n- pole: Streetlights and traffic signal poles are visible in the image.\n- traffic sign: A stop sign is visible on a pole at the intersection.\n- traffic light: A traffic light is visible on a pole at the intersection."
+}

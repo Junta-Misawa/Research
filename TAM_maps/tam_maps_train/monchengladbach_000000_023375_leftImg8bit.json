@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/monchengladbach/monchengladbach_000000_023375_leftImg8bit.png",
+  "generated_text": "- road: The asphalt surface with white lane markings is visible, indicating a road.\n- sidewalk: The paved area next to the road, elevated by a curb, is designated for pedestrians.\n- building: The structure with windows and commercial signs attached to it is a building.\n- wall: The dark panel behind the advertisements is an individual standing wall.\n- pole: The vertical metal supports holding the advertisements are poles.\n- person: Two individuals are visible: one standing near the open car trunk and another standing on the sidewalk.\n- car: A white car with its trunk open is parked on the road.\n- vegetation: Small patches of grass or weeds are visible growing along the sidewalk edge."
+}

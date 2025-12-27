@@ -1,0 +1,4 @@
+{
+  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/hamburg/hamburg_000000_066988_leftImg8bit.png",
+  "generated_text": "- road: The asphalt surface where vehicles are parked and driving is visible.\n- sidewalk: The paved area next to the road, elevated and delimited by a curb, where pedestrians are standing.\n- building: The multi-story structure with windows and a facade covered in graffiti is visible.\n- wall: The graffiti-covered wall on the left side of the image is an individual standing wall.\n- vegetation: The large trees with green leaves in the background constitute vegetation.\n- sky: The open sky visible through the tree canopy and above the trees.\n- person: Several individuals are visible standing on the sidewalk.\n- car: The small black and silver car parked on the left side of the road and the black SUV on the right side are both cars."
+}
