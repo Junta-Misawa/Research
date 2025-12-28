@@ -46,7 +46,7 @@ def main():
     parser.add_argument('--baseline_no_tam', action='store_true', help='Train baseline without TAM maps (DINOv3 + LinearHead only)')
     parser.add_argument('--dino_model', type=str, default='facebook/dinov3-vith16plus-pretrain-lvd1689m')
     parser.add_argument('--epochs', type=int, default=32)
-    parser.add_argument('--batch_size', type=int, default=4)
+    parser.add_argument('--batch_size', type=int, default=8)
     parser.add_argument('--lr', type=float, default=5e-4)
     parser.add_argument('--weight_decay', type=float, default=1e-3)
     parser.add_argument('--image_size', type=int, nargs=2, default=[1024,2048])
@@ -78,10 +78,6 @@ def main():
         tam_channels = 0
     model = SegmentationModel(dino_model_name=args.dino_model, num_classes=num_classes, use_tam=use_tam, tam_channels=tam_channels)
     model = model.to(device)
-    
-    if torch.cuda.device_count() > 1:
-        print(f"Using {torch.cuda.device_count()} GPUs!")
-        model = torch.nn.DataParallel(model)
 
     params = [p for p in model.parameters() if p.requires_grad]
     optimizer = torch.optim.AdamW(params, lr=args.lr, weight_decay=args.weight_decay)
