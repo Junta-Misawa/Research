@@ -10,9 +10,9 @@ from seg_model import SegmentationModel
 from metrics import compute_confusion, compute_miou
 
 
-def create_dataloaders(root, tam_dir_train, tam_dir_val, image_size, batch_size, num_workers, tam_exclude_names, use_tam: bool):
+def create_dataloaders(root, val_root, val_split, tam_dir_train, tam_dir_val, image_size, batch_size, num_workers, tam_exclude_names, use_tam: bool):
     train_ds = CityscapesSegmentation(root=root, split='train', tam_dir=tam_dir_train, image_size=image_size, use_tam=use_tam, augment=True, tam_exclude=tam_exclude_names)
-    val_ds = CityscapesSegmentation(root=root, split='val', tam_dir=tam_dir_val, image_size=image_size, use_tam=use_tam, augment=False, tam_exclude=tam_exclude_names)
+    val_ds = CityscapesSegmentation(root=val_root, split=val_split, tam_dir=tam_dir_val, image_size=image_size, use_tam=use_tam, augment=False, tam_exclude=tam_exclude_names)
     train_loader = DataLoader(train_ds, batch_size=batch_size, shuffle=True, num_workers=num_workers, pin_memory=True, collate_fn=collate_fn)
     val_loader = DataLoader(val_ds, batch_size=batch_size, shuffle=False, num_workers=num_workers, pin_memory=True, collate_fn=collate_fn)
     return train_loader, val_loader, train_ds
@@ -41,6 +41,8 @@ def evaluate(model, loader, device, num_classes):
 def main():
     parser = argparse.ArgumentParser(description='Train segmentation with frozen DINOv3 + LinearHead (optional TAM)')
     parser.add_argument('--root', type=str, required=True)
+    parser.add_argument('--val_root', type=str, default='', help='Root directory for validation dataset (defaults to --root)')
+    parser.add_argument('--val_split', type=str, default='val', help='Split name for validation (default: val)')
     parser.add_argument('--tam_dir', type=str, default='', help='Directory of TAM maps for training split')
     parser.add_argument('--tam_dir_val', type=str, default='', help='Directory of TAM maps for validation split (defaults to tam_dir if not set)')
     parser.add_argument('--baseline_no_tam', action='store_true', help='Train baseline without TAM maps (DINOv3 + LinearHead only)')
@@ -71,7 +73,8 @@ def main():
         tam_dir_val = args.tam_dir_val if args.tam_dir_val else args.tam_dir.replace('train', 'val')
     else:
         tam_dir_val = ''
-    train_loader, val_loader, train_ds = create_dataloaders(args.root, args.tam_dir if use_tam else None, tam_dir_val if use_tam else None, tuple(args.image_size), args.batch_size, args.num_workers, tam_exclude_names, use_tam)
+    val_root = args.val_root if args.val_root else args.root
+    train_loader, val_loader, train_ds = create_dataloaders(args.root, val_root, args.val_split, args.tam_dir if use_tam else None, tam_dir_val if use_tam else None, tuple(args.image_size), args.batch_size, args.num_workers, tam_exclude_names, use_tam)
     if use_tam:
         tam_channels = 19 - len([n for n in tam_exclude_names if n in CITYSCAPES_CLASSES])
     else:
@@ -122,6 +125,11 @@ def main():
         dt = time.time() - t0
         avg_loss = epoch_loss / max(1, len(train_loader))
         print(f'Epoch {epoch+1}/{args.epochs} loss={avg_loss:.4f} time={dt:.1f}s lr={scheduler.get_last_lr()[0]:.6f}')
+
+        # Save checkpoint every epoch
+        ckpt_path = os.path.join(args.save_dir, f'checkpoint_epoch_{epoch+1}.pt')
+        torch.save({'model': model.state_dict(), 'optim': optimizer.state_dict(), 'sched': scheduler.state_dict(), 'epoch': epoch+1, 'best_miou': best_miou}, ckpt_path)
+        print(f'  Saved checkpoint to {ckpt_path}')
 
         if (epoch + 1) % args.val_interval == 0:
             miou, inters, unis = evaluate(model, val_loader, device, num_classes)

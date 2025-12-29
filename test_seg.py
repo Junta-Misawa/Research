@@ -60,22 +60,22 @@ DATASET_CONFIGS = {
     'C-driving-cloudy': {
         'root': 'Dataset/C-driving-cloudy',
         'split': 'test',
-        'tam_dir': 'TAM_maps/tam_maps_C-driving-cloudy'
+        'tam_dir': 'TAM_maps/tam_maps_cdc'
     },
     'C-driving-rainy': {
         'root': 'Dataset/C-driving-rainy',
         'split': 'test',
-        'tam_dir': 'TAM_maps/tam_maps_C-driving-rainy'
+        'tam_dir': 'TAM_maps/tam_maps_cdr'
     },
     'C-driving-snowy': {
         'root': 'Dataset/C-driving-snowy',
         'split': 'test',
-        'tam_dir': 'TAM_maps/tam_maps_C-driving-snowy'
+        'tam_dir': 'TAM_maps/tam_maps_cds'
     },
     'C-driving-overcast': {
         'root': 'Dataset/C-driving-overcast',
         'split': 'test',
-        'tam_dir': 'TAM_maps/tam_maps_C-driving-overcast'
+        'tam_dir': 'TAM_maps/tam_maps_cdo'
     },
 }
 
@@ -171,7 +171,7 @@ def main():
     parser.add_argument('--checkpoint', type=str, default=os.path.join('runs_seg', 'best.pt'))
     parser.add_argument('--split', type=str, default='test', help='Dataset split name (e.g., test, test_extra)')
     parser.add_argument('--dino_model', type=str, default='facebook/dinov3-vith16plus-pretrain-lvd1689m')
-    parser.add_argument('--batch_size', type=int, default=4)
+    parser.add_argument('--batch_size', type=int, default=8)
     parser.add_argument('--num_workers', type=int, default=10)
     parser.add_argument('--image_size', type=int, nargs=2, default=[1024, 2048])
     parser.add_argument('--tam_exclude', type=str, default='road,sky', help='Comma-separated class names to exclude from TAM features')

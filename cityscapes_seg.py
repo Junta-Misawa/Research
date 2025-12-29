@@ -110,6 +110,7 @@ def infer_label_path(img_path: str) -> Optional[str]:
                 os.path.join(gf_dir, stem + '_gtFine_labelTrainIds.png'),
                 os.path.join(gf_dir, stem + '_gtFine_trainIds.png'),
                 os.path.join(gf_dir, stem + '_gtFine_labelIds.png'),
+                os.path.join(gf_dir, stem + '_train_id.png'),
                 # FoggyZurich 等: サフィックス無しのラベルファイル
                 os.path.join(gf_dir, stem + '.png'),
                 os.path.join(gf_dir, stem + '.jpg'),

@@ -29,13 +29,19 @@ python visualize_tam_npy.py
 # 提案手法
 python train_seg.py \
   --root /home/suzukilab/Research/Dataset/cityscapes \
+  --val_root /home/suzukilab/Research/Dataset/C-driving-overcast \
+  --val_split test \
   --tam_dir /home/suzukilab/Research/TAM_maps/tam_maps_train \
-  --tam_dir_val /home/suzukilab/Research/TAM_maps/tam_maps_val \
+  --tam_dir_val /home/suzukilab/Research/TAM_maps/tam_maps_cdo \
   --amp
+
+  
 
 # ベースライン
 python train_seg.py \
   --root /home/suzukilab/Research/Dataset/cityscapes \
+  --val_root /home/suzukilab/Research/Dataset/C-driving-overcast \
+  --val_split test \
   --amp \
   --baseline_no_tam
 ```
