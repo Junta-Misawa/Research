@@ -1,5 +1,6 @@
 import os
 import argparse
+import json
 import torch
 import numpy as np
 from PIL import Image
@@ -109,7 +110,7 @@ def save_visualizations(model, loader, device, vis_dir):
                 color_img.save(save_path)
 
 
-def run_evaluation(args, model, device, num_classes, dataset_name, root, split, tam_dir):
+def run_evaluation(args, model, device, num_classes, dataset_name, root, split, tam_dir, epoch_vis_dir=None):
     print(f'\n[Info] Starting evaluation on {dataset_name}...')
     print(f'       Root: {root}')
     print(f'       Split: {split}')
@@ -139,7 +140,7 @@ def run_evaluation(args, model, device, num_classes, dataset_name, root, split, 
         )
     except FileNotFoundError as e:
         print(f'[Error] Dataset not found or invalid path: {e}')
-        return
+        return 0.0, {}
 
     test_loader = DataLoader(test_ds, batch_size=args.batch_size, shuffle=False, num_workers=args.num_workers, pin_memory=True, collate_fn=collate_fn)
 
@@ -155,13 +156,18 @@ def run_evaluation(args, model, device, num_classes, dataset_name, root, split, 
     ious = inters / (unis + 1e-6)
     print(f'[{dataset_name}] Per-class IoU:')
     class_names = list(CITYSCAPES_CLASSES.keys())
+    class_iou_dict = {}
     for i, iou in enumerate(ious):
         print(f'  {class_names[i]:<15}: {iou.item():.4f}')
+        class_iou_dict[class_names[i]] = iou.item()
 
     if args.save_vis:
         # Create a subdirectory for this dataset
-        ds_vis_dir = os.path.join(args.vis_dir, dataset_name)
+        base_vis = epoch_vis_dir if epoch_vis_dir else args.vis_dir
+        ds_vis_dir = os.path.join(base_vis, dataset_name)
         save_visualizations(model, test_loader, device, ds_vis_dir)
+    
+    return miou, class_iou_dict
 
 
 def main():
@@ -180,6 +186,12 @@ def main():
     parser.add_argument('--save_vis', action='store_true', help='Save segmentation visualizations')
     parser.add_argument('--vis_dir', type=str, default='vis_results', help='Directory to save visualizations')
     parser.add_argument('--benchmark_all', action='store_true', help='Run evaluation on all pre-defined datasets (ignores --root, --split, --tam_dir)')
+    
+    # New arguments for batch evaluation
+    parser.add_argument('--epoch_range', type=int, nargs=2, help='Range of epochs to evaluate (start end), inclusive')
+    parser.add_argument('--checkpoint_dir', type=str, default='runs_seg', help='Directory containing checkpoints')
+    parser.add_argument('--json_output_dir', type=str, default='results', help='Directory to save JSON results')
+
     args = parser.parse_args()
 
     device = 'cuda' if torch.cuda.is_available() else 'cpu'
@@ -191,6 +203,72 @@ def main():
     tam_channels = 0 if not use_tam else (19 - len([n for n in tam_exclude_names if n in CITYSCAPES_CLASSES]))
     model = SegmentationModel(dino_model_name=args.dino_model, num_classes=num_classes, use_tam=use_tam, tam_channels=tam_channels)
     model = model.to(device)
+
+    # Batch evaluation mode
+    if args.epoch_range:
+        start_epoch, end_epoch = args.epoch_range
+        all_results = {}
+        
+        os.makedirs(args.json_output_dir, exist_ok=True)
+
+        for epoch in range(start_epoch, end_epoch + 1):
+            ckpt_name = f"checkpoint_epoch_{epoch}.pt"
+            ckpt_path = os.path.join(args.checkpoint_dir, ckpt_name)
+            
+            if not os.path.exists(ckpt_path):
+                print(f"Checkpoint {ckpt_path} not found, skipping...")
+                continue
+                
+            print(f"=== Evaluating Epoch {epoch} ===")
+            # Load checkpoint
+            ckpt = torch.load(ckpt_path, map_location='cpu')
+            state_dict = ckpt['model'] if 'model' in ckpt else ckpt
+            model.load_state_dict(state_dict, strict=True)
+            print(f'Loaded weights from {ckpt_path}')
+            
+            epoch_results = {}
+            
+            # Determine vis dir for this epoch
+            epoch_vis_dir = os.path.join(args.vis_dir, f"epoch_{epoch}") if args.save_vis else None
+            
+            if args.benchmark_all:
+                for ds_name, config in DATASET_CONFIGS.items():
+                    miou, class_ious = run_evaluation(
+                        args, model, device, num_classes, 
+                        dataset_name=ds_name, 
+                        root=config['root'], 
+                        split=config['split'], 
+                        tam_dir=config['tam_dir'],
+                        epoch_vis_dir=epoch_vis_dir
+                    )
+                    epoch_results[ds_name] = {
+                        "mIoU": miou,
+                        "class_IoU": class_ious
+                    }
+            else:
+                if not args.root:
+                    parser.error("--root is required unless --benchmark_all is set.")
+                miou, class_ious = run_evaluation(
+                    args, model, device, num_classes, 
+                    dataset_name='CustomDataset', 
+                    root=args.root, 
+                    split=args.split, 
+                    tam_dir=args.tam_dir,
+                    epoch_vis_dir=epoch_vis_dir
+                )
+                epoch_results['CustomDataset'] = {
+                    "mIoU": miou,
+                    "class_IoU": class_ious
+                }
+
+            all_results[f"epoch_{epoch}"] = epoch_results
+            
+        # Save to JSON
+        json_path = os.path.join(args.json_output_dir, 'evaluation_results.json')
+        with open(json_path, 'w') as f:
+            json.dump(all_results, f, indent=4)
+        print(f"Saved evaluation results to {json_path}")
+        return
 
     # Load checkpoint
     if not os.path.exists(args.checkpoint):
