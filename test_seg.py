@@ -263,11 +263,13 @@ def main():
 
             all_results[f"epoch_{epoch}"] = epoch_results
             
-        # Save to JSON
-        json_path = os.path.join(args.json_output_dir, 'evaluation_results.json')
-        with open(json_path, 'w') as f:
-            json.dump(all_results, f, indent=4)
-        print(f"Saved evaluation results to {json_path}")
+            # Save to JSON incrementally
+            json_path = os.path.join(args.json_output_dir, 'evaluation_results.json')
+            with open(json_path, 'w') as f:
+                json.dump(all_results, f, indent=4)
+            print(f"Saved intermediate results to {json_path}")
+            
+        print(f"Completed evaluation. Final results saved to {json_path}")
         return
 
     # Load checkpoint
