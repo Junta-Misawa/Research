@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/1b883059-144b2678.jpg",
-  "generated_text": "- road: The image shows a paved surface with cars parked along its sides and vehicles driving on it, indicating it is a road.\n- car: Multiple cars are visible parked on the sides of the road and one is in motion, as seen from the dashboard perspective.\n- pole: Streetlights with vertical poles are visible in the image.\n- traffic sign: A green rectangular sign and a white rectangular sign with black markings are visible on poles.\n- vegetation: Dark silhouettes of trees or bushes are visible along the sides of the road.\n- sky: The upper portion of the image shows a dark sky with no visible clouds or stars.\n- rider: The image is taken from inside a vehicle, and the person operating the vehicle is not visible, so no rider is identifiable."
-}

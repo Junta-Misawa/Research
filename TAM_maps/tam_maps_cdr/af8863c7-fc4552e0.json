@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/af8863c7-fc4552e0.jpg",
-  "generated_text": "- road: The image shows a paved surface with visible lane markings and traffic, typical of a road.\n- sidewalk: Pedestrians are visible walking on a paved area adjacent to the road, separated by a curb or similar boundary.\n- building: Multiple multi-story structures with windows and commercial signs are visible along both sides of the street.\n- vegetation: Trees with green foliage are visible along the street, particularly on the left side.\n- sky: A portion of the sky is visible between the buildings, appearing as a light grayish area.\n- person: Several pedestrians are visible walking on the sidewalk.\n- car: Multiple cars are visible on the road, including a black SUV and a yellow taxi.\n- motorcycle: A motorcycle is visible on the right side of the road, partially obscured by other vehicles."
-}

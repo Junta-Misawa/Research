@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/NighttimeDrivingTest/leftImg8bit/test/night/0_frame_1128_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved surface with white lane markings and tram tracks, which is characteristic of a road.\n- building: There are multi-story structures with windows and architectural details visible on both sides of the street, which are buildings.\n- car: A white van is parked on the right side of the street, which fits the definition of a car.\n- pole: Streetlights are visible, and their vertical supports are present, which are poles.\n- traffic sign: A small, illuminated sign is visible on the right side of the road, which appears to be a traffic sign.\n- sky: The upper part of the image shows a dark, open sky with no visible clouds or foliage.\n- vegetation: A tree or bush is partially visible on the right side of the image, near the parked van, which qualifies as vegetation."
-}

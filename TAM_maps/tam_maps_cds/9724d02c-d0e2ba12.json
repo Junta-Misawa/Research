@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/9724d02c-d0e2ba12.jpg",
-  "generated_text": "- road: The image shows a paved surface with visible lane markings and a car parked on it, indicating it is a road.\n- building: A building with a sign that reads \"MOTORS\" is visible on the right side of the image.\n- pole: There are vertical poles supporting traffic lights and signs visible in the image.\n- traffic light: Red traffic lights are visible at the intersection ahead.\n- traffic sign: A green street sign reading \"Washington Av\" is visible on the left side of the image.\n- car: A silver Mercedes-Benz car is parked on the right side of the road.\n- person: A person is visible standing on the sidewalk on the left side of the image."
-}

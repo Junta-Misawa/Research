@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/5a1f15c1-3e442248.jpg",
-  "generated_text": "- road: The image shows a multi-lane highway with lane markings, which is a type of road.\n- vegetation: There are trees and bushes visible on the right side of the road.\n- terrain: Grass and other low-lying vegetation are visible along the roadside.\n- sky: The sky is visible above the highway, appearing overcast.\n- traffic sign: A large green highway sign indicating directions for San Jose and San Francisco International Airport is visible overhead.\n- car: Several cars are visible on the road, including the one directly in front and others in adjacent lanes.\n- pole: The poles supporting the overhead traffic sign are visible.\n- fence: A fence-like barrier is visible along the right side of the road."
-}

@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/bremen/bremen_000000_000019_leftImg8bit.png",
-  "generated_text": "- road: The image shows a cobblestone surface that serves as a road, with vehicles and curbs visible.\n- sidewalk: A paved pedestrian area is visible on the right side of the road, separated by a curb.\n- building: Multiple multi-story buildings with windows and balconies are visible throughout the image.\n- vegetation: Trees and bushes are present, including one large tree with ivy growing on its trunk.\n- car: A white van and a silver car are parked on the road.\n- bicycle: A bicycle is parked on the sidewalk near the left side of the image.\n- pole: A sign pole is visible on the left side of the image.\n- traffic sign: A traffic sign is mounted on the pole on the left side of the image."
-}

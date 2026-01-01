@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/jena/jena_000011_000019_leftImg8bit.png",
-  "generated_text": "- road: The cobblestone surface extending down the street, with cars parked on both sides, clearly indicates a road.\n- building: Multiple multi-story structures with windows and architectural details line both sides of the street.\n- vegetation: Trees with green foliage are visible along the street, particularly on the right side.\n- traffic sign: A \"30\" speed limit sign is visible on the left side of the street, mounted on a pole.\n- car: Numerous cars are parked along both sides of the cobblestone street.\n- pole: Several vertical poles are visible, including those supporting traffic signs and streetlights.\n- wall: A stone wall is visible on the left side of the image, forming part of a building's structure."
-}

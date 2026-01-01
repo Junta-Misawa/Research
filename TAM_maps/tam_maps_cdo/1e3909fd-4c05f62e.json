@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/1e3909fd-4c05f62e.jpg",
-  "generated_text": "- road: The image shows a multi-lane highway with visible lane markings, which is a type of road.\n- vegetation: There are trees and bushes visible along the sides of the road.\n- sky: The upper portion of the image shows the sky with clouds.\n- car: Several cars are visible on the road, including one in the foreground and others in the distance.\n- traffic sign: Green overhead highway signs indicating directions and exits are present.\n- pole: A tall pole with antennas is visible on the right side of the image.\n- building: A building is partially visible in the background on the left side.\n- wall: A stone or brick wall is visible on the right side of the image.\n- fence: A guardrail or barrier is visible along the right side of the road."
-}

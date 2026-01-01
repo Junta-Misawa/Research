@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/a7f9d60b-7ae3f042.jpg",
-  "generated_text": "- road: The image shows a paved street with double yellow lines, indicating a road for vehicle traffic.\n- building: A beige building with windows is visible on the right side of the street.\n- vegetation: Numerous trees with green leaves line both sides of the street.\n- sky: The upper portion of the image shows a bright, open sky.\n- car: Multiple cars are parked along both sides of the street, and at least one car is visible in the foreground."
-}

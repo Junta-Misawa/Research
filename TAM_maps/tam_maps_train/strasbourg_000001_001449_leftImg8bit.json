@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/strasbourg/strasbourg_000001_001449_leftImg8bit.png",
-  "generated_text": "- road: The street surface with visible lane markings and parked cars is clearly a road.\n- sidewalk: The paved area along the buildings with curbs separating it from the road is a sidewalk.\n- building: Multiple multi-story structures with windows, shutters, and commercial signs are visible along the street.\n- person: Two adults and a child are visible walking on the sidewalk.\n- car: Several cars are parked along the right side of the road.\n- bicycle: A bicycle is partially visible on the far right edge of the image."
-}

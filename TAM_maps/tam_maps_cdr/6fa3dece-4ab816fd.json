@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/6fa3dece-4ab816fd.jpg",
-  "generated_text": "- road: The image shows a paved surface with lane markings and traffic flowing, which is characteristic of a road.\n- building: A structure with windows and lights is visible on the right side of the image, consistent with a building.\n- pole: Several vertical poles are visible, including those supporting traffic lights and streetlights.\n- traffic light: A green traffic light is visible in the center of the image, and a red traffic light is visible on the right side.\n- car: A red car is prominently visible in the center-right of the image, and other cars are visible in the distance.\n- person: A person is visible walking on the sidewalk on the right side of the image."
-}

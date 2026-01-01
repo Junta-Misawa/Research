@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/7a80b62a-7e95b93d.jpg",
-  "generated_text": "- road: The image shows a wet street with visible lane markings and cars driving on it.\n- building: A multi-story building with windows and balconies is visible on the left side of the image.\n- wall: A red brick wall is visible on the right side of the image.\n- pole: Several poles are visible, including those supporting traffic lights and streetlights.\n- traffic light: Traffic lights are visible at intersections ahead and to the side.\n- vegetation: A tree with bare branches is visible on the left side of the image.\n- sky: The sky is visible above the buildings and is overcast.\n- car: Multiple cars are visible on the road, including SUVs and sedans.\n- truck: A large red truck or trailer is visible on the right side of the image.\n- person: A person is visible standing near the sidewalk on the left side of the image."
-}

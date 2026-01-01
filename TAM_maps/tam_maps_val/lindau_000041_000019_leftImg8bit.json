@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/val/lindau/lindau_000041_000019_leftImg8bit.png",
-  "generated_text": "- road: The image shows a cobblestone surface with parked cars and trees, indicating it is a road.\n- sidewalk: A paved area adjacent to the road, separated by a curb and lined with trees, is visible on the left side.\n- building: Several multi-story buildings with windows and shutters are visible along the street.\n- vegetation: Trees with leaves are present along the road and in the background.\n- sky: A portion of the sky is visible above the buildings and trees, appearing bright.\n- car: Multiple cars are parked along the side of the road, including a blue van, a black SUV, and a dark sedan.\n- truck: A white van is parked in the background, which can be classified as a truck.\n- person: No person is visibly present in the image."
-}

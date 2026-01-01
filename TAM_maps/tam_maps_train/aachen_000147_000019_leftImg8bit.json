@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/aachen/aachen_000147_000019_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved road with white lane markings, extending into the distance, flanked by parked cars and buildings.\n- building: Multiple multi-story residential buildings are visible along both sides of the street.\n- vegetation: Trees are present along the street, lining both sides and partially obscuring the view of the buildings.\n- car: Numerous cars are parked along both sides of the road.\n- person: A person is visible standing near the sidewalk on the right side of the street."
-}

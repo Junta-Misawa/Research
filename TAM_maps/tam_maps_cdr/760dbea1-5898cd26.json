@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/760dbea1-5898cd26.jpg",
-  "generated_text": "- road: The image shows a wet street with cars parked and driving on it, indicating a road.\n- vegetation: Trees are visible on both sides of the road, which qualifies as vegetation.\n- sky: A gray, overcast sky is visible through the rain-streaked windshield, with some electrical wires faintly visible.\n- car: Multiple cars are visible, including a dark sedan on the left, a silver SUV on the right, and other vehicles further down the street.\n- building: A building is visible on the right side of the image, behind the silver SUV.\n- sidewalk: A sidewalk is visible on the left side of the road, adjacent to the parked dark sedan, and on the right side, adjacent to the silver SUV."
-}

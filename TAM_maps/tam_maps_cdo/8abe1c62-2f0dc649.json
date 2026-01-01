@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/8abe1c62-2f0dc649.jpg",
-  "generated_text": "- road: The image shows a paved surface with cars driving and parked on it, indicating it is a road.\n- building: Multiple buildings are visible along the street, including residential houses and commercial structures.\n- vegetation: Trees with bare branches are visible along the street, indicating vegetation.\n- sky: The sky is visible through the tree branches and above the buildings.\n- car: Several cars, including a white van, a silver SUV, and other sedans, are visible on the road and parked along the side.\n- pole: A vertical pole, likely for a traffic light or sign, is visible in the background.\n- traffic light: A traffic light is visible in the background, mounted on a pole.\n- traffic sign: A traffic sign is visible in the background, mounted on a pole.\n- fence: A fence is visible along the side of one of the buildings."
-}

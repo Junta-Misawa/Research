@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/bochum/bochum_000000_001519_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved road with visible lane markings and tram tracks, indicating it is a road.\n- sidewalk: There is a sidewalk on the right side of the road, bordered by trees and a curb.\n- building: Buildings are visible on both sides of the street, including one with large windows on the left and another on the right.\n- vegetation: Trees are present along both sides of the road, indicating vegetation.\n- car: Several cars are visible on the road, including a black car, a red car, and a white van parked on the right.\n- traffic sign: A traffic sign is visible on the right side of the road, near the parked van.\n- pole: A pole is visible on the right side of the road, near the parked van.\n- person: A person is visible walking on the sidewalk on the right side of the road."
-}

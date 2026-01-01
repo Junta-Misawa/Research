@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/46dd9b4b-40645433.jpg",
-  "generated_text": "- road: The image shows a paved surface with vehicles driving on it, which is characteristic of a road.\n- sidewalk: A paved area next to the road, separated by a curb and some vegetation, is visible on the right side, which is a sidewalk.\n- building: Several multi-story residential buildings are visible in the background.\n- vegetation: Trees with bare branches are visible, indicating vegetation.\n- sky: The upper portion of the image shows a clear blue sky.\n- car: A black SUV and a red car are visible on the road.\n- traffic sign: A green highway sign indicating \"NORTH\" and a red \"RAISE PLANK\" sign are visible.\n- pole: Several poles are visible, including those supporting the traffic signs and streetlights."
-}

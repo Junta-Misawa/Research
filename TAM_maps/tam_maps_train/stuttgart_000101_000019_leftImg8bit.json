@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/stuttgart/stuttgart_000101_000019_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved surface with white lane markings, consistent with a road.\n- sidewalk: A pedestrian path adjacent to the road, bordered by a curb and part of a building, is visible.\n- building: A large stone structure with windows and architectural details is prominently featured.\n- pole: A vertical pole supporting traffic lights is visible in the scene.\n- traffic light: A traffic light with red illuminated signal is mounted on the pole.\n- traffic sign: A street sign reading \"Reinsburgstr.\" with \"19-51E\" is visible.\n- person: Several individuals are walking on the sidewalk.\n- car: The hood and Mercedes-Benz emblem of a car are visible in the foreground."
-}

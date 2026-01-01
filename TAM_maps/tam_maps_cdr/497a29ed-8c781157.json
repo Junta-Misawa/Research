@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/497a29ed-8c781157.jpg",
-  "generated_text": "- road: The dark surface with visible tire marks and wet patches, where vehicles are driving or parked, qualifies as a road.\n- building: The large dark structure with multiple windows in the background is clearly a building.\n- fence: A dark, horizontal barrier running along the side of the building, partially visible behind the parked car, appears to be a fence.\n- pole: A vertical pole supporting a traffic light is visible on the left side of the image.\n- traffic light: A red traffic light is clearly visible at the top left, indicating a stop signal.\n- car: A silver sedan is parked on the side of the road.\n- SUV: A silver SUV is visible on the right side of the image, moving past the camera."
-}

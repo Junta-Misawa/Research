@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/60994578-2ec14c73.jpg",
-  "generated_text": "- road: The image shows a paved surface with lane markings, which is characteristic of a road.\n- sidewalk: A pedestrian area is visible on the right side of the road, separated by a curb and adjacent to a building.\n- building: Multiple residential buildings are visible along the street.\n- vegetation: Trees are visible in the background and along the sides of the road.\n- sky: The upper portion of the image shows a clear sky with some overhead wires.\n- person: A person is standing in the middle of the road, visible as a silhouette.\n- car: Several cars are visible on the road, including one directly in front of the viewpoint and others further down the street."
-}

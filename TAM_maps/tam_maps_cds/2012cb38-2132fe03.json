@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/2012cb38-2132fe03.jpg",
-  "generated_text": "- road: The ground surface where vehicles are driving, visible beneath the van and buses.\n- building: Tall structures with windows and architectural features, including modern glass buildings and brick buildings, are visible throughout the image.\n- vegetation: Bare tree branches are visible on the left side of the image.\n- sky: A clear blue sky is visible between the tall buildings.\n- bus: A white and blue public transport bus is visible on the left side of the image.\n- car: A black van is visible in the foreground.\n- traffic sign: A green and white sign with \"KERL\" is visible on the left side of the image.\n- pole: A black pole with a traffic light is visible on the right side of the image."
-}

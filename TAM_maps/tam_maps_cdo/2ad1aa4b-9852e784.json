@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/2ad1aa4b-9852e784.jpg",
-  "generated_text": "- road: The image shows a multi-lane road with vehicles driving on it, including lane markings.\n- fence: A fence is visible running along the right side of the road in the background.\n- pole: Several poles are visible, including the one holding the \"LOW FLYING PLANES\" sign and others supporting streetlights.\n- traffic sign: A yellow diamond-shaped sign reading \"LOW FLYING PLANES\" is clearly visible.\n- vegetation: Trees and shrubs are visible in the background and along the roadside.\n- terrain: Dry grass and dirt are visible on the right side of the road, adjacent to the pavement.\n- sky: The sky is visible above the road and trees, appearing overcast.\n- car: Multiple cars are visible on the road, including a silver sedan directly ahead and a dark SUV to the left."
-}

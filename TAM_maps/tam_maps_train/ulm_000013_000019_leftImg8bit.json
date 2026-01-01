@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/ulm/ulm_000013_000019_leftImg8bit.png",
-  "generated_text": "- building: The image shows multiple buildings with windows, awnings, and commercial signs attached to them.\n- sidewalk: The paved area in front of the buildings, where people are walking and where the car is parked, is a designated pedestrian area.\n- vegetation: There are potted plants and trees visible along the sidewalk.\n- person: A person is visible standing on the sidewalk near the center of the image.\n- rider: A person is visible riding a bicycle in the background.\n- car: A black car is parked on the right side of the image.\n- traffic sign: A parking sign is visible on the left side of the image.\n- pole: A pole is visible supporting the awning on the left side of the image."
-}

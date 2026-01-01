@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/98f77d3b-1719b5c0.jpg",
-  "generated_text": "- road: The image shows multiple lanes of traffic with visible road markings, indicating a road.\n- building: A tall, white, multi-story building is visible in the background.\n- vegetation: Trees are visible on the right side of the image.\n- sky: The sky is visible above the buildings and road, covered with clouds.\n- car: Multiple cars are visible on the road, including a blue sedan, a black SUV, and other vehicles.\n- bus: A white bus is visible on the elevated roadway.\n- traffic sign: Several traffic signs are visible, including a yellow \"MERGING TRAFFIC AHEAD\" sign and a blue \"The New York State Thruway\" sign.\n- pole: Several poles are visible, including those supporting the traffic signs and the elevated roadway.\n- rider: A person is visible in the driver's seat of the black SUV."
-}

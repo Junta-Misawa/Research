@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/dusseldorf/dusseldorf_000130_000019_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved road with visible lane markings, which is the primary surface for vehicle travel.\n- vegetation: Trees are clearly visible lining both sides of the road, and some greenery is present along the roadside.\n- terrain: Grass areas are visible along the edges of the road, separating the pavement from the tree-lined areas.\n- sky: A portion of the sky is visible through the tree canopy, appearing overcast and gray.\n- car: Multiple cars are visible on the road, including vehicles ahead and on the opposite side of the road.\n- pole: Several vertical poles are visible along the road, likely for lighting or signage.\n- fence: A fence-like structure covered in vegetation is visible on the right side of the road, running alongside the trees."
-}

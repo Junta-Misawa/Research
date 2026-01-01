@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/857cafef-4c624361.jpg",
-  "generated_text": "- road: The image shows a multi-lane highway with visible lane markings and vehicles driving on it.\n- vegetation: Trees and bushes are visible along the sides of the road and on the hillsides.\n- sky: The sky is visible above the trees and power lines, appearing overcast.\n- car: Multiple cars are visible on the road, including a black SUV directly ahead and a silver car on the left.\n- truck: A white pickup truck with a trailer is visible on the left side of the road.\n- pole: Several poles are visible, including utility poles and possibly traffic signal poles along the road.\n- traffic sign: A triangular traffic sign is visible on a pole on the left side of the road."
-}

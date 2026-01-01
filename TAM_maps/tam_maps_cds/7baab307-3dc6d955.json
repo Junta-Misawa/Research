@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/7baab307-3dc6d955.jpg",
-  "generated_text": "- road: The image shows a paved surface with vehicles driving on it, which is characteristic of a road.\n- building: Residential houses are visible along the street, which are types of buildings.\n- fence: A chain-link fence is visible on the right side of the image.\n- pole: Vertical poles, likely utility poles, are visible in the background.\n- vegetation: Trees without leaves are visible along the street.\n- sky: A pale sky is visible above the trees and buildings.\n- car: Multiple cars and SUVs are parked along the street and one is driving in the foreground.\n- person: A person is visible walking on the sidewalk on the right side of the image.\n- rider: A person is visible walking on the sidewalk, which is a form of rider.\n- motorcycle: A motorcycle is visible parked on the right side of the street."
-}

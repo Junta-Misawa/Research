@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/zurich/zurich_000069_000019_leftImg8bit.png",
-  "generated_text": "- road: The cobblestone surface beneath the vehicles and pedestrians is a road.\n- sidewalk: The paved area adjacent to the buildings where people are standing and motorcycles are parked is a sidewalk.\n- building: The multi-story structures with storefronts and windows are buildings.\n- pole: The vertical pole with a traffic sign attached is a pole.\n- traffic sign: The sign on the pole indicating parking restrictions is a traffic sign.\n- person: Several individuals are visible standing or walking on the sidewalk.\n- car: Multiple cars, including a black sedan and a black SUV, are parked or driving on the road.\n- motorcycle: Several motorcycles and scooters are parked on the sidewalk.\n- bicycle: A bicycle is partially visible parked near the black SUV."
-}

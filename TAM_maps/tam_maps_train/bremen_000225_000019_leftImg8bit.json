@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/bremen/bremen_000225_000019_leftImg8bit.png",
-  "generated_text": "- road: The cobblestone surface extending down the street, flanked by parked cars on both sides, is clearly a road.\n- building: Multiple multi-story residential buildings line both sides of the street, with visible windows, doors, and architectural details.\n- vegetation: Trees and hedges are visible along the sidewalks and between buildings.\n- sky: A gray, overcast sky is visible above the buildings and trees.\n- car: Numerous cars are parked along both sides of the street, including a green car in the foreground on the left and a silver convertible on the right.\n- traffic sign: A circular \"30\" speed limit sign is visible on the right side of the street.\n- pole: A vertical pole supporting the traffic sign is visible on the right side of the street."
-}

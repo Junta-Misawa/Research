@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/ae8bbd64-95a5f5bd.jpg",
-  "generated_text": "- road: The image shows a multi-lane highway with road markings, which is a part of ground on which cars usually drive.\n- vegetation: There are numerous trees and bushes visible along the sides of the road and in the background.\n- terrain: Grass areas are visible on the roadside and in the background.\n- sky: The sky is visible above the trees and buildings, appearing overcast.\n- car: Multiple cars and SUVs are visible on the highway, including the one directly in front of the camera.\n- traffic sign: A green exit sign with \"EXIT 25 S\" and a distance marker \"1/2 MILE\" is visible on the right side of the road.\n- pole: Several poles are visible, including those supporting the traffic sign and streetlights.\n- building: A multi-story building is visible in the background behind the trees."
-}

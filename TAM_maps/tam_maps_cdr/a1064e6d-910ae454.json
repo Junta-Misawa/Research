@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/a1064e6d-910ae454.jpg",
-  "generated_text": "- road: The image shows a paved surface with white lane markings, which is characteristic of a road.\n- vegetation: Bare trees are visible along the roadside and near the water, indicating vegetation.\n- sky: The upper portion of the image shows a gray, overcast sky.\n- pole: Several vertical poles are visible, including streetlights and a pole with a crossarm near the water.\n- traffic sign: A yellow diamond-shaped sign is visible on the left side of the road.\n- car: A dark-colored car is visible on the far left side of the road."
-}

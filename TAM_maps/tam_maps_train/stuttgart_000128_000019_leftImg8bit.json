@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/stuttgart/stuttgart_000128_000019_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved road with visible lane markings and cars parked along both sides.\n- building: Multiple multi-story buildings with architectural details line both sides of the street.\n- car: Numerous cars are parked along the street and one is visible in the foreground.\n- sky: A pale sky is visible above the buildings, with some overhead wires.\n- pole: A blue parking sign pole is visible on the right side of the road.\n- traffic sign: A blue parking sign is visible on the right side of the road.\n- vegetation: Small potted plants are visible on balconies of some buildings."
-}

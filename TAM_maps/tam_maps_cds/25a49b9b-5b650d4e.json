@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/25a49b9b-5b650d4e.jpg",
-  "generated_text": "- road: The blurry ground surface visible through the windshield, with cars driving on it, indicates a road.\n- building: A structure with a roof and walls is visible in the background on the right side of the image.\n- pole: A vertical pole with a horizontal part, likely a traffic light pole, is visible in the upper right portion of the image.\n- traffic sign: A green, diamond-shaped sign is visible in the upper right portion of the image, mounted on a pole.\n- sky: The blue sky with some clouds and sunlight is visible through the windshield, above the road and buildings.\n- car: Multiple vehicles, appearing as dark shapes with red taillights, are visible ahead on the road, consistent with cars."
-}

@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/hamburg/hamburg_000000_080438_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved road with visible lane markings and vehicles parked along its sides.\n- sidewalk: There are sidewalks on both sides of the road, clearly separated from the road by curbs and bordered by buildings and vegetation.\n- building: Multiple brick and multi-story buildings are visible along both sides of the street.\n- vegetation: Several trees with green leaves are present along the sidewalk and road.\n- person: A person can be seen standing near the bicycles on the left side of the street.\n- car: Several cars are parked along the street, including a white van and a dark blue car.\n- motorcycle: Two motorcycles are parked on the right side of the street.\n- bicycle: Several bicycles are parked on the left side of the street, near the sidewalk."
-}

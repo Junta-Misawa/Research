@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/08fd4409-68bb4760.jpg",
-  "generated_text": "- road: The image shows a paved road with lane markings and a shoulder, which is the primary surface for vehicle travel.\n- sidewalk: A paved area with a curb separates the road from the adjacent area, which is designated for pedestrian use.\n- vegetation: Trees and bushes are visible along the roadside and in the background.\n- terrain: Dirt and sparse grass are visible on the roadside and in the background.\n- sky: The upper portion of the image shows a clear sky.\n- car: Several cars are visible on the road in the distance.\n- traffic sign: Multiple road signs are visible, including directional signs and speed limit signs.\n- pole: Several poles supporting signs and streetlights are visible along the road.\n- building: A building structure is visible in the distance on the left side of the road."
-}

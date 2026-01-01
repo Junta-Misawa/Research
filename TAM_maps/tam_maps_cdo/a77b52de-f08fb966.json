@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/a77b52de-f08fb966.jpg",
-  "generated_text": "- road: The image shows a multi-lane highway with visible lane markings and vehicles driving on it.\n- wall: A concrete barrier runs along the left side of the road, which is an individual standing wall.\n- pole: Several streetlight poles are visible along the highway, including ones near the road signs.\n- traffic sign: Green highway directional signs are visible overhead, indicating exits and routes.\n- vegetation: Small patches of grass and weeds are visible growing along the edge of the road barrier.\n- sky: The sky is visible above the highway, showing clouds and clear areas.\n- car: Multiple cars are visible on the road, including a dark sedan directly ahead and a blue minivan to the right.\n- truck: A dark-colored SUV or truck is visible in the distance, behind the sedan.\n- person: No people are visible in the image."
-}

@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/a5ebdda9-bfc84a1f.jpg",
-  "generated_text": "- road: The paved surface with grid pattern is a road where vehicles are driving.\n- building: The large structure with \"United Rentals\" signage in the background is a building.\n- vegetation: The bushes and trees lining the right side of the road are vegetation.\n- terrain: The grassy area beside the vegetation is terrain.\n- sky: The blue sky with clouds visible above the buildings and trees is sky.\n- car: Several cars are parked or driving on the road, including an SUV on the left and a sedan in the middle.\n- truck: A white truck is parked on the left side of the road.\n- pole: Several poles are visible, including those for lighting and power lines.\n- fence: A fence is visible in the background behind the vegetation.\n- traffic sign: A \"No Parking\" sign is visible on the right side of the road."
-}

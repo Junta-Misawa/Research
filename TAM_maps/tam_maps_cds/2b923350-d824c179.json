@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/2b923350-d824c179.jpg",
-  "generated_text": "- road: The image shows a street with visible lane markings and snow piled on the sides, indicating it is a road used for driving.\n- building: Structures with windows and brick facades are visible on both sides of the street, which are buildings.\n- vegetation: Trees with bare branches are visible along the street, indicating vegetation.\n- car: Multiple vehicles, including sedans and SUVs, are parked along the street and visible in traffic ahead, which are cars.\n- traffic sign: A yellow diamond-shaped warning sign is visible on the right side of the road, which is a traffic sign.\n- pole: Vertical poles supporting street lights and traffic signs are visible along the street, which are poles."
-}

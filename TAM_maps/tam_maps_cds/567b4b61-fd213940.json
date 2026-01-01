@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/567b4b61-fd213940.jpg",
-  "generated_text": "- road: The image shows a paved surface with lane markings, typical of a road used for vehicle travel.\n- traffic sign: An orange diamond-shaped sign with a symbol is visible on the right side of the road, indicating a traffic sign.\n- car: The red taillights of a vehicle are visible ahead, indicating the presence of a car.\n- pole: A vertical pole is visible supporting a green overhead sign on the left side of the road.\n- traffic light: A red traffic light is visible in the distance ahead, indicating a traffic light."
-}

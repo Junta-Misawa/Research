@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/weimar/weimar_000136_000019_leftImg8bit.png",
-  "generated_text": "- road: The image shows a cobblestone surface with parked cars on both sides, indicating it is a road.\n- building: A multi-story building with windows is visible on the right side of the image.\n- vegetation: Trees and bushes are visible throughout the image, including behind the parked cars and along the sidewalk.\n- person: A person is visible standing near the middle of the image, behind a parked car, wearing a dark top and jeans.\n- car: Several cars are parked along the road, including a silver Toyota, a silver Volkswagen, and a silver Peugeot.\n- fence: A wooden fence is visible behind the parked cars, separating the road from a wooded area.\n- pole: A small pole with a sign is visible near the center of the image, behind the parked cars."
-}

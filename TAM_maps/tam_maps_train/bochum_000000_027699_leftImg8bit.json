@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/bochum/bochum_000000_027699_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved road surface with visible lane markings and a crosswalk, indicating it is a road.\n- sidewalk: Sidewalks are visible on both sides of the road, separated from the road by curbs and vegetation.\n- vegetation: Trees and bushes are clearly visible along the road and sidewalks.\n- terrain: Grass areas are visible on the sides of the road and in the background.\n- traffic sign: Multiple traffic signs are visible, including pedestrian crossing signs and a 30 km/h speed limit sign.\n- pole: Several poles are visible, supporting traffic signs and other equipment.\n- car: Several cars are visible on the road and parked along the sides.\n- building: A building is visible in the background on the right side of the image."
-}

@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/tubingen/tubingen_000058_000019_leftImg8bit.png",
-  "generated_text": "- road: The asphalt surface on which the car is driving and pedestrians are walking.\n- sidewalk: The paved area next to the road where pedestrians are walking, separated by a curb.\n- building: Multiple buildings line the street, including those with windows, doors, and signs.\n- vegetation: A small tree is visible in the middle of the street.\n- person: A man is walking on the sidewalk, and other people are visible further down the street.\n- car: A brown car is parked on the right side of the street.\n- pole: Several poles are visible, including one with graffiti and another with a sign.\n- traffic sign: A triangular traffic sign is visible on a pole near the sidewalk.\n- wall: A wall is visible on the left side of the image, adjacent to the sidewalk."
-}

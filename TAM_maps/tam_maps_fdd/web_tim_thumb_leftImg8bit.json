@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/FDD/leftImg8bit/test_extra/web_tim_thumb_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved street with visible lane markings and road surface.\n- building: Structures with walls and windows are visible on both sides of the street.\n- vegetation: Bare trees are visible along the street.\n- sky: The upper part of the image shows a hazy, overcast sky.\n- car: Several cars are parked on the right side of the street, and vehicle lights are visible in the distance.\n- truck: A white truck is visible parked on the left side of the street.\n- traffic sign: A yellow pedestrian crossing sign is visible on the right side of the street.\n- pole: Utility poles are visible along the street, especially on the left side."
-}

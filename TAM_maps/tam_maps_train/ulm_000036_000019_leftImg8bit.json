@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/ulm/ulm_000036_000019_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved road with white lane markings, curving to the right, and a car driving on it.\n- wall: A large, stone wall runs along the left side of the road, with small rectangular openings.\n- vegetation: There is green grass growing along the edge of the road and between the road and the wall.\n- terrain: The grassy areas along the road and at the base of the wall are considered terrain.\n- car: A white car is visible driving on the road in the distance.\n- rider: The car is being driven by a person, who is considered a rider.\n- sky: A small portion of the sky is visible at the top right corner of the image."
-}

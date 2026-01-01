@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/a37192a8-b04db02d.jpg",
-  "generated_text": "- road: The image shows a multi-lane street with visible lane markings and vehicles driving on it.\n- building: There are illuminated commercial buildings with signs visible on the right side of the street.\n- pole: Several vertical poles, including those for traffic lights and signs, are visible along the street.\n- traffic light: A green traffic light is visible above the road ahead.\n- traffic sign: A green street sign is visible above the road ahead.\n- car: Multiple cars, including yellow taxis, are visible on the road.\n- person: A person is visible walking on the sidewalk on the right side of the street."
-}

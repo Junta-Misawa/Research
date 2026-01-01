@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/val/lindau/lindau_000036_000019_leftImg8bit.png",
-  "generated_text": "- road: The image shows a cobblestone surface that serves as a road, with visible markings and a Mercedes-Benz logo on the dashboard indicating the perspective from a vehicle.\n- building: A stone building with windows and a shuttered facade is visible on the left, and a multi-story building with balconies and large windows is visible on the right.\n- vegetation: Several trees and shrubs are visible in the background, surrounding outdoor seating areas.\n- car: The rear part of a car is visible on the right side of the image, parked on the cobblestone surface.\n- traffic sign: A blue circular traffic sign with a white pedestrian symbol is visible in the background, indicating a pedestrian crossing or zone."
-}

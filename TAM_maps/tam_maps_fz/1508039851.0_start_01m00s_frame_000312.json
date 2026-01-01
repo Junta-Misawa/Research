@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/FZ/leftImg8bit/test/1508039851.0_start_01m00s_frame_000312.png",
-  "generated_text": "- road: The image shows a paved surface with white lane markings and arrows, which is characteristic of a road.\n- sidewalk: A paved area adjacent to the road, separated by a curb, is visible on the right side, which is a sidewalk.\n- building: A multi-story structure with windows and a door is clearly visible on the right side of the image.\n- pole: Several vertical poles, likely for streetlights, are visible along the road.\n- vegetation: A tree is visible in the distance, partially obscured by fog.\n- sky: The upper portion of the image shows a uniform grayish-white area, indicating the sky, though obscured by fog.\n- car: The perspective from inside a vehicle, including the dashboard and windshield wipers, indicates the presence of a car."
-}

@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/0a9fa6b4-51db4df5.jpg",
-  "generated_text": "- road: The image shows a paved road with lane markings extending into the distance, flanked by parked cars and sidewalks.\n- sidewalk: A sidewalk is visible along the left side of the road, adjacent to parked cars and a bus stop shelter.\n- building: Multi-story residential buildings are visible on both sides of the street.\n- vegetation: Trees and palm trees are present along the sidewalks and streets.\n- sky: The sky is visible above the buildings and trees, showing clouds and daylight.\n- car: Multiple cars are parked along both sides of the road, and some are visible driving in the distance.\n- pole: Streetlights with poles are visible along the road.\n- traffic sign: A small traffic sign is visible on the left side of the road, near the bus stop shelter."
-}

@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/ab6a3dc3-9ccf65d2.jpg",
-  "generated_text": "- road: Visible as the surface beneath the vehicles with painted lines.\n- building: Structures with windows and walls are visible in the background through the rain-streaked windshield.\n- pole: Vertical poles, likely for traffic lights or signs, are visible in the background.\n- traffic light: A green light is visible in the background.\n- car: A yellow taxi and a red car are visible through the windshield.\n- person: A person is visible inside the yellow taxi.\n- rider: A person is visible riding a bicycle in the background.\n- sky: The overcast sky is visible through the windshield, above the buildings and traffic."
-}

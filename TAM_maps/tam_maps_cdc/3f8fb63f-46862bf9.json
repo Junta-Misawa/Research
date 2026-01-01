@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/3f8fb63f-46862bf9.jpg",
-  "generated_text": "- road: The image shows a multi-lane road with visible lane markings and vehicles driving on it.\n- building: Brick buildings are visible on the right side of the road.\n- vegetation: Trees and bushes are visible along the roadside and in front of the buildings.\n- sky: The sky is visible above the buildings and trees, with some clouds.\n- pole: Several utility poles and traffic light poles are visible along the road.\n- traffic light: Traffic lights are visible at intersections ahead.\n- traffic sign: A Mobil gas station sign is visible on the right side of the road.\n- car: Multiple cars, SUVs, and vans are visible on the road.\n- truck: A white box truck with \"Sky Chefs\" written on it is visible on the left side of the road.\n- person: A person is visible walking on the sidewalk on the right side of the road."
-}

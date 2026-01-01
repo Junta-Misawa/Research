@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/a1acfdb8-68db64af.jpg",
-  "generated_text": "- road: The road is visible beneath the vehicles, including the lane markings and the area where cars are driving.\n- sidewalk: A sidewalk is visible on the left side of the road, separated from the road by a curb and tree trunks.\n- building: Multiple tall buildings are visible in the background and surrounding the street.\n- vegetation: Bare tree branches are visible on the left side of the image.\n- sky: A portion of the sky is visible above the buildings and trees.\n- person: A person is visible walking on the sidewalk on the left side of the image.\n- car: Several cars are visible on the road, including a silver SUV and a blue SUV.\n- bus: A large white bus with \"Coach USA\" branding is prominently visible in the foreground.\n- pole: A pole is visible on the sidewalk, supporting a traffic sign or light fixture."
-}

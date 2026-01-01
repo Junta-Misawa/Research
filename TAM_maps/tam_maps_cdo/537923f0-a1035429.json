@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/537923f0-a1035429.jpg",
-  "generated_text": "- road: The image shows a multi-lane highway with visible lane markings, which is a type of road.\n- vegetation: Trees and bushes are visible along the sides of the road, indicating the presence of vegetation.\n- sky: The upper portion of the image shows a bright, open sky.\n- car: Several cars are visible on the road, including a white SUV ahead and other vehicles in the distance.\n- person: Silhouettes of people crossing the road are depicted on a sticker on the windshield, indicating the presence of people.\n- rider: The silhouettes on the sticker depict people crossing the road, which implies they are pedestrians, a type of rider.\n- traffic sign: A green traffic sign is visible in the distance on the right side of the road."
-}

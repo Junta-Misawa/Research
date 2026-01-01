@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/14fc6ba0-f47c2960.jpg",
-  "generated_text": "- road: The image shows a street with visible road markings, including a crosswalk, and vehicles driving on it.\n- sidewalk: A pedestrian area is visible on the left side of the road, separated from the road by a curb.\n- building: Tall buildings with lit windows are visible in the background on both sides of the street.\n- pole: Vertical poles supporting traffic lights are visible in the image.\n- traffic light: Red traffic lights are visible above the street.\n- person: A person is visible walking on the sidewalk on the left side of the image.\n- car: Several cars, including yellow taxis, are visible parked or driving on the road.\n- vegetation: Trees are visible along the sidewalk on the left side of the image."
-}

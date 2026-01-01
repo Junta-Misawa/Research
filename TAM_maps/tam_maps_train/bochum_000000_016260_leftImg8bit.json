@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/bochum/bochum_000000_016260_leftImg8bit.png",
-  "generated_text": "- road: The wet, paved surface extending into the distance, flanked by parked cars and sidewalks, is clearly a road.\n- sidewalk: The paved areas on both sides of the road, bordered by curbs and vegetation, are designated for pedestrians.\n- building: Multiple multi-story structures with commercial signs and windows line both sides of the street.\n- vegetation: Trees and ivy-covered walls are visible along the sidewalks and buildings.\n- sky: A bright, overcast sky is visible above the buildings and trees.\n- car: Several cars are parked along both sides of the road, including a black Hyundai and a silver Mini Cooper.\n- person: A person is visible walking on the sidewalk on the right side of the street."
-}

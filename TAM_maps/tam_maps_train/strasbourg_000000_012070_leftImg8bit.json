@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/strasbourg/strasbourg_000000_012070_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved road with lane markings, including bicycle lanes, extending into the distance.\n- sidewalk: A sidewalk is visible on the right side of the road, bordered by a curb and trees.\n- building: Several buildings are visible, including residential buildings on the left and a tall building in the background.\n- vegetation: Trees and bushes are present along the sidewalk and in the background.\n- sky: A portion of the sky is visible through the trees in the background.\n- car: Multiple cars are parked along the left side of the road, and one car is driving away in the distance.\n- traffic sign: A parking sign (P) is visible on the right side of the road.\n- pole: A pole with a traffic sign is visible on the right side of the road."
-}

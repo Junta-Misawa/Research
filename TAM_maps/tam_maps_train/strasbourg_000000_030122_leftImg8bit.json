@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/strasbourg/strasbourg_000000_030122_leftImg8bit.png",
-  "generated_text": "- road: The dark paved surface extending into the distance, with visible lane markings and curbs, is designated for vehicle traffic.\n- sidewalk: The paved area alongside the road, bordered by curbs and bollards, is designated for pedestrians.\n- building: Multiple multi-story structures with arched windows and doors line both sides of the street.\n- vegetation: Large potted plants are visible on the right sidewalk.\n- person: Several individuals are walking on the sidewalks and in the street.\n- car: A silver car is visible parked on the right side of the street, and a black car is parked further down.\n- pole: Several short, dark bollards are placed along the sidewalk edge."
-}

@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/91f20f10-1b411dc6.jpg",
-  "generated_text": "- road: The image shows a paved road with visible lane markings and curbs, which is the primary surface for vehicle travel.\n- vegetation: There are green bushes and trees visible along the roadside and in the background.\n- sky: The upper portion of the image shows a clear blue sky with some clouds.\n- traffic light: Traffic lights are visible at the intersection ahead, showing green lights.\n- traffic sign: Green directional signs and a brown sign indicating \"Parking\" are visible.\n- pole: Several poles are present, including those supporting the traffic lights and signs.\n- building: A building is visible in the distance on the right side of the road.\n- terrain: There is grass visible along the roadside and in the median area.\n- car: The front windshield and hood of the car from which the photo is taken are visible."
-}

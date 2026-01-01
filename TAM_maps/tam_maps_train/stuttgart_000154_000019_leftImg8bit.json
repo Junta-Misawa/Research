@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/stuttgart/stuttgart_000154_000019_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved surface where vehicles are parked and presumably drive, consistent with a road.\n- sidewalk: A raised curb and a narrow strip of ground adjacent to parked cars and a fence indicate a sidewalk.\n- building: A multi-story structure with windows and architectural details is visible in the background.\n- fence: A metal lattice fence is visible behind some greenery.\n- vegetation: Green bushes and plants are visible behind the fence and along the sidewalk.\n- car: Several cars are visible, including a silver station wagon, a white van, and part of another silver car.\n- truck: The white van is a type of truck.\n- person: No person is visible in the image."
-}

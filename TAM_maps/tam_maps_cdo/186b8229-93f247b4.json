@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/186b8229-93f247b4.jpg",
-  "generated_text": "- road: The image shows a multi-lane paved road with visible lane markings and vehicles driving on it.\n- vegetation: Trees and bushes are visible along the roadside and in the background.\n- terrain: Grass is visible on the side of the road and in the background.\n- sky: The sky is visible above the trees and road, showing clouds.\n- car: Multiple cars are visible on the road, including a black sedan and a white SUV.\n- truck: A pickup truck is visible on the road.\n- traffic sign: A green highway sign indicating directions to Peninsula, Shore, and Rockville Ctr is visible."
-}

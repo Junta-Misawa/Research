@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/1a0b97c6-83f64f01.jpg",
-  "generated_text": "- road: The image shows a wet street with cars parked along both sides and a vehicle in motion, indicating it is a road.\n- building: Brick buildings are visible on both sides of the street, fitting the definition of a building.\n- vegetation: Trees with green leaves are present along the street, qualifying as vegetation.\n- sky: A pale, overcast sky is visible above the trees and buildings.\n- car: Multiple cars, including SUVs and sedans, are parked along the street and one is visible in motion.\n- fence: A fence is visible on the left side of the image, behind the parked cars."
-}

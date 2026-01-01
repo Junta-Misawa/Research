@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/strasbourg/strasbourg_000000_029915_leftImg8bit.png",
-  "generated_text": "- road: The asphalt surface in the foreground and extending into the background is clearly a road.\n- sidewalk: The paved area where pedestrians are walking and where motorcycles are parked is a sidewalk, delimited from the road by curbs and poles.\n- building: Multiple multi-story buildings with windows and architectural features are visible along the street.\n- pole: Numerous short, vertical metal poles are placed along the sidewalk, separating it from the road.\n- person: Several pedestrians are visible walking on the sidewalk.\n- motorcycle: Several motorcycles and scooters are parked along the sidewalk.\n- car: The Mercedes-Benz emblem visible in the reflection at the bottom indicates the presence of a car."
-}

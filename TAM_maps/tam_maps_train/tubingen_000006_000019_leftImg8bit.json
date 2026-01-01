@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/tubingen/tubingen_000006_000019_leftImg8bit.png",
-  "generated_text": "- sidewalk: The paved path where the person is walking, bordered by a curb and vegetation, is clearly designated for pedestrians.\n- fence: A metal fence runs along the background, separating the sidewalk from the wooded area.\n- vegetation: Trees and bushes are visible behind the fence and along the sidewalk.\n- terrain: Grass is visible in the foreground and along the edge of the sidewalk.\n- person: An elderly man is seen walking with a walker on the sidewalk.\n- car: A dark blue car is partially visible on the right side of the image.\n- pole: A white-painted tree trunk and a utility pole are visible on the left side of the image."
-}

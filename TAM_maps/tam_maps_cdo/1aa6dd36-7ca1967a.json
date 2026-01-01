@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/1aa6dd36-7ca1967a.jpg",
-  "generated_text": "- road: The image shows a multi-lane roadway with visible lane markings and vehicles driving on it.\n- building: Several brick buildings are visible along the sides of the road, particularly on the right.\n- vegetation: Bare trees are visible along both sides of the road, indicating vegetation.\n- sky: The sky is visible above the road and buildings, appearing overcast with clouds.\n- traffic sign: A green highway sign indicating \"Exit 8\" and \"W 179 St\" with an arrow is clearly visible above the road.\n- car: Multiple cars are visible on the road, including a white van in the lane ahead and other vehicles in adjacent lanes.\n- pole: Several poles are visible, including those supporting the traffic signs and streetlights.\n- traffic light: A traffic light is visible on the right side of the road, mounted on a pole."
-}

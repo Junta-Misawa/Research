@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/541bdb02-0751df83.jpg",
-  "generated_text": "- road: The image shows a multi-lane highway with visible lane markings and vehicles driving on it.\n- vegetation: Bare trees are visible along the sides of the road.\n- sky: The blue sky is visible above the trees and road.\n- car: Multiple cars and SUVs are visible on the road, including a white SUV to the right and a dark SUV directly ahead.\n- person: A person is visible standing on the right side of the road, near the guardrail."
-}

@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/46a09b21-ecc66322.jpg",
-  "generated_text": "- road: The image shows a paved street with lane markings, where cars are driving.\n- sidewalk: A sidewalk is visible on the right side of the road, adjacent to the car wash building.\n- building: There is a brick building with commercial signs on the right side of the road.\n- pole: Several poles are visible, including a tall streetlight pole and smaller poles for signs.\n- vegetation: Trees and bushes are visible along the roadside and near the buildings.\n- sky: The sky is visible above the buildings and street, with clouds.\n- car: Multiple cars are parked along the street and driving on the road.\n- truck: A white truck is visible on the left side of the road.\n- traffic sign: A traffic sign is visible on the left side of the road, near the truck.\n- fence: A fence is visible along the sidewalk on the right side of the road."
-}

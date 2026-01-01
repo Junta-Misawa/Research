@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/7eb06ba6-74b8ab7b.jpg",
-  "generated_text": "- road: The asphalt surface with yellow lane markings is visible beneath the cars.\n- sidewalk: A paved area beside the road, separated by a curb and vegetation, is visible on the right side.\n- building: Multi-story residential buildings line the street on the left.\n- fence: A white fence is visible behind the trees on the right side.\n- pole: A tall, thin pole with a streetlight is visible on the left side.\n- vegetation: Trees and bushes are visible along the sidewalk and behind the fence.\n- sky: The blue sky with scattered clouds is visible above the buildings and trees.\n- car: Multiple cars are parked along the street, including the Nissan Maxima in the foreground.\n- truck: A white van is parked on the left side of the street.\n- person: A person is visible walking on the sidewalk on the left side."
-}

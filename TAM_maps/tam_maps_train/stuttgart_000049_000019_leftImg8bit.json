@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/stuttgart/stuttgart_000049_000019_leftImg8bit.png",
-  "generated_text": "- road: The image shows a multi-lane road with white lane markings and traffic flow.\n- building: A multi-story building with windows is visible in the background.\n- vegetation: Trees and bushes are present along the roadside and in the background.\n- traffic sign: A blue circular traffic sign with an upward arrow is visible on the right side of the road.\n- pole: A pole supporting the traffic sign is visible on the right side of the road.\n- car: Several cars are visible on the road, including a black sedan on the left and a dark SUV further ahead.\n- truck: A white truck with \"LSU SCHÄBERLE\" written on its side is prominently visible in the center-right of the image.\n- person: A person can be seen walking near the building in the background."
-}

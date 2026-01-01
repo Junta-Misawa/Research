@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/aachen/aachen_000071_000019_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved road with white lane markings and cars driving on it.\n- sidewalk: A paved area next to the road with pedestrians and bicycles, separated by a curb.\n- building: Multiple buildings are visible in the background and along the street.\n- vegetation: Trees are visible along the sidewalk and in the background.\n- person: Several people are visible walking on the sidewalk.\n- car: Several cars are visible on the road.\n- traffic light: A traffic light is visible above the road.\n- traffic sign: A blue circular traffic sign with a bus symbol is visible on a pole.\n- pole: Several poles are visible, including one with the traffic sign and others supporting the traffic light.\n- bicycle: Several bicycles are parked on the sidewalk."
-}

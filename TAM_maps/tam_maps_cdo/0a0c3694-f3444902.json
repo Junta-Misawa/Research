@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/0a0c3694-f3444902.jpg",
-  "generated_text": "- road: The image shows a paved road with visible lane markings and vehicles driving on it.\n- sidewalk: Sidewalks are visible on both sides of the road, separated from the road by curbs.\n- building: Brick buildings are visible on both sides of the street.\n- vegetation: Trees are visible along the street and in front of the buildings.\n- sky: A portion of the sky is visible above the trees and buildings.\n- car: Multiple cars and SUVs are visible on the road and parked along the side.\n- pole: Traffic light poles and streetlight poles are visible.\n- traffic light: Traffic lights are visible above the road, showing green lights.\n- traffic sign: Traffic signs are visible above the road, including a green arrow sign and a green circular sign."
-}

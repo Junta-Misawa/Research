@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/4cdef661-12a8c2fb.jpg",
-  "generated_text": "- road: The paved surface with visible white crosswalk markings and tire tracks is clearly a road.\n- building: The large multi-story residential structure with balconies and windows is a building.\n- vegetation: Bare trees and shrubs are visible, indicating vegetation.\n- car: A lime green Jeep, a silver SUV, and a white Volkswagen Beetle are all present and clearly identifiable as cars.\n- pole: A thin vertical pole with a yellow stripe is visible near the sidewalk, consistent with a pole.\n- sidewalk: A narrow, snow-lined path adjacent to the road and building, separated by a curb, is visible and qualifies as a sidewalk."
-}

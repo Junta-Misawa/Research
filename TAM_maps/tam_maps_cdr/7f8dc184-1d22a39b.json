@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/7f8dc184-1d22a39b.jpg",
-  "generated_text": "- road: The image shows a paved surface with yellow lane markings and cars driving on it, which is characteristic of a road.\n- car: A white SUV is visible directly ahead, and several other cars are parked on the right side of the road.\n- vegetation: Trees are visible on both sides of the road, especially on the right side.\n- pole: Several poles are visible, including those supporting traffic lights and streetlights.\n- traffic light: A green traffic light is visible above the road ahead.\n- building: A building is partially visible on the left side of the image, behind some trees.\n- sidewalk: A sidewalk is visible on the left side of the road, separated from the road by a curb and some poles."
-}

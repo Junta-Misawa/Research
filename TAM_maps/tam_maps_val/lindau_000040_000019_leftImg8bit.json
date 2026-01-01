@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/val/lindau/lindau_000040_000019_leftImg8bit.png",
-  "generated_text": "- building: The image shows structures with windows, walls, and architectural details typical of buildings.\n- sidewalk: The cobblestone path in front of the buildings, separated from the street by curbs or edges, is designated for pedestrians.\n- traffic sign: A blue circular sign with a pictogram indicating a pedestrian zone is visible on the wall of the building.\n- vegetation: A potted plant in a large urn is present near the building's entrance.\n- car: The Mercedes-Benz logo on the hood indicates the presence of a car, visible from the perspective of the vehicle."
-}

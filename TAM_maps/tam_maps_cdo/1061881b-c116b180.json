@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/1061881b-c116b180.jpg",
-  "generated_text": "- road: The image shows a paved surface with lane markings, which is clearly a road for vehicle traffic.\n- building: Multiple brick buildings are visible along the street, including one with a red brick facade and another with a more traditional brick pattern.\n- fence: A black metal fence runs along the left side of the road, separating the road from an adjacent area.\n- vegetation: Trees with green leaves are visible along the right side of the road and in the background.\n- sky: The sky is visible above the buildings and trees, appearing overcast and gray.\n- car: Several cars are parked along the right side of the road, and one car is visible in the foreground, presumably the one from which the photo was taken.\n- traffic sign: A white rectangular sign with the number \"25\" is visible on a pole, indicating a speed limit."
-}

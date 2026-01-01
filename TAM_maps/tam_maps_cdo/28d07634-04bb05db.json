@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/28d07634-04bb05db.jpg",
-  "generated_text": "- road: The image shows a paved surface with cars driving and parked along its sides, indicating it is a road.\n- building: Multiple multi-story structures with windows and architectural features are visible along both sides of the street.\n- fence: A fence is visible along the right side of the street, separating the sidewalk from the buildings.\n- vegetation: Trees with green foliage are visible along the left side of the street.\n- sky: The upper portion of the image shows a cloudy sky.\n- car: Numerous cars are parked along both sides of the street and some are driving in the distance.\n- person: A person is visible lying on the sidewalk on the right side of the street."
-}

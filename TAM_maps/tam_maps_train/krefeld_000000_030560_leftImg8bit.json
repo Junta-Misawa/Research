@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/krefeld/krefeld_000000_030560_leftImg8bit.png",
-  "generated_text": "- road: The paved surface with a red line marking is clearly a road.\n- sidewalk: The paved area where pedestrians are walking, bordered by a curb, is a sidewalk.\n- building: The large structure with pillars and an entrance is a building.\n- fence: The metal grid barrier near the building entrance is a fence.\n- pole: The vertical metal pole with street signs attached is a pole.\n- traffic sign: The circular red sign with a white bar is a traffic sign.\n- vegetation: The trees and bushes along the sidewalk are vegetation.\n- person: Two individuals are walking on the sidewalk, and another person is walking further down the sidewalk.\n- car: The Mercedes-Benz emblem visible on the hood indicates the presence of a car."
-}

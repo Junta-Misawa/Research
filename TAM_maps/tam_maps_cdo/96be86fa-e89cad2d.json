@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/96be86fa-e89cad2d.jpg",
-  "generated_text": "- road: The image shows a multi-lane highway with white lane markings, which is a type of road.\n- sky: The upper portion of the image shows a gray, overcast sky.\n- vegetation: Several trees are visible along the roadside and in the background.\n- truck: A large yellow box truck is visible on the left side of the road.\n- car: Multiple cars are visible, including a silver SUV directly ahead and a silver sedan parked on the right side of the road.\n- pole: Several tall poles, likely for streetlights or signs, are visible along the highway.\n- traffic sign: A green highway sign indicating directions and exits is visible above the road."
-}

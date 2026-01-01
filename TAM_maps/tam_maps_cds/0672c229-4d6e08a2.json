@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/0672c229-4d6e08a2.jpg",
-  "generated_text": "- road: The road surface with visible crosswalk markings and snow piles along the curb.\n- sidewalk: The paved area next to the road, bordered by snow piles and a curb, with pedestrians walking on it.\n- building: The large brick structure with windows and an awning labeled \"67 PARK AVENUE\".\n- pole: The white pole supporting the \"ONE WAY\" sign and traffic light.\n- traffic light: The yellow traffic light box with a pedestrian symbol visible.\n- traffic sign: The \"ONE WAY\" sign mounted on the pole.\n- person: A person in a red jacket standing on the sidewalk and another person walking away in dark clothing.\n- car: A dark-colored sedan parked on the street near the building entrance.\n- vegetation: A small green bush or tree visible behind the building entrance."
-}

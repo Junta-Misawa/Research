@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/07c73bfa-92365af9.jpg",
-  "generated_text": "- road: The image shows a paved surface with yellow painted lines, which is clearly a road.\n- building: There are residential buildings visible along the street in the background.\n- vegetation: Trees and bushes are visible on both sides of the road.\n- sky: The sky is visible above the buildings and trees, appearing clear.\n- car: Several cars are visible, including one parked on the left and another parked on the right side of the road.\n- fence: A fence is visible on the right side of the road, behind the parked car.\n- pole: A pole is visible on the right side of the road, near the fence."
-}

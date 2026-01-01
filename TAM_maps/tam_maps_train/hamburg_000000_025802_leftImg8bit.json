@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/hamburg/hamburg_000000_025802_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved road with white lane markings and vehicles driving on it.\n- sidewalk: A sidewalk is visible on the left side of the road, adjacent to the building and trees.\n- building: A multi-story building with windows and a modern facade is visible on the left side of the image.\n- vegetation: Trees are visible along the sidewalk and in the background.\n- sky: The sky is visible above the buildings and trees, showing clouds.\n- person: A person is sitting on a bench on the sidewalk on the left side of the image.\n- car: Several cars are visible on the road, including a black car and a blue car.\n- truck: An orange fire rescue truck is visible on the road.\n- traffic sign: A red circular traffic sign is visible on a pole on the left side of the image."
-}

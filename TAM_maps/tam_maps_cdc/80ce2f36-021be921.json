@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/80ce2f36-021be921.jpg",
-  "generated_text": "- road: The image shows a paved surface with multiple lanes of traffic, including visible lane markings, which is characteristic of a road.\n- vegetation: There are numerous trees with green leaves visible along both sides of the road.\n- sky: The upper portion of the image shows a clear blue sky with some white clouds.\n- car: Several cars, including a black Lincoln SUV in the foreground and a black Mazda sedan ahead, are visible on the road.\n- traffic sign: A yellow diamond-shaped traffic sign with an upward arrow is visible on the right side of the road.\n- pole: A tall, thin pole supporting the traffic sign is visible, and other streetlight poles are also visible in the background.\n- terrain: There is grass visible along the roadside, particularly on the left side and near the guardrail on the right."
-}

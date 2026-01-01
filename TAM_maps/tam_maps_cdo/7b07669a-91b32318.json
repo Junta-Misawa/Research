@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/7b07669a-91b32318.jpg",
-  "generated_text": "- road: The image shows a paved surface with cars parked along its sides and a vehicle's dashboard in the foreground, indicating it is a road.\n- building: Tall residential or commercial buildings are visible on both sides of the road.\n- vegetation: Trees and hedges are present along the roadside and in front of the buildings.\n- sky: A portion of the sky is visible above the buildings and trees.\n- car: Multiple cars are parked along the side of the road, and a car is visible in the foreground from which the photo is taken."
-}

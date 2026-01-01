@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/hamburg/hamburg_000000_032906_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved surface with vehicles and pedestrians, which is characteristic of a road.\n- sidewalk: The paved area next to the road where people are standing and walking is clearly a sidewalk.\n- building: Multiple buildings with windows and commercial signs are visible along the street.\n- vegetation: Trees are visible in the background along the street.\n- sky: A portion of the sky is visible above the buildings and trees.\n- person: Several individuals are standing on the sidewalk.\n- car: A green van and other cars are parked along the street.\n- truck: A large truck with an open back is parked on the left side of the street.\n- bicycle: Several bicycles are parked on the left side of the street."
-}

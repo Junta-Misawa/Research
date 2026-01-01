@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/weimar/weimar_000085_000019_leftImg8bit.png",
-  "generated_text": "- road: The cobblestone surface extending from the foreground into the distance, where cars are parked and pedestrians are walking, is clearly a road.\n- sidewalk: The raised, paved area next to the road where the two people are walking and where the bicycles are parked, delimited by a curb and poles, is a sidewalk.\n- building: Multiple buildings with brick facades, windows, and doors are visible along both sides of the street.\n- person: Two individuals, an older woman and a younger person, are walking on the sidewalk.\n- car: Several cars are parked along the left side of the road.\n- bicycle: A bicycle is parked on the right side of the sidewalk, secured to a metal rack."
-}

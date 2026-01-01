@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/tubingen/tubingen_000051_000019_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved surface with cars parked along its sides and a visible lane for driving.\n- sidewalk: A paved area alongside the road, separated by a curb, where a person with a stroller is present.\n- building: Multiple multi-story structures with windows and doors line both sides of the street.\n- vegetation: Trees are visible in the background and along the street.\n- sky: The sky is visible above the buildings and trees, showing clouds.\n- person: A person is seen pushing a stroller on the sidewalk.\n- car: Several cars are parked along the right side of the road.\n- traffic sign: Blue pedestrian crossing signs are visible on poles along the street.\n- pole: Vertical poles supporting traffic signs are visible along the street."
-}

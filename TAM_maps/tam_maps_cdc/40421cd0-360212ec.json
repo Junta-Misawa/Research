@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/40421cd0-360212ec.jpg",
-  "generated_text": "- road: The image shows a paved surface with lane markings, which is clearly a road where cars are driving.\n- vegetation: There are multiple trees with green leaves visible along the sides of the road.\n- sky: The upper portion of the image shows a blue sky with some clouds.\n- pole: Several vertical poles are visible, including those supporting traffic lights and overhead wires.\n- traffic light: Traffic lights are visible hanging over the road, showing red lights.\n- car: Multiple cars are visible in the image, including a silver SUV, a silver sedan, and a gray minivan.\n- fence: A white fence is visible in the background, behind the trees on the right side.\n- building: A building with a white fence in front is partially visible in the background on the right side."
-}

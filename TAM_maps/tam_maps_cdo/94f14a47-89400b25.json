@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/94f14a47-89400b25.jpg",
-  "generated_text": "- road: The image shows a multi-lane paved road with visible lane markings, which is the primary surface for vehicle travel.\n- vegetation: There are numerous trees lining both sides of the road, which are vertical vegetation.\n- sky: The upper portion of the image shows an overcast sky without leaves or obstructions.\n- traffic sign: Green overhead highway signs indicating \"Exit 32 Bell Blvd\" and \"Exit 31N Northern Blvd WEST\" are clearly visible.\n- car: Multiple cars are visible on the road, including a black convertible, a black SUV, and a white van.\n- pole: Several vertical poles are visible, including those supporting the overhead traffic signs and streetlights.\n- wall: A concrete barrier wall runs along the right side of the road."
-}

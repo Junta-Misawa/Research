@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/a8b26e1c-7c8ee1d0.jpg",
-  "generated_text": "- road: The paved surface where vehicles are driving, including lane markings.\n- sidewalk: The paved area next to the road, elevated and delimited by a curb, for pedestrians.\n- building: The brick and glass structure on the right side of the street.\n- vegetation: The tree with green leaves on the sidewalk.\n- sky: The visible blue sky above the buildings and trees.\n- person: The individual walking on the sidewalk.\n- car: The yellow van in the foreground.\n- truck: The concrete mixer truck on the left side of the image.\n- traffic sign: The red and white \"T-JOY\" sign and the \"VACANT\" sign on the building."
-}

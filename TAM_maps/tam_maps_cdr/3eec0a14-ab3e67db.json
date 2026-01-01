@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/3eec0a14-ab3e67db.jpg",
-  "generated_text": "- road: The image shows a wet, reflective surface with visible lane markings, indicating it is a road.\n- building: Dimly lit structures are visible on both sides of the road, consistent with buildings.\n- pole: Vertical poles supporting streetlights are visible along the road.\n- traffic light: A red traffic light is visible in the distance.\n- car: The vehicle from which the image is captured, including its dashboard, is visible in the foreground.\n- terrain: Dark, indistinct areas on the sides of the road suggest terrain, possibly grass or dirt."
-}

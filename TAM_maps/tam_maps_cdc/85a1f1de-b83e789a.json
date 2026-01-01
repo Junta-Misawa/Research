@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/85a1f1de-b83e789a.jpg",
-  "generated_text": "- road: The image shows a paved surface with lane markings and cars driving on it.\n- building: Several multi-story buildings are visible in the background, including one with a \"Mattress Firm\" sign.\n- vegetation: Trees are visible along the sides of the road.\n- sky: The sky is visible above the trees and buildings, with some clouds.\n- pole: Multiple poles are visible, including those for traffic lights and street signs.\n- traffic light: Traffic lights are visible at the intersection, showing green.\n- traffic sign: Several traffic signs are visible, including green directional signs and a \"No Parking\" sign.\n- car: Multiple cars and SUVs are visible on the road, including a silver SUV on the left and a black SUV in the center.\n- truck: A white van is visible on the right side of the image."
-}

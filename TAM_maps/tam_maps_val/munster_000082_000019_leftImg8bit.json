@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/val/munster/munster_000082_000019_leftImg8bit.png",
-  "generated_text": "- road: The cobblestone surface on which the cars are parked and driving is the road.\n- building: The brick structures on both sides of the street are buildings.\n- vegetation: There are trees with green leaves visible above the street.\n- traffic sign: Blue parking signs with a 'P' and an arrow are visible on poles.\n- car: Multiple cars are parked along both sides of the street.\n- bicycle: A bicycle is parked against a building in the background.\n- pole: Poles are visible holding the traffic signs.\n- person: A person is visible standing near the parked cars in the background."
-}

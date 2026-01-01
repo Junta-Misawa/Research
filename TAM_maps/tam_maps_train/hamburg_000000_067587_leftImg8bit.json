@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/hamburg/hamburg_000000_067587_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved road with white lane markings extending into the distance.\n- sidewalk: A paved sidewalk runs alongside the road, bordered by a fence on the right side.\n- building: A building is visible in the background on the right side of the road.\n- fence: A metal fence runs along the right side of the sidewalk.\n- pole: Several streetlight poles are visible along the road.\n- vegetation: Trees and bushes are present along the road and on the embankment.\n- terrain: Grass and soil are visible on the embankment on the left side of the road.\n- sky: The sky is visible above the trees and buildings.\n- person: Two people are walking on the sidewalk on the right side of the road.\n- car: A car is visible parked on the right side of the road."
-}

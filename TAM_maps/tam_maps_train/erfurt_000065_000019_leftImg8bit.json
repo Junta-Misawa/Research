@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/erfurt/erfurt_000065_000019_leftImg8bit.png",
-  "generated_text": "- sidewalk: The ground surface is paved and delimited from the road by poles, intended for pedestrian use.\n- building: Structures with windows, commercial signs (e.g., \"REER\", \"NEWYORK\"), and architectural details are visible.\n- person: Individuals are walking on the sidewalk and street.\n- traffic sign: Signs indicating \"ZONE\" and \"frei\" (German for free) for bicycles are visible.\n- pole: Vertical poles are present, supporting traffic signs.\n- sky: A portion of the sky is visible above the buildings.\n- vegetation: Trees can be seen in the distance down the street.\n- road: The cobblestone surface in the foreground and the street ahead are part of the road.\n- bicycle: A bicycle is parked on the sidewalk near the \"REER\" store."
-}

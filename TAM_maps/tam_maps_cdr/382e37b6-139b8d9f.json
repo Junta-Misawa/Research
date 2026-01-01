@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/382e37b6-139b8d9f.jpg",
-  "generated_text": "- road: The image shows a wet street with visible lane markings and vehicles driving on it.\n- sidewalk: Pedestrians are visible walking on a paved area next to the road, separated by a curb.\n- building: Multiple buildings with storefronts and signs are visible along the street.\n- pole: Traffic light poles are visible supporting the traffic lights.\n- traffic light: Traffic lights are visible hanging over the street.\n- person: Several pedestrians are visible walking on the sidewalk.\n- car: Multiple cars are visible on the road, including a red sedan directly ahead.\n- truck: Two large trucks are visible on the road, one with a white box and another with a cargo trailer."
-}

@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/aachen/aachen_000098_000019_leftImg8bit.png",
-  "generated_text": "- road: The image shows a cobblestone street that serves as a road for vehicles and pedestrians.\n- sidewalk: There are pedestrian walkways on both sides of the road, separated by curbs and bollards.\n- building: Multiple buildings are visible, including one with large windows on the left and a more modern structure on the right.\n- pole: Several small vertical poles are present along the sidewalk, likely for lighting or signage.\n- traffic sign: A traffic sign is visible on a pole near the center of the image.\n- person: Several individuals are visible walking or standing on the sidewalk.\n- car: A dark-colored car is parked on the right side of the street."
-}

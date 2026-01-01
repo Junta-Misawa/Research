@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/jena/jena_000093_000019_leftImg8bit.png",
-  "generated_text": "- road: The paved surface extending forward, marked for vehicle traffic, is clearly visible.\n- sidewalk: A paved pedestrian area is visible on the right side of the road, separated by a curb.\n- building: Multiple multi-story residential buildings are visible on both sides of the street.\n- vegetation: Trees and a hedge line the left side of the road.\n- sky: A portion of the sky is visible above the buildings and trees.\n- car: Several cars are parked along the right side of the road.\n- traffic sign: A blue traffic sign with a white arrow indicating a turn is visible on the right side of the road.\n- pole: Several poles, likely for traffic lights or signs, are visible along the road.\n- fence: A hedge fence runs along the left side of the road."
-}

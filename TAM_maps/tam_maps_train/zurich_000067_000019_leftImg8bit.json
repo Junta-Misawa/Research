@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/zurich/zurich_000067_000019_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved surface with visible road markings, including a pedestrian crossing and painted lines, which is characteristic of a road.\n- sidewalk: Pedestrians are visible walking on a designated area adjacent to the road, which is separated by a curb and appears to be a sidewalk.\n- building: Multiple multi-story buildings with windows, storefronts, and architectural details are visible throughout the image.\n- person: Several individuals are visible walking or standing on the sidewalk and street, including a person in a white shirt walking away from the camera.\n- car: Numerous cars are parked or driving on the road, including sedans, SUVs, and vans.\n- motorcycle: A motorcycle is visible parked on the left side of the street, near the curb."
-}

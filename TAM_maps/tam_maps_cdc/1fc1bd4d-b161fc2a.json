@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/1fc1bd4d-b161fc2a.jpg",
-  "generated_text": "- road: The image shows a multi-lane paved road with visible lane markings and vehicles driving on it.\n- vegetation: Trees and greenery are visible along the right side of the road and in the background.\n- sky: The sky is visible above the road and bridge, appearing clear and blue with some clouds.\n- car: Multiple cars are visible on the road, including a white SUV in the left lane and several other vehicles ahead.\n- traffic sign: Green highway signs indicating directions and exits are visible overhead, as well as a red warning sign.\n- pole: Several poles supporting traffic signs and streetlights are visible along the road.\n- fence: A metal fence runs along the edge of the bridge structure on the left side of the image."
-}

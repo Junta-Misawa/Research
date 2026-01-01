@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/6bacf712-3ebf051c.jpg",
-  "generated_text": "- road: The image shows a paved road with white lane markings, which is the main surface for vehicle travel.\n- vegetation: Trees are visible on both sides of the road, indicating the presence of vegetation.\n- sky: The upper part of the image shows a sky with a gradient of light, indicating the presence of sky.\n- car: A white car is visible ahead on the road, with its headlights on.\n- fence: A fence is visible along the right side of the road, running parallel to the road.\n- pole: A vertical pole is visible on the left side of the road, likely a utility or streetlight pole.\n- building: Buildings are visible on both sides of the road, including structures with windows and roofs.\n- terrain: Grass or ground cover is visible along the edges of the road, particularly on the left side."
-}

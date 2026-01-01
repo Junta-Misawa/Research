@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/33135915-5684921f.jpg",
-  "generated_text": "- road: The image shows a paved surface with lane markings, used for vehicle traffic, which is characteristic of a road.\n- building: Multiple multi-story structures line both sides of the street, fitting the definition of buildings.\n- vegetation: Bare tree branches are visible along the street, indicating the presence of vegetation.\n- sky: A clear, bright area is visible above the buildings, indicating the sky.\n- car: Several vehicles, including sedans and SUVs, are parked or driving on the road.\n- person: A person is visible standing near the sidewalk on the right side of the image."
-}

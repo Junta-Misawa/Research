@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/4bfac9ce-e9f106e0.jpg",
-  "generated_text": "- road: The wet, reflective surface with visible lane markings and traffic flow indicates a road.\n- building: Tall structures with windows and architectural features are visible in the background.\n- vegetation: Trees and bushes are visible on the right side of the image.\n- sky: The blue, overcast background above the buildings indicates the sky.\n- car: Several cars are visible on the road, including one directly ahead with headlights on.\n- traffic light: Green traffic lights are visible at the intersections.\n- pole: Vertical poles supporting traffic lights are visible.\n- person: A person is visible walking on the sidewalk on the right side of the image."
-}

@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/zurich/zurich_000107_000019_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved road with visible lane markings and curbs, extending into the distance.\n- sidewalk: A sidewalk is visible along the right side of the road, bordered by a curb and trees.\n- building: A multi-story building with a white facade and windows is visible on the left side of the road.\n- vegetation: Trees with green leaves are present along both sides of the road.\n- sky: A portion of the sky is visible through the tree canopy in the upper part of the image.\n- traffic sign: A blue and white traffic sign indicating \"Zollstelle P\" is visible on the right side of the road.\n- car: Several cars are parked along the left side of the road.\n- pole: A pole with a traffic sign attached is visible on the right side of the road."
-}

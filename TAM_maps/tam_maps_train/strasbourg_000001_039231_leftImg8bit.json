@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/strasbourg/strasbourg_000001_039231_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved road with white lane markings and vehicles driving on it.\n- sidewalk: A sidewalk is visible on the right side of the road, bordered by a curb and trees.\n- building: Buildings with multiple windows and commercial signs are visible along the street.\n- vegetation: Trees are present along both sides of the road.\n- person: A person can be seen walking on the sidewalk in the distance.\n- car: Several cars are parked along the side of the road and one is driving in the lane.\n- pole: Poles are visible along the sidewalk, likely for streetlights or signs.\n- traffic sign: A red traffic sign (possibly a stop sign) is visible in the distance.\n- traffic light: A green traffic light is visible on the right side of the road."
-}

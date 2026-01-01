@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/monchengladbach/monchengladbach_000000_025215_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved street with cars parked along both sides and a visible lane for driving.\n- sidewalk: A sidewalk is visible on the right side of the road, adjacent to parked cars and trees, with two children standing on it.\n- building: Multiple buildings are visible along both sides of the street, including residential and commercial structures.\n- vegetation: Trees are visible along the right side of the street and in the background.\n- sky: The sky is visible above the buildings and trees, appearing overcast.\n- person: Two children are standing on the sidewalk on the right side of the street.\n- car: Numerous cars are parked along both sides of the street.\n- truck: A white truck is visible in the distance down the street."
-}

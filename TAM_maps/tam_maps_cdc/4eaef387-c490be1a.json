@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/4eaef387-c490be1a.jpg",
-  "generated_text": "- road: The image shows a paved surface with lane markings and cars driving/parked on it, which is characteristic of a road.\n- building: Several structures with walls and windows are visible along the street, including one with scaffolding.\n- fence: A chain-link fence is visible in the background, separating the sidewalk or property from the street.\n- pole: A streetlight pole is visible on the left side of the image.\n- traffic sign: An orange diamond-shaped construction sign is visible on the left side of the road.\n- vegetation: Several trees with green leaves are visible along the street.\n- sky: The upper portion of the image shows a blue sky with white clouds.\n- car: Multiple cars and SUVs are parked along the side of the road.\n- truck: A yellow truck is visible parked on the left side of the road."
-}

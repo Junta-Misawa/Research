@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/830c6cb2-f7b30a4c.jpg",
-  "generated_text": "- road: The paved surface with lane markings where vehicles are driving.\n- sidewalk: The snow-covered path beside the road where a person is walking.\n- building: The multi-story structure visible in the background.\n- fence: The chain-link fence visible behind the buses.\n- pole: The utility pole with wires and the lamppost.\n- vegetation: The bare trees lining the road and sidewalk.\n- sky: The clear blue sky with scattered clouds visible above.\n- person: The individual walking on the sidewalk.\n- car: The silver SUV and other cars visible on the road.\n- bus: The yellow school buses parked on the side of the road.\n- truck: The white van visible on the road.\n- traffic sign: The electronic sign on the front of the bus."
-}

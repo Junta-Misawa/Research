@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/7848bf90-86286583.jpg",
-  "generated_text": "- road: The wet, reflective surface with visible lane markings and the blurred shapes of vehicles indicate a road.\n- building: Dark, indistinct shapes on both sides of the road, with windows and structural lines, suggest buildings.\n- sky: The bright, overexposed area at the top center, with a blue hue and scattered light, indicates the sky.\n- car: Blurred, illuminated shapes with headlights visible, consistent with cars viewed through a rain-streaked windshield.\n- vegetation: Faint, dark, vertical shapes on the left and right sides, possibly trees or bushes, are visible through the raindrops."
-}

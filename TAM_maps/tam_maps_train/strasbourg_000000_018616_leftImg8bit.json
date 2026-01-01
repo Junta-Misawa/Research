@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/strasbourg/strasbourg_000000_018616_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved surface with white lane markings, which is characteristic of a road.\n- sidewalk: There is a raised edge and pavement area on the right side of the road, which is a sidewalk.\n- building: The structures with windows and doors in the background are buildings.\n- vegetation: There are potted plants and shrubs on the left side of the road, which are vegetation.\n- car: A black sedan is visible on the road, and a silver van is parked on the left side.\n- bicycle: Two bicycles are parked on the sidewalk in the background.\n- traffic sign: A traffic sign is visible on the left side of the road, near the silver van."
-}

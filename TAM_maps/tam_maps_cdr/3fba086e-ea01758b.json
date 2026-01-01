@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/3fba086e-ea01758b.jpg",
-  "generated_text": "- road: The wet surface with yellow lane markings is clearly visible as a road.\n- sidewalk: A paved area beside the road, separated by a curb, is visible on the right side.\n- building: Residential houses with brick and siding are visible along the street.\n- fence: A chain-link fence runs along the right side of the road.\n- pole: Multiple utility poles with wires are visible along the street.\n- vegetation: Trees and shrubs are visible on both sides of the road.\n- terrain: Grass is visible behind the fence on the right.\n- sky: The overcast sky is visible above the scene.\n- person: A person is visible walking on the sidewalk on the left.\n- car: A silver car is visible driving ahead on the road.\n- traffic sign: A green street sign is visible on a pole on the left."
-}

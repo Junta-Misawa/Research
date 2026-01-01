@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/6be5f745-f79e54e5.jpg",
-  "generated_text": "- road: The image shows a paved surface with lane markings, designed for vehicle traffic.\n- building: Structures with commercial signs like \"MARIAN\" are visible, indicating buildings.\n- fence: A chain-link fence is visible along the side of the road.\n- pole: Vertical poles are present, including those supporting signs and traffic infrastructure.\n- traffic sign: A yellow diamond-shaped sign indicating a yield or merge is visible.\n- vegetation: Trees and bushes are visible along the roadside.\n- sky: The open sky is visible above the scene, with some clouds and wires.\n- car: Multiple cars, including an SUV and a sedan, are visible on the road.\n- truck: A large truck with a red crane attachment is visible on the right side of the road."
-}

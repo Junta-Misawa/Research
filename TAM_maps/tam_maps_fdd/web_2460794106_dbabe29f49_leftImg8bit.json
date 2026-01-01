@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/FDD/leftImg8bit/test_extra/web_2460794106_dbabe29f49_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved surface with visible lane markings, which is characteristic of a road.\n- sidewalk: A pedestrian path is visible alongside the road, separated by a curb, indicating a sidewalk.\n- vegetation: Trees and bushes are visible, partially obscured by fog, indicating vegetation.\n- terrain: Grass areas are visible along the sidewalk and road edges, indicating terrain.\n- sky: The upper portion of the image shows a hazy, overcast sky without visible trees or structures.\n- bus: A large vehicle with the typical shape and size of a public transport bus is visible on the road.\n- pole: A vertical pole, likely a utility or street light pole, is visible on the right side of the image."
-}

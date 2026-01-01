@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/035cb512-77517657.jpg",
-  "generated_text": "- road: The image shows a paved surface with lane markings, which is clearly a road for vehicle traffic.\n- sidewalk: There is a raised curb separating the road from a dirt and grass area, which is a sidewalk.\n- vegetation: Numerous trees are visible along the road and in the background.\n- sky: The sky is visible above the trees and buildings.\n- car: Several cars, including a white SUV and a silver SUV, are visible on the road.\n- pole: A white pole with a speed limit sign is visible on the left side of the road.\n- traffic sign: A white rectangular sign indicating \"SPEED LIMIT 35\" is visible on a pole.\n- building: Houses are visible in the background on both sides of the road."
-}

@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/7eab8b99-e50c4d73.jpg",
-  "generated_text": "- road: The image shows a paved surface with lane markings, which is clearly a road.\n- building: Structures with windows and architectural features are visible in the background, indicating buildings.\n- vegetation: Trees are visible in the background along the roadside.\n- sky: The sky is visible above the bridge and buildings, appearing overcast.\n- truck: A large green dump truck is visible on the right side of the road, and a white box truck is on the left side.\n- car: Several cars are visible in the distance on the road, including one directly ahead and others further down the road."
-}

@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/74f2f74a-2c95e01d.jpg",
-  "generated_text": "- road: The image shows a paved road with visible lane markings and vehicles driving on it.\n- sidewalk: Sidewalks are visible on both sides of the road, separated from the road by curbs.\n- building: Houses are visible along the street, including one with a garage.\n- vegetation: Trees and bushes are visible along the road and in front of the houses.\n- terrain: Grass areas are visible along the sidewalks and in front of the houses.\n- sky: The sky is visible above the houses and trees, appearing overcast.\n- car: Multiple cars and SUVs are visible on the road and parked along the sides.\n- pole: A streetlight pole is visible in the middle distance.\n- traffic sign: A small traffic sign is visible on the right side of the road.\n- person: No person is visible in the image."
-}

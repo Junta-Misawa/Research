@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/7e9d3327-76f2f118.jpg",
-  "generated_text": "- road: The image shows a paved surface with cars driving and parked along its sides, indicating it is a road.\n- building: Multiple multi-story structures with windows and architectural features are visible along both sides of the street.\n- vegetation: Bare tree branches are visible against the sky, indicating vegetation.\n- sky: A blue, overcast sky is visible above the buildings and trees.\n- car: Numerous cars are parked along the sides of the road and one is visible driving ahead.\n- traffic light: A green traffic light is visible in the distance, mounted on a pole.\n- pole: Several vertical poles are visible, including those supporting traffic lights and signs.\n- traffic sign: A yellow diamond-shaped traffic sign is visible in the distance.\n- person: A person is visible walking on the sidewalk on the left side of the street."
-}

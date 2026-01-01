@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/stuttgart/stuttgart_000130_000019_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved street with lane markings, which is clearly a road.\n- building: Multiple multi-story buildings line both sides of the street, fitting the definition of buildings.\n- person: A person is visible standing on the sidewalk on the right side of the street.\n- car: Numerous cars are parked along both sides of the street, and one is visible in the foreground.\n- sky: The sky is visible at the top of the image, appearing overcast or bright.\n- fence: A metal fence is visible on the left side of the image, near the sidewalk."
-}

@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/aachen/aachen_000152_000019_leftImg8bit.png",
-  "generated_text": "- road: The paved surface with white markings along the edge is visible in the foreground, indicating a road.\n- sidewalk: A narrow, elevated path with a curb separating it from the road is visible, which is characteristic of a sidewalk.\n- building: A large, multi-story industrial complex with visible pipes and structures is present in the background.\n- vegetation: Numerous trees and bushes are visible throughout the image, especially in the foreground and middle ground.\n- terrain: The grassy and overgrown areas surrounding the road and sidewalk constitute terrain.\n- sky: The overcast, cloudy sky is visible above the buildings and trees.\n- pole: A thin, vertical pole is visible in the middle ground, near the center of the image."
-}

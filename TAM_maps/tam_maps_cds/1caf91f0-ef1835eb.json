@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/1caf91f0-ef1835eb.jpg",
-  "generated_text": "- road: The image shows a multi-lane highway with visible lane markings and vehicles driving on it.\n- vegetation: Trees with bare branches are visible along the roadside and in the background.\n- sky: The upper portion of the image shows a bright, open sky.\n- car: Multiple cars are visible on the road, including a black SUV in the right lane and a yellow car in the middle lane.\n- bus: A yellow school bus is visible on the left side of the road.\n- pole: Several vertical poles are visible, including those supporting overhead signs and streetlights.\n- traffic sign: Overhead highway signs are visible above the road, indicating directions or exits."
-}

@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/6269a99b-c6343a27.jpg",
-  "generated_text": "- road: The image shows a paved road with visible lane markings and vehicles driving on it.\n- sidewalk: A sidewalk is visible on the right side of the road, adjacent to the buildings.\n- building: Several buildings are visible along the street, including residential-style structures.\n- vegetation: Trees and shrubs are visible along the street and in front of some buildings.\n- sky: The sky is visible above the buildings and street, appearing clear and blue.\n- person: A person is visible standing on the sidewalk on the right side of the image.\n- car: Multiple cars are visible, including a white sedan in the foreground and a silver minivan on the left side of the road."
-}

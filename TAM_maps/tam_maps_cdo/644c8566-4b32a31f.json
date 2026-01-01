@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/644c8566-4b32a31f.jpg",
-  "generated_text": "- road: The image shows a paved surface with lane markings and traffic flowing, which is characteristic of a road.\n- building: Multiple tall structures with windows and architectural features are visible, consistent with buildings.\n- pole: Several vertical poles supporting traffic lights and signs are present.\n- traffic light: Red and green traffic lights are visible at various intersections.\n- traffic sign: A \"No Parking\" sign is visible on a pole.\n- person: Pedestrians are visible on the sidewalk near the crosswalk.\n- car: Multiple cars, including sedans and a van, are visible on the road.\n- bus: A bus is visible in the distance on the road.\n- sky: The upper portion of the image shows a cloudy sky.\n- vegetation: A few trees are visible along the sidewalk."
-}

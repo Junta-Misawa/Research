@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/2e51558a-cc87346e.jpg",
-  "generated_text": "- road: The image shows a multi-lane road with visible lane markings and cars driving on it.\n- building: Several tall buildings and skyscrapers are visible in the background, including glass-faced structures.\n- vegetation: Trees and bushes are visible along the side of the road and in the foreground.\n- sky: The sky is visible above the buildings and road, with some clouds.\n- car: Multiple cars are visible on the road, including a silver car directly ahead and others in adjacent lanes.\n- pole: Several streetlights with vertical poles are visible along the road.\n- traffic sign: A yellow traffic sign is visible in the distance, and a blue sign is visible on the right side of the road."
-}

@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/FZ/leftImg8bit/test/1508040913.0_frame_000991.png",
-  "generated_text": "- road: The image shows a paved road with visible lane markings and cars driving on it.\n- vegetation: Trees and bushes are visible on both sides of the road, partially obscured by fog.\n- sky: The sky is visible above the trees and buildings, appearing overcast and foggy.\n- car: Two cars are visible on the road: a silver station wagon on the left and a black car ahead in the center.\n- pole: Streetlight poles are visible on both sides of the road.\n- traffic sign: A directional traffic sign is visible on a pole to the left of the road.\n- wall: A concrete wall with graffiti is visible on the right side of the road."
-}

@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/monchengladbach/monchengladbach_000000_010505_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved road with visible lane markings and parked cars on both sides.\n- building: Multiple buildings are visible in the background and along the sides of the street, including ornate facades and commercial signs.\n- traffic sign: Blue parking signs (P) are visible on poles and attached to buildings.\n- person: Two individuals are visible walking on the road, one of whom is pushing a bicycle.\n- rider: One person is riding a bicycle on the road.\n- car: Numerous cars are parked along both sides of the road, including a black Mercedes-Benz CLK 200 and a white van.\n- bicycle: A bicycle is being ridden by a person on the road."
-}

@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/987b8aba-d3cd2336.jpg",
-  "generated_text": "- road: The ground surface on which vehicles are driving is visible through the windshield.\n- building: Buildings are visible in the background along the street.\n- vegetation: Trees are visible in the background along the street.\n- sky: A portion of the sky is visible at the top left of the image.\n- person: A person is visible walking on the sidewalk in the background.\n- car: Multiple cars are visible, including yellow taxis and a white van.\n- truck: A large white truck is visible in the background.\n- bus: A white bus is visible on the far left side of the image."
-}

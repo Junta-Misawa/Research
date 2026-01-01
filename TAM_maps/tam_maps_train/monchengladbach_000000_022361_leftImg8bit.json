@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/monchengladbach/monchengladbach_000000_022361_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved street with cars parked along both sides, indicating it is a road.\n- building: Multiple buildings are visible on both sides of the street, including residential and commercial structures.\n- vegetation: Trees are visible in the background, particularly on the left side of the street.\n- sky: The sky is visible above the buildings and trees, appearing overcast.\n- car: Numerous cars are parked along both sides of the street, including a white van on the left and a blue car on the right.\n- pole: A vertical pole is visible on the right side of the street, near the parked cars."
-}

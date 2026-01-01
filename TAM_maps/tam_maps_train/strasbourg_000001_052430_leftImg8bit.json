@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/strasbourg/strasbourg_000001_052430_leftImg8bit.png",
-  "generated_text": "- road: The paved surface in the foreground, where the Mercedes-Benz emblem is visible, is a road.\n- sidewalk: The paved area with bollards and parked motorcycles, adjacent to the road, is a sidewalk.\n- building: The stone building with arched windows and doors, including the HSBC sign, is a building.\n- pole: The metal bollards along the sidewalk are poles.\n- person: A person is visible standing near the motorcycles on the right side of the image.\n- motorcycle: Several motorcycles and scooters are parked along the sidewalk.\n- bicycle: A bicycle is parked on the left side of the sidewalk, near the HSBC ATM."
-}

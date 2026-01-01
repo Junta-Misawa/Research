@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/559fed19-041c6358.jpg",
-  "generated_text": "- road: The paved surface with visible lane markings and the car's hood reflection indicates a road.\n- sidewalk: The concrete area adjacent to the road, separated by a curb and utility poles, is a sidewalk.\n- building: The large white and gray structures with windows and signs are buildings.\n- fence: The chain-link fence running along the side of the white building is a fence.\n- pole: The tall wooden poles with wires attached are poles.\n- vegetation: The bare tree branches and shrubs are vegetation.\n- terrain: The patches of snow and grassy areas are terrain.\n- sky: The clear blue background above the buildings and wires is sky.\n- truck: The white vehicle with a blue trailer parked near the building is a truck.\n- car: The vehicle from which the photo is taken, visible by the hood reflection, is a car."
-}

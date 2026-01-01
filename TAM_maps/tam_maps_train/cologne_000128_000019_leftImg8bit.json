@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/cologne/cologne_000128_000019_leftImg8bit.png",
-  "generated_text": "- road: The cobblestone surface with white lane markings is clearly visible as the road.\n- sidewalk: The paved area on the right side of the road, where pedestrians are walking, is a sidewalk.\n- building: Multiple buildings are visible along both sides of the street.\n- fence: A temporary fence with advertisements is visible on the right side of the image.\n- pole: Several poles are visible, including those holding traffic signs.\n- traffic sign: Multiple traffic signs are visible, including a yield sign, directional signs, and pedestrian crossing signs.\n- vegetation: Trees with green leaves are visible along the street.\n- person: Several people are visible walking on the sidewalk and crossing the road.\n- car: Several cars are visible on the road and parked along the side."
-}

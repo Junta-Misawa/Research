@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/krefeld/krefeld_000000_029704_leftImg8bit.png",
-  "generated_text": "- road: The paved surface where vehicles are driving and parked, including the lane markings.\n- sidewalk: The paved area along the building where pedestrians are walking, separated from the road by a curb.\n- building: The brick and white buildings lining the street, including the one with windows and a kiosk sign.\n- vegetation: The trees and greenery visible along the street and in the background.\n- person: The three individuals walking on the sidewalk.\n- car: The grey Citroën C4 and the white Mercedes-Benz van parked on the street.\n- traffic sign: The red \"STOP\" signs visible on poles.\n- pole: The poles supporting the \"STOP\" signs and other traffic signs.\n- bicycle: The bicycle being ridden by a person on the right side of the street."
-}

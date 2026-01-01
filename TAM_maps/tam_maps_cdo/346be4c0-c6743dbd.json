@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/346be4c0-c6743dbd.jpg",
-  "generated_text": "- road: The image shows a multi-lane road with visible lane markings and vehicles driving on it.\n- building: A large building with windows and an air conditioning unit is visible on the right side of the road.\n- fence: A metal fence is visible on the side of the truck.\n- pole: Several tall poles, likely for streetlights, are visible along the road.\n- vegetation: Trees and bushes are visible along the roadside and in the background.\n- sky: The sky is visible above the buildings and trees, with clouds.\n- car: A silver car is visible directly in front of the camera.\n- truck: A large truck with a crane attachment is visible on the right side of the road.\n- traffic light: A green traffic light is visible in the distance."
-}

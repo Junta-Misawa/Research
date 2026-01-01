@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/5dc4a461-50d0525a.jpg",
-  "generated_text": "- road: The image shows a paved street with double yellow lines, indicating it is a road.\n- building: Brick buildings line both sides of the street, fitting the definition of a building.\n- vegetation: Trees are visible along the street, qualifying as vegetation.\n- sky: A portion of the sky is visible above the buildings and trees.\n- car: Multiple cars are parked along the street and some are driving on the road.\n- pole: Traffic light poles are visible in the image.\n- traffic light: Traffic lights are visible at the intersections.\n- traffic sign: A parking sign is visible on the right side of the road.\n- rider: A person can be seen walking on the sidewalk on the left side of the road."
-}

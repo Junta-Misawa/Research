@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/8cf2bc42-c56944cb.jpg",
-  "generated_text": "- road: The image shows a multi-lane road with visible lane markings and vehicles driving on it.\n- building: The large structure on the right with a covered walkway and windows is a building.\n- wall: The concrete barrier along the side of the road is a wall.\n- pole: Several vertical poles supporting traffic signs are visible.\n- traffic sign: Multiple overhead and roadside traffic signs are visible, providing directions and information.\n- sky: The upper portion of the image shows the open sky with clouds.\n- person: A person is visible standing near the building on the right side.\n- car: Multiple cars are visible on the road and parked along the side.\n- truck: A white truck is visible in the distance on the road.\n- bus: A white bus is visible in the distance on the road."
-}

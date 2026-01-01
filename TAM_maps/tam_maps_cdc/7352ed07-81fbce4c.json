@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/7352ed07-81fbce4c.jpg",
-  "generated_text": "- road: The ground surface where vehicles are parked and driving, including the wet patches, is clearly a road.\n- sidewalk: The paved area next to the road, separated by a curb, is a sidewalk.\n- building: The structures with signs like \"24 HOUR CAR\" and \"ATM INSIDE\" are buildings.\n- pole: The tall vertical structures with streetlights and signs are poles.\n- traffic sign: The green street sign and other regulatory signs are traffic signs.\n- vegetation: The bare trees visible in the background are vegetation.\n- sky: The blue sky with some clouds visible above the buildings is the sky.\n- car: Multiple cars, including a silver sedan and a black SUV, are present.\n- truck: No truck is visible.\n- bus: No bus is visible.\n- train: No train is visible.\n- motorcycle: No motorcycle is visible.\n- bicycle: No bicycle is visible."
-}

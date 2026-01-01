@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/88a8e32c-1e2dff6c.jpg",
-  "generated_text": "- road: The image shows a paved surface with lane markings and a crosswalk, which is characteristic of a road.\n- building: There are multi-story residential buildings visible on both sides of the street.\n- vegetation: Trees are visible along the street and in the background.\n- sky: The upper portion of the image shows a cloudy sky.\n- car: Several cars are visible on the road, including one in the foreground and others further down the street.\n- pole: Utility poles and traffic light poles are visible along the street.\n- traffic light: Green traffic lights are visible at the intersection.\n- fence: A fence is visible in front of one of the buildings on the left side of the street."
-}

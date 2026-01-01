@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/72640067-9c2d4c47.jpg",
-  "generated_text": "- road: The image shows a street with multiple lanes, road markings, and vehicles driving on it.\n- building: Multi-story structures with windows and commercial signs are visible on both sides of the street.\n- fence: A dark fence runs along the left side of the road, likely enclosing a construction area.\n- pole: A vertical pole with a traffic sign attached is visible on the right side of the road.\n- traffic sign: A yellow diamond-shaped sign indicating \"Yield\" is visible on the right side of the road.\n- sky: The upper portion of the image shows a partly cloudy sky with sunlight.\n- car: Several cars, including a silver SUV and a black SUV, are visible on the road.\n- person: A person is visible walking on the sidewalk on the right side of the road."
-}

@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/76af2305-2b561973.jpg",
-  "generated_text": "- road: The image shows a paved surface with cars parked and driving on it, indicating it is a road.\n- building: There are multi-story structures with windows visible on both sides of the road, which are buildings.\n- vegetation: Trees with visible leaves are present along the road and in front of the buildings.\n- sky: A portion of the sky is visible above the buildings and trees, appearing overcast.\n- car: Several vehicles, including a black SUV and a black minivan, are visible on the road.\n- person: A person is visible standing near the rear of the black SUV on the right side of the road.\n- traffic sign: A red octagonal \"STOP\" sign is visible in the background, mounted on a pole."
-}

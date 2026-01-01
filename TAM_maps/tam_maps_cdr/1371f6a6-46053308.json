@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/1371f6a6-46053308.jpg",
-  "generated_text": "- road: The wet, reflective surface with cars driving and parked on it, and visible lane markings, clearly indicates a road.\n- building: The structure with the illuminated \"Antillana\" sign and large windows is a commercial building.\n- pole: The vertical structures with horizontal bars, likely traffic light poles, are visible in the image.\n- traffic light: The glowing red lights at the intersection are traffic lights.\n- vegetation: Trees with bare branches are visible along the street.\n- sky: The blue, overcast sky visible above the buildings and trees.\n- car: Multiple cars, including a black sedan and a dark SUV, are visible on the road.\n- truck: A large white truck is visible in the distance on the right side of the road.\n- person: A person is visible standing near the truck on the right side of the road."
-}

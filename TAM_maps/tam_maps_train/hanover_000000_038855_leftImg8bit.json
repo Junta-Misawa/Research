@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/hanover/hanover_000000_038855_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved road with white lane markings, which is the main surface for vehicle traffic.\n- sidewalk: A paved area adjacent to the road, separated by a curb, where pedestrians and cyclists are present.\n- building: A multi-story structure with scaffolding and commercial signage is visible along the sidewalk.\n- vegetation: Trees are visible in the background on the left side of the image.\n- sky: The upper portion of the image shows an overcast sky.\n- person: Several individuals are visible walking or standing on the sidewalk.\n- truck: A dark-colored UPS truck is visible on the left side of the road.\n- bicycle: Multiple bicycles are parked in a row along the sidewalk.\n- motorcycle: A motorcycle is parked near the truck on the left side of the road."
-}

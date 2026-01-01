@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/strasbourg/strasbourg_000000_030941_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved surface with visible tram tracks, which is characteristic of a road.\n- sidewalk: The area where pedestrians are walking, separated from the road by a curb, is clearly a sidewalk.\n- building: The structures with arched doorways and windows lining the street are buildings.\n- pole: There is a vertical pole with traffic signs attached to it.\n- traffic sign: A blue and white pedestrian crossing sign is visible on the pole.\n- vegetation: There are hanging flower baskets and trees visible in the background.\n- person: Several individuals are visible walking on the sidewalk.\n- car: The hood of a car with a Mercedes-Benz logo is visible in the foreground."
-}

@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/80f0677b-f8771023.jpg",
-  "generated_text": "- road: The image shows a multi-lane paved road with visible lane markings and vehicles driving on it.\n- vegetation: There are bushes and trees visible along the roadside and in the background.\n- terrain: Grass and dirt areas are visible alongside the road and in the background.\n- sky: The upper portion of the image shows a clear blue sky.\n- car: Several cars are visible on the road, including one in the foreground and others in traffic ahead.\n- truck: A large truck with a trailer is visible in the distance, driving in the same direction as the camera vehicle.\n- traffic sign: A yellow rectangular traffic sign indicating \"EXIT 30\" is visible on a pole to the right of the road.\n- pole: A vertical pole supporting the traffic sign is visible on the right side of the road."
-}

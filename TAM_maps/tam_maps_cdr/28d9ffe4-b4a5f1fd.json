@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/28d9ffe4-b4a5f1fd.jpg",
-  "generated_text": "- road: The image shows a snow-covered surface with visible tire tracks and lane markings, consistent with a road.\n- building: Blurry structures with rectangular shapes and windows are visible in the background, consistent with buildings.\n- pole: Vertical structures supporting signs or traffic lights are visible in the background.\n- traffic sign: A sign with text and symbols is visible on a pole in the background.\n- vegetation: Blurry tree-like shapes are visible in the background.\n- sky: The upper portion of the image shows a gray, overcast sky.\n- car: A blurry vehicle is visible ahead on the road.\n- truck: A large vehicle with a box-like structure is visible on the right side of the road."
-}

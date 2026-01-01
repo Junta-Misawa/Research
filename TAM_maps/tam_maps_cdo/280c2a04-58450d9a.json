@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/280c2a04-58450d9a.jpg",
-  "generated_text": "- road: The image shows a paved road with lane markings and vehicles driving on it.\n- sidewalk: A sidewalk is visible along the edge of the road, separated by a curb.\n- building: Houses are visible on the right side of the road.\n- fence: A white picket fence is visible in the garden area on the right.\n- pole: Street poles are visible along the road.\n- vegetation: Trees and bushes are visible along the road and in the background.\n- terrain: Grass and soil are visible in the garden areas.\n- sky: The sky is visible above the trees and buildings.\n- car: Several cars are visible, including the silver sedan in the foreground and other vehicles on the road.\n- truck: No truck is visible.\n- bus: No bus is visible.\n- train: No train is visible.\n- motorcycle: No motorcycle is visible.\n- bicycle: No bicycle is visible."
-}

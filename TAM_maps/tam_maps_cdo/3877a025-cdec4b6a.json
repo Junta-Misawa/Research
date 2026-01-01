@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/3877a025-cdec4b6a.jpg",
-  "generated_text": "- road: The image shows a paved surface with lane markings that cars are driving on, which fits the definition of a road.\n- building: Multiple multi-story structures with windows and architectural features are visible along the sides of the road, qualifying as buildings.\n- wall: A tall, stone-faced structure runs along the right side of the road, which is an individual standing wall.\n- pole: A streetlight pole is visible in the distance, extending vertically above the road.\n- sky: The upper portion of the image shows a clear sky with some clouds, fitting the definition of sky.\n- car: Several vehicles, including sedans and SUVs, are visible on the road, all of which are classified as cars.\n- vegetation: A few trees can be seen in the distance along the road, qualifying as vegetation."
-}

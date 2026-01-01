@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/a91f182b-ee1393b8.jpg",
-  "generated_text": "- road: The image shows a multi-lane asphalt road with visible lane markings, which is the surface on which cars are driving.\n- vegetation: There are trees and bushes visible along the roadside and in the background.\n- terrain: There is grass and possibly sand or dirt visible along the roadside and in the background.\n- sky: The upper part of the image shows a blue sky with some clouds and electrical wires.\n- car: Multiple cars are visible on the road, including a dark-colored car on the left and other vehicles ahead.\n- pole: Several vertical poles are visible, including those for streetlights and the traffic sign.\n- traffic sign: A green traffic sign with directional information is visible on the right side of the road.\n- rider: The image shows a person riding a motorcycle in the distance on the right side of the road."
-}

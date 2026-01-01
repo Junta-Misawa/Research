@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/a596c628-03f758b0.jpg",
-  "generated_text": "- road: The image shows a paved surface with lane markings, which is clearly a road.\n- building: A large beige structure is visible in the background, which qualifies as a building.\n- wall: Concrete barriers and elevated structures along the road are present, which are individual standing walls.\n- pole: A vertical pole with a traffic sign is visible on the right side of the road.\n- traffic sign: A red and white sign is mounted on a pole, which is a traffic sign.\n- sky: The upper portion of the image shows a clear blue sky.\n- car: A black sedan is visible ahead on the road, which is a car."
-}

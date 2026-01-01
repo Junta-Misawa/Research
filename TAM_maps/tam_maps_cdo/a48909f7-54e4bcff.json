@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/a48909f7-54e4bcff.jpg",
-  "generated_text": "- road: The image shows a paved surface with lane markings and vehicles driving on it, which is characteristic of a road.\n- sidewalk: Pedestrians are visible walking on a designated pedestrian area next to the road, separated by curbs and poles, indicating a sidewalk.\n- building: Multiple multi-story structures with windows and commercial signage are visible along the street, which are buildings.\n- pole: Several vertical poles are visible, including those supporting the sidewalk infrastructure and possibly traffic signs or lights.\n- traffic sign: A diamond-shaped orange traffic sign is visible on the right side of the road.\n- person: Multiple individuals are visible walking on the sidewalk.\n- car: Several yellow taxis and other cars are visible on the road.\n- truck: A yellow van is visible on the left side of the road."
-}

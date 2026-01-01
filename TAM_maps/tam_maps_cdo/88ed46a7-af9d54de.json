@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/88ed46a7-af9d54de.jpg",
-  "generated_text": "- road: The image shows a multi-lane highway with visible lane markings, which is a type of road.\n- vegetation: There are numerous trees and shrubs visible along the roadside and on the hillside.\n- terrain: The hillside with grass and soil is visible, which is a type of terrain.\n- sky: The upper portion of the image shows the open sky with some clouds.\n- car: Multiple cars are visible driving on the highway.\n- truck: A white pickup truck and a white box truck are visible on the highway.\n- traffic sign: A green directional sign and an electronic overhead sign are visible.\n- pole: Several poles are visible, including those supporting the traffic signs and overhead electronic sign.\n- building: A house is visible on the right side of the image near the road."
-}

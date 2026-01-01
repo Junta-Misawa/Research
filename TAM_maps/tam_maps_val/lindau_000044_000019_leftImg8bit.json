@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/val/lindau/lindau_000044_000019_leftImg8bit.png",
-  "generated_text": "- road: The cobblestone surface under the vehicles and extending into the distance is clearly a road.\n- building: The structures on both sides of the street, with windows and doors, are buildings.\n- vegetation: There are bushes and a small tree visible in the background between the buildings.\n- car: A black car is parked on the left side of the road, and a silver car is parked on the right side of the road."
-}

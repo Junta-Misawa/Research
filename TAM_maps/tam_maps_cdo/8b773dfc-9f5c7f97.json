@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/8b773dfc-9f5c7f97.jpg",
-  "generated_text": "- road: The image shows a paved street with cars parked along the sides and a vehicle's dashboard in the foreground, indicating a road.\n- sidewalk: A pedestrian is walking on a paved area next to the curb, which is clearly a sidewalk.\n- building: Multi-story residential or commercial buildings line both sides of the street.\n- vegetation: Several trees with green leaves are visible along the street.\n- sky: The sky is visible above the buildings and trees, appearing overcast.\n- person: A person wearing a backpack is walking on the sidewalk.\n- car: Multiple cars, including a white van on the left and a dark SUV on the right, are parked along the street.\n- pole: Utility poles with wires are visible along the street."
-}

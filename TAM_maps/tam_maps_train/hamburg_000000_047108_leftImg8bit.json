@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/hamburg/hamburg_000000_047108_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved surface with white lane markings and a crosswalk, indicating it is a road.\n- sidewalk: Pedestrians are walking on a paved area adjacent to the road, separated by a curb, which is a sidewalk.\n- building: The large structure with glass windows and commercial signs (e.g., \"Thalia.de\", \"Sparda-Bank\", \"BOSE\") is a building.\n- pole: A vertical pole with a traffic light attached is visible in the scene.\n- traffic light: A traffic light is mounted on the pole, visible in the image.\n- vegetation: Potted plants and greenery are visible near the outdoor seating area.\n- person: Numerous individuals are visible walking or standing on the sidewalk and road.\n- car: The front of a car, including the Mercedes-Benz emblem, is visible in the foreground."
-}

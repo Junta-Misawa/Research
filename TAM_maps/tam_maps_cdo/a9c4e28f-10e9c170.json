@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/a9c4e28f-10e9c170.jpg",
-  "generated_text": "- road: The image shows a paved road with visible lane markings, extending into the distance, which is the primary surface for vehicle travel.\n- vegetation: There are numerous trees and green bushes lining both sides of the road, indicating dense vegetation.\n- sky: The upper portion of the image shows a blue sky with scattered white clouds, visible above the tree canopy.\n- car: Several vehicles, including an SUV and other cars, are visible on the road ahead, indicating their presence.\n- rider: A person is visible on the right side of the road, standing near the roadside, which qualifies as a rider.\n- fence: A fence is visible on the right side of the road, running alongside the vegetation."
-}

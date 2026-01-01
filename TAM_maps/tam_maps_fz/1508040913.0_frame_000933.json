@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/FZ/leftImg8bit/test/1508040913.0_frame_000933.png",
-  "generated_text": "- road: The image shows a paved road with visible lane markings (yellow dashed lines) and cars driving or parked on it.\n- vegetation: Trees are visible on both sides of the road, partially obscured by fog.\n- terrain: Grass-covered slopes are visible on the right side of the road, behind parked cars.\n- sky: The sky is visible above the trees and road, appearing overcast and foggy.\n- car: Multiple cars are visible, including a teal hatchback parked on the right, a black SUV, a white car, and other vehicles further down the road.\n- pole: A vertical pole with a parking sign is visible on the right side of the road.\n- traffic sign: A blue parking sign (with \"P\" and \"H\") is visible on the pole.\n- building: A building is partially visible on the left side of the road, behind some trees."
-}

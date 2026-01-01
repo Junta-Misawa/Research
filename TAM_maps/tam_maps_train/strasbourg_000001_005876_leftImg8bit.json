@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/strasbourg/strasbourg_000001_005876_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved street with visible lane markings, which is clearly a road.\n- building: There are multiple multi-story buildings on both sides of the street, some with scaffolding.\n- vegetation: Trees are visible in the middle of the street and along the sidewalks.\n- sky: The sky is visible above the buildings and trees, appearing as a pale, overcast sky.\n- car: Numerous cars are parked along both sides of the street, and one car is visible ahead in the center of the road.\n- person: A person can be seen standing on the sidewalk on the left side of the street.\n- pole: Several poles are visible along the street, including streetlights and possibly utility poles.\n- traffic sign: A traffic sign is visible on the left side of the street, mounted on a pole."
-}

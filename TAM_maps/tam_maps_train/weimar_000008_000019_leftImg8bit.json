@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/weimar/weimar_000008_000019_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved street with visible lane markings and parked cars on both sides, indicating it is a road.\n- building: Multiple multi-story buildings line both sides of the street, fulfilling the definition of buildings.\n- car: Numerous cars are parked along both sides of the street, clearly visible in the image.\n- sky: The upper portion of the image shows a bright, open sky, without obstructions like tree leaves.\n- vegetation: A tree is visible in the distance down the street, partially obscured by buildings.\n- person: A person can be seen sitting inside the driver's seat of the car parked on the left side of the street."
-}

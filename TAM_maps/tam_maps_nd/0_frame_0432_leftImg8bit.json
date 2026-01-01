@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/NighttimeDrivingTest/leftImg8bit/test/night/0_frame_0432_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved surface with visible lane markings and crosswalk lines, which is characteristic of a road.\n- building: A large structure with windows and a lit sign on the upper right side is visible, indicating a building.\n- pole: Vertical poles supporting traffic lights and street lamps are visible in the image.\n- traffic light: Traffic light boxes are visible on poles at the intersection.\n- vegetation: Trees with visible foliage are present on the left side of the road.\n- sky: The dark background above the street and buildings indicates the sky.\n- car: Several vehicles, including a red car and a black car with headlights on, are visible on the road.\n- rider: A person is visible riding a bicycle on the sidewalk on the right side of the road."
-}

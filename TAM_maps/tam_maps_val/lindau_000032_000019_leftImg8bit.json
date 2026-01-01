@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/val/lindau/lindau_000032_000019_leftImg8bit.png",
-  "generated_text": "- road: The image shows a cobblestone surface that serves as a street, with a Mercedes-Benz emblem visible in the foreground, indicating it is a road.\n- sidewalk: A pedestrian walkway is visible on the right side of the image, adjacent to the buildings, with potted plants and outdoor furniture, indicating it is a sidewalk.\n- building: Several buildings are visible along the street, including one with \"Victor Shhtivelberg Atelier & Galerie\" signage and another with \"UHSEMAN\" signage, confirming the presence of buildings.\n- vegetation: Potted plants are visible on the sidewalk near the building on the right, indicating the presence of vegetation.\n- person: A person is visible sitting at an outdoor table on the right side of the image, near the building with \"UHSEMAN\" signage."
-}

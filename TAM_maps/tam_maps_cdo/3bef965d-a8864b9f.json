@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/3bef965d-a8864b9f.jpg",
-  "generated_text": "- road: The image shows a paved surface with lane markings, which is clearly a road for vehicle traffic.\n- wall: Concrete barriers line both sides of the road, which are individual standing walls.\n- fence: Metal guardrails are visible along the road, functioning as a fence.\n- pole: Vertical poles supporting traffic lights and signs are present.\n- traffic light: Red traffic lights are visible above the road.\n- traffic sign: Several traffic signs are visible, including a pedestrian crossing sign and directional signs.\n- vegetation: Trees with green leaves are visible along the road.\n- sky: The sky is visible above the trees and buildings, appearing clear and blue.\n- car: A black car is visible ahead on the road.\n- building: Buildings are visible in the background behind the trees and walls."
-}

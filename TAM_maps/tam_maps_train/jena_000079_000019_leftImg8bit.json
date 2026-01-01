@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/jena/jena_000079_000019_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved surface with a white line marking, typical of a road.\n- sidewalk: Pedestrians are walking on a paved area next to the road, separated by trees and poles, indicating a sidewalk.\n- building: The image features commercial buildings with storefronts and windows.\n- vegetation: Trees are visible in the image, with trunks and branches.\n- person: Several individuals are visible walking or standing on the sidewalk and road.\n- motorcycle: A scooter is parked on the sidewalk.\n- bicycle: A bicycle is parked near the building on the sidewalk.\n- pole: Red and white striped poles are visible along the sidewalk.\n- traffic sign: A red and white circular sign is visible on a pole.\n- sky: A portion of the sky is visible through the upper windows of the building."
-}

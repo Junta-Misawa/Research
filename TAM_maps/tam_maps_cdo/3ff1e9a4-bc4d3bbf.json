@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/3ff1e9a4-bc4d3bbf.jpg",
-  "generated_text": "- road: The image shows a paved surface with cars driving on it, which is characteristic of a road.\n- building: Tall structures with windows and construction scaffolding are visible, indicating buildings.\n- vegetation: Trees and bushes can be seen along the sides of the road.\n- sky: The upper portion of the image shows the sky with clouds and sunlight.\n- car: Multiple cars are visible on the road and parked along the sides.\n- pole: Several vertical poles, likely for streetlights or signs, are visible along the road.\n- traffic sign: A blue traffic sign is visible on the right side of the road."
-}

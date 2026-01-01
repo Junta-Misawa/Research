@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/2656e02e-787c933d.jpg",
-  "generated_text": "- road: The image shows a multi-lane road with visible lane markings and vehicles driving on it.\n- wall: A concrete wall runs along the right side of the road.\n- fence: A fence is visible along the top of the concrete wall on the right side.\n- pole: Several poles, including streetlights and sign poles, are visible along the road.\n- traffic sign: A yellow diamond-shaped traffic sign with an arrow pointing straight ahead is visible.\n- vegetation: Trees and bushes are visible along the roadside and behind the fence.\n- sky: The sky is visible above the road and buildings, appearing overcast.\n- car: Multiple cars are visible driving on the road.\n- bus: A bus is visible on the left side of the road.\n- terrain: Dirt or gravel areas are visible along the roadside, particularly on the right side."
-}

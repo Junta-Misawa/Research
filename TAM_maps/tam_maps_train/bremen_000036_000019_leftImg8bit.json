@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/bremen/bremen_000036_000019_leftImg8bit.png",
-  "generated_text": "- road: The image shows a cobblestone surface that is clearly a road, with visible tram tracks embedded in it and vehicles present.\n- sidewalk: A paved area with cobblestones, separated from the road by a curb and lined with trees and pedestrians, indicating a sidewalk.\n- building: The large, ornate structure with arched entrances in the background is a building.\n- vegetation: Trees with leaves are visible on the right side of the image and in the background.\n- person: A person is visible walking on the sidewalk on the right side of the image.\n- bus: A red and white bus with the route number \"25 Weidedamm\" is visible on the left side of the image.\n- train: A tram is visible on the right side of the image, identifiable by its design and the tracks it runs on."
-}

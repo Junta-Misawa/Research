@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/FDD/leftImg8bit/test_extra/web_fog_tcr_leftImg8bit.png",
-  "generated_text": "- road: The paved surface with visible white lane markings is clearly a road.\n- sidewalk: The area where the people are standing, bordered by yellow poles and separated from the road, is a sidewalk.\n- pole: There are two prominent yellow poles in the image, one on each side of the sidewalk.\n- traffic light: The black box-like structures mounted on the poles are traffic lights.\n- vegetation: There is a green bush with white flowers in the foreground on the left side.\n- person: Multiple individuals are visible standing on the sidewalk, identifiable by their clothing and posture.\n- terrain: The ground area around the bush and at the base of the poles appears to be soil or sand, which is terrain."
-}

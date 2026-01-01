@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/80afc83f-acc7539a.jpg",
-  "generated_text": "- road: The image shows a multi-lane paved road with visible lane markings and vehicles driving on it.\n- vegetation: Trees are visible along the roadside and in the background.\n- terrain: Grass and dirt areas are visible on the sides of the road.\n- sky: The sky is visible above the trees and buildings, appearing overcast.\n- car: Several cars are visible on the road, including a black SUV and a blue sedan.\n- truck: A white truck is visible in the distance on the left side of the road.\n- fence: A fence is visible running along the right side of the road.\n- pole: Several poles, including streetlights and sign poles, are visible along the road.\n- traffic sign: Green highway signs are visible overhead and on poles above the road.\n- building: Buildings are visible in the background on the left side of the road."
-}

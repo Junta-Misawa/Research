@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/53a82779-998c55eb.jpg",
-  "generated_text": "- road: The image shows a paved surface with multiple lanes and vehicle traffic, consistent with a road.\n- building: Tall structures with glass facades and multiple windows are visible along the left side, indicating buildings.\n- wall: A stone wall runs along the right side of the road, separating it from the water.\n- pole: A vertical pole with a streetlight fixture is visible in the background.\n- sky: The upper portion of the image shows a blue sky with scattered white clouds.\n- car: Several vehicles, including a white SUV directly ahead and other cars in adjacent lanes, are visible.\n- rider: A person is visible in the driver's seat of the vehicle from which the photo is taken, indicating a rider.\n- person: A person is visible in the driver's seat of the vehicle from which the photo is taken, indicating a person."
-}

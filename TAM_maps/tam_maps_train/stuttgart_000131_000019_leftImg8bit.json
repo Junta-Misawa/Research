@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/stuttgart/stuttgart_000131_000019_leftImg8bit.png",
-  "generated_text": "- road: The asphalt surface where vehicles are driving and pedestrians are walking, including the curb separating it from the sidewalk.\n- sidewalk: The paved area next to the road where pedestrians are walking, bordered by a curb.\n- building: The large stone structure with windows and ornate details in the background.\n- pole: The metal pole holding the traffic signs.\n- traffic sign: The blue and white sign indicating \"Einbahnstraße\" and the bicycle sign below it.\n- person: Two individuals walking on the sidewalk.\n- car: The orange car parked on the left and the black Mercedes-Benz parked on the right."
-}

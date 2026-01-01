@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/99bdc1d6-ca80339b.jpg",
-  "generated_text": "- road: The image shows a paved street with visible lane markings and cars driving on it.\n- building: Multiple buildings are visible along both sides of the street.\n- vegetation: Trees are visible along the sidewalks and street.\n- sky: The sky is visible above the buildings and trees.\n- car: Several cars are visible parked and driving on the road.\n- truck: A pickup truck is visible parked on the left side of the road.\n- motorcycle: A motorcycle is parked on the right side of the road.\n- traffic sign: A yellow pedestrian crossing sign is visible on the right side of the road.\n- pole: Several utility poles are visible along the street.\n- person: A person is visible standing next to a motorcycle on the right side of the road.\n- rider: A person is visible riding a motorcycle on the right side of the road."
-}

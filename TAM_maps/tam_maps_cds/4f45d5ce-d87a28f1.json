@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/4f45d5ce-d87a28f1.jpg",
-  "generated_text": "- road: The image shows a paved road with double yellow lines, curving ahead, and vehicles driving on it.\n- building: A large, long building with a flat roof and windows is visible on the left side of the road.\n- fence: A chain-link fence runs along the right side of the road, separating it from other areas.\n- pole: Several tall, vertical poles are visible along the road, likely for lighting or signage.\n- traffic sign: A green rectangular traffic sign is visible on a pole to the right side of the road.\n- sky: The sky is visible above the buildings and road, showing a gradient of colors from sunset.\n- car: Multiple cars are visible on the road, including one directly ahead and others further down the road.\n- terrain: There is unpaved, dry ground or dirt visible along the right side of the road, beyond the fence."
-}

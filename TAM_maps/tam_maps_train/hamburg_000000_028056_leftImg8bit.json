@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/hamburg/hamburg_000000_028056_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved road with white lane markings and vehicles driving on it.\n- sidewalk: Pedestrians are visible on the pavement along the sides of the road, separated from the road by curbs.\n- building: Multiple buildings with storefronts and windows line both sides of the street.\n- vegetation: Trees and bushes are visible along the sidewalks and in front of some buildings.\n- person: Several pedestrians are standing or walking on the sidewalk.\n- rider: Two individuals are riding bicycles on the road.\n- car: Several cars are parked along the sides of the road, and a few are driving on the road.\n- truck: An orange truck is visible in the distance, driving on the road.\n- bicycle: Two bicycles are visible, being ridden by riders."
-}

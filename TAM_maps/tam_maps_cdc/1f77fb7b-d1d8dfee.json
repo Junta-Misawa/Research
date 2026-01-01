@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/1f77fb7b-d1d8dfee.jpg",
-  "generated_text": "- road: The image shows a paved surface with painted markings, including \"SCHOOL,\" which is used for vehicle travel.\n- building: Multi-story residential buildings are visible on the right side of the street.\n- vegetation: Bare trees without leaves are present along the street.\n- sky: A clear blue sky is visible above the trees and buildings.\n- car: Several cars are parked along the street and one is visible in the foreground."
-}

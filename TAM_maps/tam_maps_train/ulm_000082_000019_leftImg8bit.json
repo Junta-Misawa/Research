@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/ulm/ulm_000082_000019_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved road with visible lane markings extending into the distance, flanked by trees and vegetation.\n- vegetation: Dense trees and greenery line both sides of the road, indicating abundant vegetation.\n- sky: A portion of the sky is visible through the tree canopy, appearing overcast.\n- rider: A person is visible riding a bicycle on the right side of the road.\n- bicycle: A bicycle is visible on the right side of the road, being ridden by a person.\n- car: A car is visible in the distance on the right side of the road."
-}

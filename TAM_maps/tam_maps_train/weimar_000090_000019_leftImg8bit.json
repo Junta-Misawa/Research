@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/weimar/weimar_000090_000019_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved surface with a Mercedes-Benz emblem in the foreground, indicating a road.\n- sidewalk: There are pedestrian areas with benches and people walking, separated from the road by curbs or edges.\n- building: Multiple buildings are visible, including a white building on the left, a red building in the center, and a gray building on the right.\n- vegetation: Trees are visible in the scene, providing shade and greenery.\n- sky: The sky is visible above the buildings, appearing overcast.\n- person: Several people are visible walking or sitting in the square.\n- car: A silver car is visible on the right side of the image, driving on the road."
-}

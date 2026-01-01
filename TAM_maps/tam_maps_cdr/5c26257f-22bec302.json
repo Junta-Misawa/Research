@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/5c26257f-22bec302.jpg",
-  "generated_text": "- road: The image shows a paved surface with white crosswalk markings, which is characteristic of a road.\n- sidewalk: A paved area adjacent to the road, separated by a curb, is visible, which is a sidewalk.\n- building: Brick residential buildings are visible along the street.\n- vegetation: Trees and shrubs are visible along the sidewalk and in front of the buildings.\n- sky: The upper portion of the image shows a pale sky, indicating it is either dawn or dusk.\n- car: Multiple cars are visible on the road, including a dark sedan, a white SUV, and a red minivan.\n- pole: Vertical poles are visible, including one supporting a traffic light.\n- traffic light: A traffic light is visible at the intersection.\n- traffic sign: A green traffic sign is visible near the traffic light.\n- person: A person is visible walking on the sidewalk."
-}

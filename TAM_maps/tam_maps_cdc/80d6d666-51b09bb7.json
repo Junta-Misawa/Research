@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/80d6d666-51b09bb7.jpg",
-  "generated_text": "- road: The image shows a multi-lane highway with white lane markings and traffic, which is a type of road.\n- vegetation: There are numerous trees and bushes visible along the sides of the road and in the background.\n- terrain: Grass areas are visible on the sides of the road and in the median.\n- sky: The upper portion of the image shows a clear blue sky with some clouds.\n- car: Several cars are visible on the road, including a black Jeep in the foreground and other vehicles ahead.\n- traffic sign: There are multiple traffic signs visible, including a green exit sign and an electronic sign indicating \"BRIDGE PAINTING AHEAD\".\n- pole: Several poles are visible, including those supporting the traffic signs and streetlights.\n- fence: A fence is visible along the edge of the road in the background."
-}

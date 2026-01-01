@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/ulm/ulm_000014_000019_leftImg8bit.png",
-  "generated_text": "- building: The image shows multiple buildings with windows, doors, and commercial signs attached to them.\n- sidewalk: The ground surface where pedestrians are walking is paved and delimited from the road by curbs and other structures, indicating it is a sidewalk.\n- vegetation: A tree with visible branches and leaves is present in the scene.\n- person: Several individuals are visible walking on the sidewalk.\n- car: A white car is partially visible on the left side of the image, and a white van is parked on the right side.\n- motorcycle: A motorcycle is parked on the left side of the image, near the curb.\n- traffic sign: A small traffic sign is visible on the wall of the building on the right side."
-}

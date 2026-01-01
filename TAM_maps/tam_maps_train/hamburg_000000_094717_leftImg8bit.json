@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/hamburg/hamburg_000000_094717_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved surface with visible tire marks and road markings, which is characteristic of a road.\n- sidewalk: There is a curb and a paved area adjacent to the road, which is typical of a sidewalk.\n- building: The image shows a large structure with windows and signage, which is clearly a building.\n- vegetation: There are trees and shrubs visible in the image, which are forms of vegetation.\n- person: A person can be seen walking on the sidewalk in the background.\n- car: Several cars are parked along the side of the road.\n- truck: A white truck is parked in the background.\n- traffic sign: A circular traffic sign is visible on a pole near the parked vehicles.\n- pole: A vertical pole with a traffic sign attached is visible in the image."
-}

@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/hamburg/hamburg_000000_103075_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved surface with lane markings, which is characteristic of a road.\n- sidewalk: Pedestrians are walking on a designated path alongside the road, which is a sidewalk.\n- building: Several buildings are visible in the background and on the sides of the image.\n- fence: A metal fence runs along the left side of the road.\n- pole: Multiple poles are visible, including those supporting the fence and streetlights.\n- vegetation: Trees are visible along the road and in the background.\n- sky: The sky is visible above the buildings and trees.\n- person: Numerous people are visible walking on the sidewalk.\n- rider: A person is visible riding a bicycle on the road.\n- car: The front of a car, including the Mercedes-Benz logo, is visible at the bottom of the image."
-}

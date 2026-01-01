@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/bochum/bochum_000000_016125_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved surface with white lane markings, indicating it is a road.\n- sidewalk: The paved area next to the road where pedestrians are walking is a sidewalk.\n- building: The structure with large glass windows and storefronts in the background is a building.\n- pole: There is a vertical pole supporting a traffic light.\n- traffic light: A traffic light is visible mounted on a pole.\n- vegetation: There are potted plants with green foliage and some red flowers on the sidewalk.\n- person: Two individuals are visible walking on the sidewalk.\n- car: The Mercedes-Benz emblem on the hood indicates the presence of a car."
-}

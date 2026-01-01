@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/0e460dd3-2cf2a7b9.jpg",
-  "generated_text": "- road: The image shows a multi-lane paved road with visible lane markings, which is the primary surface for vehicle travel.\n- vegetation: There are trees and grassy areas visible along the sides of the road.\n- terrain: Grass and other low-lying vegetation are visible on the roadside and in the background.\n- sky: The upper portion of the image shows a blue sky with white clouds.\n- car: Multiple cars are visible on the road, including a black sedan directly ahead and a white SUV on the left.\n- truck: A white pickup truck is visible on the far left side of the road.\n- fence: A fence runs along the right side of the road, separating it from adjacent land.\n- pole: Several poles are visible, including those supporting streetlights and possibly traffic signs, along the roadside."
-}

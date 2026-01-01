@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/val/frankfurt/frankfurt_000001_073243_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved road with visible lane markings and cars parked along both sides.\n- building: Buildings with windows and balconies are visible on both sides of the street.\n- vegetation: Numerous trees and greenery are present along the street and in the background.\n- sky: A portion of the sky is visible through the tree canopy.\n- car: Multiple cars are parked along the street, including a black vintage car and a white smart car.\n- person: A person is visible walking on the sidewalk in the distance.\n- traffic sign: A triangular traffic sign is visible on the right side of the road.\n- pole: A pole supporting the traffic sign is visible on the right side of the road."
-}

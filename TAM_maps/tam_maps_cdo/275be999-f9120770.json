@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/275be999-f9120770.jpg",
-  "generated_text": "- road: The image shows a paved road with visible lane markings and cars driving on it.\n- building: Multiple multi-story buildings are visible along both sides of the street.\n- vegetation: Trees are visible along the sidewalks and street.\n- sky: The sky is visible above the buildings, showing a cloudy twilight scene.\n- car: Several cars are parked along the sides of the road and some are driving in the lane.\n- traffic sign: A red \"STOP\" sign is visible on a pole on the left side of the road.\n- pole: Several poles are visible, including those holding traffic signs and streetlights.\n- person: A person is visible standing near the sidewalk on the left side of the road."
-}

@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/stuttgart/stuttgart_000143_000019_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved road with white lane markings and cars driving on it.\n- building: Multiple buildings line both sides of the street, including residential and commercial structures.\n- vegetation: A tall tree is visible on the left side of the street.\n- sky: The sky is visible above the buildings, appearing overcast.\n- car: Several cars are parked along both sides of the street.\n- bus: A yellow public transport bus is visible in the center of the image, approaching the camera.\n- pole: Several poles are visible, including those for overhead wires and possibly traffic signs.\n- traffic sign: A traffic sign is visible on the right side of the street, mounted on a pole.\n- person: A person is visible sitting in the driver's seat of a car on the right side of the street."
-}

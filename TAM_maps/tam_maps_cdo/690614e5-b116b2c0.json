@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/690614e5-b116b2c0.jpg",
-  "generated_text": "- road: The image shows a multi-lane paved road with visible lane markings and curbs, which is characteristic of a road.\n- vegetation: There are multiple trees and greenery visible along the roadside and in the background.\n- sky: The upper portion of the image shows a cloudy sky without visible leaves or obstructions.\n- car: Several cars are visible on the road, including a white SUV and other vehicles.\n- fence: A metal fence is visible along the left side of the road.\n- pole: Several poles are visible, including those supporting the overhead traffic signs and the streetlights.\n- traffic sign: Overhead green and yellow signs indicating \"Departing Flights\" and \"Arriving Flights\" are clearly visible.\n- terrain: There is grass and some unpaved ground visible along the roadside and in the median."
-}

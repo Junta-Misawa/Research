@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/abd5350b-85ea1439.jpg",
-  "generated_text": "- road: The image shows a multi-lane roadway with visible lane markings, wet pavement, and vehicles driving on it.\n- building: Several tall structures, consistent with skyscrapers, are visible in the background through the mist.\n- fence: A metal guardrail runs along the side of the road, acting as a barrier.\n- pole: Vertical support structures for the bridge cables and traffic signs are visible.\n- traffic sign: A green rectangular sign indicating a direction or route is visible on the left side of the road.\n- sky: The upper portion of the image shows a gray, overcast sky.\n- car: Multiple cars are visible on the road, including sedans and SUVs.\n- truck: A large truck is visible in the distance on the left side of the road.\n- person: A person is visible standing near the guardrail on the right side of the road."
-}

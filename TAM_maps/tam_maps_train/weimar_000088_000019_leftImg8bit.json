@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/weimar/weimar_000088_000019_leftImg8bit.png",
-  "generated_text": "- road: The cobblestone surface extending from the foreground to the background, with parked cars and pedestrians, indicates it is a road.\n- sidewalk: The paved area along the left and right edges of the road, separated by curbs, is designated for pedestrians.\n- building: Multiple multi-story structures with windows and doors line both sides of the street.\n- vegetation: Trees are visible in the background and along the street.\n- sky: A portion of the sky is visible above the buildings in the background.\n- person: A person in dark clothing is walking on the right sidewalk.\n- car: Several cars, including a yellow one in the foreground and others parked along the street, are visible.\n- motorcycle: A motorcycle is visible parked on the right side of the street."
-}

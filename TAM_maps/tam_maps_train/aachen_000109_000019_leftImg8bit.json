@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/aachen/aachen_000109_000019_leftImg8bit.png",
-  "generated_text": "- building: The structure with the \"Nobis Printen\" sign and windows is a building.\n- sidewalk: The paved area with pedestrians and bicycles, delimited by poles, is a sidewalk.\n- vegetation: Trees are visible in the background and foreground.\n- person: Multiple individuals are visible walking or standing on the sidewalk.\n- pole: Several vertical poles are present, including those holding signs and separating the sidewalk.\n- traffic sign: A sign indicating \"ZONE\" with bicycle parking hours is visible.\n- motorcycle: A motorcycle is parked on the left side of the image.\n- bicycle: Several bicycles are parked on the left side of the image."
-}

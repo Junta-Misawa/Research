@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/a775b107-9856bd54.jpg",
-  "generated_text": "- road: The image shows a paved road with lane markings, which is the primary surface for vehicle travel.\n- building: Several multi-story brick buildings are visible along the street, indicating urban architecture.\n- vegetation: Trees with green foliage line both sides of the road, fitting the definition of vegetation.\n- sky: A pale, overcast sky is visible above the buildings and trees, indicating open sky.\n- car: Multiple cars are parked along the right side of the road, and one car is visible driving ahead.\n- pole: Vertical poles supporting traffic lights and possibly street signs are visible along the road.\n- traffic light: Green traffic lights are visible above the road, indicating active traffic control.\n- fence: A low fence or barrier is visible along the sidewalk on the left side of the road."
-}

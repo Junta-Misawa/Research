@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/4364cfb0-6c6da3ad.jpg",
-  "generated_text": "- road: The image shows a paved surface with lane markings, which is clearly a road.\n- vegetation: There are numerous trees and greenery visible along the sides of the road.\n- terrain: The grassy areas on both sides of the road and the unpaved shoulder are examples of terrain.\n- sky: The upper portion of the image shows an overcast sky.\n- car: A black SUV is visible ahead on the road, and another car is further ahead.\n- pole: Several poles are visible, including one with a green sign and others supporting traffic signs.\n- traffic sign: There are multiple traffic signs visible, including a rectangular sign on a pole and a green sign on a pole.\n- building: A structure resembling a building or bridge is visible in the background on the left side."
-}

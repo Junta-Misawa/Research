@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/0a8368e0-41c6b3b3.jpg",
-  "generated_text": "- road: The paved surface where vehicles are driving, visible beneath the cars and truck.\n- sidewalk: The paved area next to the road, bordered by a curb and snow, where pedestrians would walk.\n- building: The commercial storefronts with signs like \"H&R BLOCK,\" \"GNC,\" \"PETLAND DISCOUNTS,\" and the red sign with an elephant, all attached to structures.\n- vegetation: A small tree with bare branches standing on the sidewalk.\n- sky: The clear blue sky visible above the buildings and signs.\n- person: A person visible inside the cab of the truck.\n- car: A silver SUV parked on the side of the road.\n- truck: A white box truck with \"FURNITURE DIRECT\" written on its side, partially visible in the foreground.\n- traffic light: The traffic light assembly mounted on a pole, visible above the truck."
-}

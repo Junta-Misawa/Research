@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/bremen/bremen_000048_000019_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved street with visible lane markings and vehicles driving on it.\n- sidewalk: There are sidewalks on both sides of the street, clearly separated from the road by curbs.\n- building: Multiple buildings line both sides of the street, including commercial storefronts and residential structures.\n- pole: A pole with a traffic sign is visible near the storefront.\n- traffic sign: A red circular \"No Entry\" sign is mounted on a pole.\n- person: A person is visible on the right sidewalk, walking away from the camera.\n- car: Several cars are parked or driving along the street, including a BMW and a black sedan."
-}

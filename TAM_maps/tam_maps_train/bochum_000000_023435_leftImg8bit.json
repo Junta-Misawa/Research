@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/bochum/bochum_000000_023435_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved street with white lane markings, clearly designated for vehicle traffic.\n- building: Multiple multi-story residential and commercial buildings line both sides of the street.\n- vegetation: Trees are visible in the background and along the street.\n- car: Numerous cars are parked along both sides of the street.\n- traffic sign: A blue parking sign with a 'P' is visible on the right side of the street.\n- pole: Several poles, likely for streetlights or signs, are visible along the street.\n- person: A person is visible walking on the sidewalk on the right side of the street."
-}

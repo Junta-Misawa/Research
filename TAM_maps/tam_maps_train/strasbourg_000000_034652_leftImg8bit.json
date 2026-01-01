@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/strasbourg/strasbourg_000000_034652_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved surface with visible road markings and a Mercedes-Benz emblem on the hood, indicating it is a road.\n- sidewalk: A sidewalk is visible along the right side of the road, separated by a curb.\n- building: Buildings are visible on both sides of the street, including one with a sign \"RUE DES VEAUX\".\n- fence: A metal fence is visible on the left side of the road.\n- pole: A pole with a street sign is visible on the left side of the road.\n- traffic sign: A street sign reading \"RUE DES VEAUX\" is visible on the left side of the road.\n- vegetation: Trees are visible in the background and along the right side of the road.\n- car: A car is parked on the right side of the road.\n- motorcycle: No motorcycle is visible in the image."
-}

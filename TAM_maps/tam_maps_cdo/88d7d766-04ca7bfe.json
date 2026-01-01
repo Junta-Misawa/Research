@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/88d7d766-04ca7bfe.jpg",
-  "generated_text": "- road: The image shows a paved road with visible lane markings and vehicles driving on it.\n- building: Multiple residential buildings are visible along both sides of the street.\n- vegetation: Trees and bushes are present along the street and in front of the buildings.\n- sky: The sky is visible above the buildings and trees, appearing overcast.\n- car: Several cars are visible on the road and parked along the sides.\n- truck: A pickup truck is parked on the left side of the road.\n- traffic sign: A yellow diamond-shaped traffic sign is visible on the right side of the road."
-}

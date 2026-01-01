@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/95a9f88c-f5aa66e2.jpg",
-  "generated_text": "- road: The image shows a multi-lane highway with visible lane markings and vehicles driving on it.\n- fence: A chain-link fence is visible running along the right side of the road.\n- pole: Several utility poles are visible along the roadside.\n- sky: The sky is visible above the road and cityscape, with clouds and some electrical wires.\n- car: Multiple cars are visible on the road, including a dark SUV in the left lane and a silver sedan ahead.\n- building: A city skyline with numerous buildings is visible in the distance.\n- wall: A concrete barrier wall runs along the right side of the road."
-}

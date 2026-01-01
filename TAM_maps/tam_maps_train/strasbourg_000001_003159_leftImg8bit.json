@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/strasbourg/strasbourg_000001_003159_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved surface with road markings, typical of a street where vehicles drive.\n- sidewalk: Pedestrians are walking on a raised path next to the road, separated by a curb, indicating a sidewalk.\n- building: Multiple multi-story structures with windows and architectural features are visible along both sides of the street.\n- wall: A section of a wall with graffiti is visible on the left side of the street.\n- vegetation: A tree is visible in the background, partially obscured by buildings.\n- person: Several individuals are walking on the sidewalk and road.\n- car: The Mercedes-Benz logo on the hood indicates the viewpoint is from inside a car.\n- traffic sign: A circular traffic sign is visible on a pole on the right side of the street."
-}

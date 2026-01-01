@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/monchengladbach/monchengladbach_000000_019682_leftImg8bit.png",
-  "generated_text": "- road: The cobblestone surface with visible lane markings is clearly a road.\n- sidewalk: The paved areas adjacent to the road, bordered by curbs and buildings, are sidewalks.\n- building: The white and brick structures on both sides of the street are buildings.\n- wall: The stone wall with ivy growing on it in the background is a wall.\n- vegetation: The green ivy on the wall and the bushes on top of the wall are vegetation.\n- traffic sign: The blue circular sign with a white arrow indicating a right turn is a traffic sign.\n- car: The red car on the left and the silver van parked on the right are cars."
-}

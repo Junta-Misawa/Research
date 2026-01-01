@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/1df69db3-64e475fd.jpg",
-  "generated_text": "- road: The image shows a paved street with visible lane markings and snow on the sides, indicating it is a road.\n- building: Brick residential buildings are visible on both sides of the street.\n- vegetation: Bare trees are visible along the street.\n- sky: The sky is visible above the buildings and trees, showing a twilight gradient.\n- car: Several cars are parked along the sides of the road, and vehicle headlights are visible ahead.\n- pole: Utility poles with wires are visible along the street.\n- traffic sign: A street sign is visible on a pole on the right side of the road.\n- fence: A fence is visible along the sidewalk on the right side of the road."
-}

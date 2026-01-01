@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/6e6cdbac-01a968f1.jpg",
-  "generated_text": "- road: The image shows a large paved area with parking spaces and driving lanes, which is clearly a road.\n- sidewalk: There is a pedestrian walkway bordered by a curb and trees, which is a sidewalk.\n- building: The large commercial structures in the background, including the Walmart and Sim's stores, are buildings.\n- vegetation: There are several bare trees without leaves, which are vegetation.\n- sky: The clear blue background above the trees and buildings is the sky.\n- person: A person is visible walking on the sidewalk.\n- car: Multiple cars are parked in the lot, including sedans and SUVs.\n- truck: A pickup truck is visible parked among the cars.\n- fence: A metal fence is visible separating parking areas."
-}

@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/weimar/weimar_000059_000019_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved street with cars parked along both sides, indicating it is a road.\n- sidewalk: Sidewalks are visible on both sides of the road, separated from the road by curbs.\n- building: Multiple buildings line both sides of the street, with visible architectural details.\n- fence: A metal fence runs along the left side of the road, separating the sidewalk from a property.\n- pole: Several poles, likely for streetlights or signage, are visible along the street.\n- vegetation: Trees and hedges are present along the street, particularly on the left side.\n- sky: The sky is visible at the top of the image, appearing overcast.\n- car: Multiple cars are parked along both sides of the street.\n- person: A person is visible walking on the sidewalk on the left side of the street."
-}

@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/40f63744-416f585b.jpg",
-  "generated_text": "- road: The paved surface with lane markings is clearly visible, indicating a road.\n- vegetation: Trees and bushes are visible along the roadside and in the background.\n- terrain: Grass and dirt areas are visible along the roadside and in the background.\n- sky: The sky is visible above the trees and buildings.\n- wall: A brick wall is visible on the right side of the road.\n- pole: Several streetlight poles are visible along the road.\n- traffic sign: A yellow diamond-shaped traffic sign with an arrow is visible on the left side of the road.\n- car: The interior of a car, including the dashboard and windshield, is visible in the foreground."
-}

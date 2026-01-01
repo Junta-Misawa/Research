@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/3b71089b-7e6805c5.jpg",
-  "generated_text": "- road: The paved surface with lane markings is visible, including the curved road ahead and the area where the vehicle is stopped.\n- vegetation: Trees are visible along the roadside and in the background.\n- sky: The clear blue sky with some thin clouds is visible above the trees and utility lines.\n- traffic sign: A \"KEEP RIGHT\" sign and a \"ONE WAY\" sign are visible on poles.\n- pole: Utility poles and traffic sign poles are visible along the road.\n- car: A silver Jeep with a spare tire mounted on the rear is visible, along with other cars in the distance.\n- terrain: Grass areas are visible on the sides of the road and in the median.\n- building: A commercial building with a sign is visible in the background."
-}

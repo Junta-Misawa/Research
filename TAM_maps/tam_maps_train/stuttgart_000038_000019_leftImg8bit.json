@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/stuttgart/stuttgart_000038_000019_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved road with white lane markings and cars driving on it.\n- building: Several buildings are visible along the right side of the road and in the background.\n- vegetation: Trees and bushes are visible along the left side of the road and in the background.\n- sky: The sky is visible above the buildings and trees in the background.\n- car: Multiple cars are parked along both sides of the road and some are driving in the lane.\n- person: A person is visible inside the driver's seat of the black car in the foreground.\n- pole: A tall, thin pole is visible on the left side of the road.\n- traffic sign: A small, round traffic sign is visible on the right side of the road."
-}

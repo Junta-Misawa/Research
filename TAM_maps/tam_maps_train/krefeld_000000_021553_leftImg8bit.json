@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/krefeld/krefeld_000000_021553_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved road with visible lane markings and cars driving on it.\n- sidewalk: Sidewalks are visible along both sides of the road, separated from the road by curbs or poles.\n- building: Multiple buildings line both sides of the street, including residential and possibly commercial structures.\n- vegetation: Trees are visible along the street, providing shade and greenery.\n- sky: The sky is visible above the buildings and trees, appearing bright and overcast.\n- traffic light: Traffic lights are visible at intersections, with one showing green.\n- traffic sign: Traffic signs are visible on poles along the road.\n- car: Several cars are visible on the road and parked along the sides.\n- person: A person is visible walking on the sidewalk on the left side of the road."
-}

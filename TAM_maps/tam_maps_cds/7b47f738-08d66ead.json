@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-snowy/leftImg8bit/test/7b47f738-08d66ead.jpg",
-  "generated_text": "- road: The image shows a paved surface with visible lane markings and vehicles driving on it, which is characteristic of a road.\n- wall: A stone wall is clearly visible on the right side of the image, running alongside the road.\n- traffic sign: A green directional sign with a white arrow pointing right is visible at the top left of the image.\n- car: Multiple cars are visible in the image, including a yellow taxi in the foreground and other vehicles behind it.\n- person: A person is visible in the driver's seat of the yellow taxi, identifiable by the silhouette and position behind the windshield."
-}

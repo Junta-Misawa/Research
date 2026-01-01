@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/strasbourg/strasbourg_000000_028912_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved road with visible lane markings and cars parked along its sides.\n- sidewalk: Pedestrians are walking on a paved area next to the road, separated by a curb, which is a sidewalk.\n- building: Multiple multi-story buildings line both sides of the street, including commercial storefronts.\n- vegetation: Trees with green foliage are visible along the sidewalk and street.\n- sky: A portion of the sky is visible above the buildings, appearing clear and blue.\n- person: Several individuals are walking on the sidewalk, some carrying bags or backpacks.\n- car: Multiple cars are parked along the left side of the road, and one silver car is driving ahead in the center of the road."
-}

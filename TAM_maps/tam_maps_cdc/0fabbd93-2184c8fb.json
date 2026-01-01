@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/0fabbd93-2184c8fb.jpg",
-  "generated_text": "- road: The image shows a multi-lane road with visible lane markings and vehicles driving on it.\n- building: A large building with multiple windows and a flagpole is visible on the left side of the road.\n- vegetation: Several trees with green leaves are visible along the road and in the background.\n- sky: The sky is visible above the trees and buildings, appearing clear and blue.\n- car: Multiple cars are visible, including a blue SUV directly ahead and a black sedan to the right.\n- truck: A black pickup truck is visible on the left side of the road.\n- pole: A tall, weathered pole with green markings is visible on the left side of the road.\n- fence: A black metal fence is visible along the right side of the road."
-}

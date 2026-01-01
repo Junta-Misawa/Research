@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/val/lindau/lindau_000047_000019_leftImg8bit.png",
-  "generated_text": "- road: The image shows a cobblestone street that serves as a road for vehicles, including the visible Mercedes-Benz logo on the hood.\n- building: Multiple multi-story buildings with windows and doors line the street, indicating they are buildings.\n- wall: A tall, rough stone wall runs along the left side of the road, which is an individual standing wall.\n- vegetation: Trees with green leaves are visible overhead and along the walls, indicating vegetation.\n- person: A person wearing a white shirt is visible standing at the back of a red car, which qualifies as a person.\n- car: A red van with its rear door open is parked on the street, which is a car.\n- pole: A small, cylindrical, gray pole is visible on the right side of the road, which is a pole."
-}

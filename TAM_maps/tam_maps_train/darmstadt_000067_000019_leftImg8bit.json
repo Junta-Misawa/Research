@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/darmstadt/darmstadt_000067_000019_leftImg8bit.png",
-  "generated_text": "- sidewalk: The paved area with pedestrians and bicycles on the sides is clearly designated for pedestrians and cyclists, separated from the road by curbs and poles.\n- building: The large structures with commercial signs and windows on both sides of the street are clearly buildings.\n- vegetation: Trees are visible along the sidewalk and street, providing greenery.\n- sky: The open sky is visible above the buildings and trees.\n- person: Several individuals are visible walking on the sidewalk, including one person bending over a bicycle.\n- bicycle: Multiple bicycles are parked along the sidewalk, some with riders or being attended to.\n- car: A white van is parked on the street in the background, and the Mercedes-Benz emblem on the hood indicates a car is present."
-}

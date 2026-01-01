@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/bremen/bremen_000111_000019_leftImg8bit.png",
-  "generated_text": "- road: The paved surface in the center of the image, where vehicles are driving, is clearly a road.\n- sidewalk: The paved areas on both sides of the road, bordered by curbs and lined with parked cars, are sidewalks.\n- building: Multiple buildings are visible along both sides of the street, including residential structures with windows and facades.\n- vegetation: Numerous trees with green leaves are present along the street, providing shade and lining the road.\n- car: Numerous cars are parked along both sides of the road, including a yellow station wagon and several sedans.\n- person: A person can be seen walking in the distance down the middle of the road.\n- motorcycle: A motorcycle is visible parked on the right side of the road, near the middle of the image."
-}

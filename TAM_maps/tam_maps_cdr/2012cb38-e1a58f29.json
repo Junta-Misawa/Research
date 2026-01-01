@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/2012cb38-e1a58f29.jpg",
-  "generated_text": "- building: Visible tall structures with windows and architectural details in the background.\n- road: Visible as the surface beneath the vehicles, though partially obscured by ice/snow and reflections.\n- truck: A large white box truck is visible on the right side of the image.\n- car: A dark-colored van is visible directly in front, and a lighter-colored van is visible to the left."
-}

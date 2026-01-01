@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/8ed9f587-1bce5a43.jpg",
-  "generated_text": "- road: The image shows a paved surface with lane markings, used for vehicle traffic, extending into the distance.\n- building: Multiple multi-story structures with windows and architectural features are visible along both sides of the street.\n- vegetation: Several trees with green foliage are present along the sidewalks and street.\n- sky: A portion of the sky is visible above the buildings and trees, appearing overcast.\n- car: Numerous cars and SUVs are parked along both sides of the street, and a few are in motion on the road.\n- truck: A large truck with a visible rear cargo area is parked on the left side of the street.\n- pole: A tall, thin pole with a streetlight fixture is visible on the left side of the street.\n- traffic sign: A rectangular traffic sign is mounted on a pole on the right side of the street."
-}

@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/NighttimeDrivingTest/leftImg8bit/test/night/0_frame_0374_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved road with visible lane markings and tram tracks, illuminated by streetlights at night.\n- car: A car is visible ahead on the road, with its taillights illuminated.\n- traffic light: A traffic light with green lights is visible in the upper right corner of the image.\n- pole: Several poles are visible, including those supporting the streetlights and traffic lights.\n- building: A building is partially visible on the left side of the image, with some lights on.\n- fence: A fence or barrier is visible on the right side of the image, near the traffic light.\n- sky: The sky is visible above the streetlights and buildings, appearing dark with some light pollution."
-}

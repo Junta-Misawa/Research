@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/06d937fd-3df1b5be.jpg",
-  "generated_text": "- road: The image shows a street with cars parked and driving on it, indicating a road.\n- sidewalk: There is a visible sidewalk on the right side of the road, separated from the road by a curb.\n- building: Multiple buildings are visible along both sides of the street.\n- vegetation: Several trees are visible along the street.\n- sky: A portion of the sky is visible above the buildings and trees.\n- car: Multiple cars are parked along the street and one is visible in the foreground.\n- pole: A street light pole is visible on the right side of the street."
-}

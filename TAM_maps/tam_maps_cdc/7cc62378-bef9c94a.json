@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/7cc62378-bef9c94a.jpg",
-  "generated_text": "- road: The image shows a multi-lane highway with visible lane markings and vehicles driving on it.\n- vegetation: Several trees with bare branches are visible along the sides of the road and in the background.\n- sky: The upper portion of the image shows a clear blue sky with some thin white clouds.\n- car: Multiple cars and SUVs are visible on the road, including a white SUV on the right side of the frame and a dark SUV ahead.\n- pole: Vertical poles are visible supporting overhead traffic signs and other structures.\n- traffic sign: Overhead traffic signs are visible, including a \"STAY IN LANE\" sign on the right side of the road.\n- fence: A fence is visible running along the right side of the road in the background.\n- building: A building is partially visible in the background on the right side of the road, behind the fence."
-}

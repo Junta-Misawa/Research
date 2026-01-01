@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/strasbourg/strasbourg_000000_034097_leftImg8bit.png",
-  "generated_text": "- road: The paved surface extending from the foreground into the distance, where the Mercedes-Benz emblem is visible, is clearly a road.\n- sidewalk: The paved areas on both sides of the road, where pedestrians are walking, are sidewalks, delimited from the road by curbs.\n- building: The stone and other structures lining both sides of the street, including the multi-story buildings with windows and signs, are buildings.\n- person: Several individuals are visible walking on the sidewalks, including a man and woman on the left and two women on the right.\n- bicycle: A bicycle is visible parked in the background on the right side of the street.\n- car: The Mercedes-Benz emblem visible in the foreground indicates the presence of a car."
-}

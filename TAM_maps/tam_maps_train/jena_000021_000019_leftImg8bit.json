@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/jena/jena_000021_000019_leftImg8bit.png",
-  "generated_text": "- road: The paved surface with lane markings extending into the distance is clearly a road.\n- sidewalk: The elevated paved path on the right side of the image, bordered by a curb and railings, is a sidewalk.\n- building: The multi-story structures with windows and doors visible in the background are buildings.\n- vegetation: The green bushes and plants on the left side of the image are vegetation.\n- person: The woman in the white jacket on the right and the person walking the dog in the middle are both persons.\n- traffic sign: The triangular warning sign and the circular \"30 ZONE\" signs are traffic signs.\n- pole: The vertical poles supporting the traffic signs and the railing are poles.\n- terrain: The unpaved, grassy area with some dirt and weeds on the left side is terrain."
-}

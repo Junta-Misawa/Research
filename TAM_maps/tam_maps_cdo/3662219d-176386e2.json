@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/3662219d-176386e2.jpg",
-  "generated_text": "- road: The image shows a multi-lane road with visible lane markings and vehicles driving on it.\n- fence: A chain-link fence runs along the left side of the road.\n- pole: Several poles are visible, including streetlight poles and sign poles.\n- traffic sign: Multiple traffic signs are visible, including a \"WELLINGTON STREET\" sign, a speed limit sign, and a \"25\" speed limit sign.\n- vegetation: Trees are visible along the right side of the road and in the background.\n- sky: The sky is visible above the trees and buildings, appearing overcast.\n- car: Several cars are visible on the road, including a red SUV, a black SUV, and a black sedan.\n- building: A brick building is visible on the right side of the road."
-}

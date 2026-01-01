@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/weimar/weimar_000036_000019_leftImg8bit.png",
-  "generated_text": "- road: The image shows a cobblestone surface with cars parked and driving on it, indicating it is a road.\n- building: The large, ornate structure with arched windows and doors in the background is clearly a building.\n- vegetation: There are trees visible on the right side of the image, which fall under the category of vegetation.\n- sky: The open sky is visible above the building and trees.\n- person: Several people can be seen walking or standing on the right side of the image.\n- rider: A person riding a bicycle is visible on the right side of the image.\n- car: Multiple cars are parked or driving on the road, including a red car and a blue car in the foreground.\n- bicycle: A bicycle is visible on the right side of the image, being ridden by a person."
-}

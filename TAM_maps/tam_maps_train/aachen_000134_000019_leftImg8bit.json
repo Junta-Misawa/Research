@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/aachen/aachen_000134_000019_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved street with white lane markings, which is clearly a road.\n- building: Multiple multi-story residential buildings are visible on both sides of the street.\n- vegetation: Trees are prominently visible along the street and in the background.\n- car: Numerous cars are parked along both sides of the road and one is driving towards the camera.\n- sky: A portion of the sky is visible through the tree canopy at the top center of the image."
-}

@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/FZ/leftImg8bit/test/1508040913.0_frame_000852.png",
-  "generated_text": "- road: The image shows a paved surface with lane markings, including yellow and white lines, which is characteristic of a road.\n- building: A multi-story structure with windows is visible in the background, consistent with a building.\n- pole: Several vertical poles are visible, including those supporting traffic lights and signs.\n- traffic light: Red traffic lights are visible at the intersection.\n- traffic sign: A blue directional sign indicating \"Luzern\" and \"Koblenz\" is present.\n- vegetation: Some greenery, possibly bushes or small trees, is visible near the road and buildings.\n- sky: The upper portion of the image shows a gray, overcast sky with visible overhead wires.\n- car: A dark-colored SUV is visible on the road, stopped at the intersection."
-}

@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/7814206e-417498d7.jpg",
-  "generated_text": "- road: The image shows a multi-lane highway with visible lane markings and vehicles driving on it.\n- vegetation: There are numerous trees and greenery lining both sides of the road.\n- sky: The upper portion of the image shows a clear blue sky.\n- car: Multiple cars are visible on the road, including a white SUV directly ahead and a dark sedan to the right.\n- traffic sign: An orange diamond-shaped warning sign is visible on the right side of the road.\n- pole: A streetlight pole is visible on the right side of the road."
-}

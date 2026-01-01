@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/631973a4-ed1655d9.jpg",
-  "generated_text": "- road: The wet, reflective surface with visible lane markings and cars driving on it indicates a road.\n- building: Multi-story brick structures lining the street are clearly visible as buildings.\n- fence: A white picket fence is visible on the left side of the street.\n- pole: Vertical poles supporting streetlights and traffic signals are visible along the street.\n- vegetation: Bare trees without leaves are visible along the street.\n- sky: The blue sky visible above the buildings and streetlights indicates open sky.\n- car: Multiple cars are parked along the street and driving on the road.\n- traffic sign: A white rectangular sign with a black \"P\" (parking) symbol is visible on a pole on the right side of the street."
-}

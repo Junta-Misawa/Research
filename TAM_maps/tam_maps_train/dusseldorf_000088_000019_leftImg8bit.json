@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/dusseldorf/dusseldorf_000088_000019_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved surface with white lane markings, which is characteristic of a road.\n- sidewalk: There is a pedestrian walkway adjacent to the buildings, separated from the road by a curb.\n- building: The structures with storefronts and windows are clearly buildings.\n- wall: The gray concrete wall with graffiti is an individual standing wall.\n- pole: A vertical metal pole is visible near the center of the image.\n- person: A person is visible inside the \"BUTLERS\" store.\n- car: A black station wagon is parked on the side of the road.\n- vegetation: Small green plants are growing at the base of the wall with graffiti."
-}

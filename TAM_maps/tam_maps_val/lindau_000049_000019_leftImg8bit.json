@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/val/lindau/lindau_000049_000019_leftImg8bit.png",
-  "generated_text": "- road: The image shows a cobblestone surface that serves as a street, consistent with a road.\n- building: Multiple multi-story buildings with windows and doors are visible along the street.\n- vegetation: Trees are visible on the left side of the image, and some shrubs are near the building on the right.\n- car: The Mercedes-Benz logo visible in the foreground indicates the presence of a car, likely the one from which the photo was taken."
-}

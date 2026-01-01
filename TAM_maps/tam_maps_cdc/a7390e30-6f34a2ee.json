@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/a7390e30-6f34a2ee.jpg",
-  "generated_text": "- road: The image shows a multi-lane roadway with visible lane markings and vehicles driving on it.\n- building: A large building with a patterned facade is visible on the left side of the image.\n- vegetation: Trees are visible along the roadside and in the background.\n- sky: The sky is visible above the trees and buildings, showing clouds and blue sky.\n- car: Multiple cars are visible on the road, including the vehicle from which the photo is taken and several others in front and beside it.\n- traffic sign: Several traffic signs are visible, including a yellow diamond-shaped sign and an orange rectangular exit sign.\n- pole: Several poles are visible, including those supporting traffic signs and streetlights.\n- fence: A fence is visible along the side of the road, separating the roadway from a pedestrian area or sidewalk."
-}

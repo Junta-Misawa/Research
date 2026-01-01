@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/9d3e6f33-49b7f110.jpg",
-  "generated_text": "- road: The image shows a paved road with lane markings, under an overpass, with vehicles driving on it.\n- vegetation: Dark green bushes are visible along the right side of the road.\n- sky: The sky is visible above the overpass, showing clouds and some blue patches.\n- pole: Vertical poles are visible supporting traffic lights and signs.\n- traffic light: Traffic lights are mounted on poles above the road, with visible signal lights.\n- traffic sign: Green highway signs with white text are visible overhead, indicating directions or exits.\n- car: Several cars are visible on the road, including one directly ahead and others in adjacent lanes.\n- rider: A person is visible in the driver's seat of the car from which the photo is taken, inferred from the perspective and dashboard reflection."
-}

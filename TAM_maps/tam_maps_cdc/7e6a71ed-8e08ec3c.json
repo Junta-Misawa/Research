@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/7e6a71ed-8e08ec3c.jpg",
-  "generated_text": "- road: The image shows a multi-lane highway with visible lane markings and vehicles driving on it.\n- vegetation: There are numerous trees and greenery lining the sides of the highway.\n- sky: The upper portion of the image shows a clear blue sky with some clouds.\n- car: Multiple cars and SUVs are visible on the highway, including a black sedan on the left and a green SUV ahead.\n- pole: Several poles are visible, including those supporting traffic signs and streetlights.\n- traffic sign: A yellow rectangular sign with \"40\" is visible on a pole, indicating a speed limit.\n- fence: A metal guardrail runs along the right side of the highway, acting as a barrier."
-}

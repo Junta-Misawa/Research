@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-cloudy/leftImg8bit/test/3d938d6b-40350e5c.jpg",
-  "generated_text": "- road: The image shows a paved road with yellow dividing lines and vehicles driving on it.\n- sidewalk: A sidewalk is visible along the left side of the road, adjacent to the brick building.\n- building: There are multiple buildings visible, including a brick building on the left and a commercial building with a sign on the right.\n- pole: Several poles are visible, including utility poles along the street and a pole supporting the sign on the right.\n- vegetation: Trees and bushes are visible along the street and in front of some buildings.\n- sky: The sky is visible above the buildings and street, showing clouds.\n- car: Multiple cars are visible parked on the side of the road and in the distance.\n- truck: A pickup truck is visible parked on the right side of the road."
-}

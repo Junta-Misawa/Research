@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/27c8f34f-31dd1ae2.jpg",
-  "generated_text": "- road: The wet, paved surface with visible lane markings and traffic flow is clearly a road.\n- building: Tall structures with windows and architectural features are visible in the background, identifying them as buildings.\n- vegetation: Green, leafy trees are visible along the street, qualifying as vegetation.\n- traffic light: Red and green lights are visible at intersections, indicating the presence of traffic lights.\n- car: A yellow taxi is visible on the right side of the image, which is a car.\n- person: Blurry figures in bright clothing are visible on the sidewalk, indicating the presence of people.\n- pole: Vertical structures supporting traffic lights are visible, which are poles.\n- traffic sign: A green street sign is visible on a pole, which is a traffic sign."
-}

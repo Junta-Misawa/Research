@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/6b2591b3-1ccc5250.jpg",
-  "generated_text": "- road: The image shows a street with visible lane markings and a crosswalk, which are part of the road.\n- building: Tall brick structures line both sides of the street, consistent with urban buildings.\n- pole: Vertical poles supporting traffic lights and signs are visible along the street.\n- traffic light: Green traffic lights are visible at the intersection.\n- traffic sign: A yellow pedestrian crossing sign is visible on a pole.\n- vegetation: Bare tree branches are visible along the sidewalk.\n- person: A person wearing a high-visibility vest is standing near a bicycle.\n- rider: A person is standing next to a bicycle, which qualifies as a rider.\n- car: The vehicle from which the photo is taken, as well as other cars in the distance, are visible.\n- bicycle: A bicycle is visible on the sidewalk near the person."
-}

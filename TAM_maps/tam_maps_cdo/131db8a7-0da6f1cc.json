@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/131db8a7-0da6f1cc.jpg",
-  "generated_text": "- road: The image shows a multi-lane highway with visible lane markings, which is a road.\n- vegetation: There are trees and bushes visible along the side of the road and under the overpass.\n- sky: The upper portion of the image shows a cloudy sky.\n- car: Multiple cars are visible on the road, including a silver SUV directly ahead and various other vehicles in adjacent lanes.\n- traffic sign: A yellow rectangular sign reading \"RAMP 30 M.P.H.\" is visible on the right side of the road.\n- pole: A tall, thin pole supporting the traffic sign is visible on the right side of the road.\n- fence: A metal guardrail runs along the right side of the road, acting as a barrier."
-}

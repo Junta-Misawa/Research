@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/060b8e4f-d05f9e18.jpg",
-  "generated_text": "- road: The blurred surface visible through the rain-streaked windshield, where vehicles are positioned, indicates a road.\n- vegetation: Green foliage, likely trees or bushes, is visible through the windshield in the background.\n- car: A gray SUV is visible through the windshield, parked or moving on the road.\n- building: A structure with windows and a roofline is visible in the background, consistent with a residential or commercial building.\n- terrain: A patch of green grass or lawn is visible on the right side of the image through the windshield, adjacent to the road."
-}

@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/12dbce83-368f9b4c.jpg",
-  "generated_text": "- road: The image shows a multi-lane highway with road markings, which is a type of road.\n- vegetation: Trees are visible on the right side of the highway and in the background.\n- sky: The sky is visible above the highway, with clouds and some blue patches.\n- car: Several cars are visible on the highway, including a black SUV on the left and other vehicles ahead.\n- pole: Several tall poles, likely for lighting or signage, are visible along the highway.\n- building: A building or structure with a modern design is visible in the background, likely an airport terminal or similar facility."
-}

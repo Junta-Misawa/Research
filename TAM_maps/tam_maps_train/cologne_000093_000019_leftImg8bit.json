@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/cologne/cologne_000093_000019_leftImg8bit.png",
-  "generated_text": "- road: The asphalt surface with visible lane markings and parked cars on both sides indicates a road.\n- sidewalk: The paved areas beside the road, separated by curbs and occupied by parked cars, are sidewalks.\n- building: Multiple multi-story residential and commercial buildings line both sides of the street.\n- vegetation: Trees with green foliage are visible along the street, especially on the left side.\n- person: A person can be seen walking on the sidewalk in the distance on the right side of the street.\n- car: Numerous cars are parked along both sides of the street.\n- pole: Several poles, likely for street lights or signs, are visible along the street.\n- traffic sign: A blue and white parking sign for disabled parking is visible on the left side of the street."
-}

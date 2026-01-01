@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/06791257-dc3df11b.jpg",
-  "generated_text": "- road: The wet surface with visible lane markings and parked cars indicates it is a road.\n- sidewalk: The paved area next to the parked cars, separated by a curb or edge, is a sidewalk.\n- vegetation: Trees with leaves are clearly visible along the sidewalk and road.\n- sky: The overcast, gray background above the trees and buildings indicates the sky.\n- car: Multiple cars, including a black SUV in the foreground and a white car further down, are visible.\n- building: A building with a visible roof and structure is visible in the background on the left side."
-}

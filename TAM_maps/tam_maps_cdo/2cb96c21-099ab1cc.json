@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/2cb96c21-099ab1cc.jpg",
-  "generated_text": "- road: The paved surface in front of the vehicle, including the yellow lines, is a road.\n- building: The large brick structure on the right with windows and signage is a building.\n- fence: The chain-link fence running along the left side of the image is a fence.\n- pole: The yellow vertical pole near the fence gate is a pole.\n- car: The vehicle from which the photo is taken, visible through the windshield, is a car.\n- truck: The large white truck with the number 26 on its side is a truck.\n- sky: The open area above the buildings and crane is the sky."
-}

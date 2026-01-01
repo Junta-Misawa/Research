@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-overcast/leftImg8bit/test/7e5568e2-d66c43ff.jpg",
-  "generated_text": "- road: The image shows a paved surface with lane markings, which is clearly a road.\n- building: A multi-story building is visible in the background.\n- wall: A concrete wall runs along the left side of the road.\n- fence: A fence is visible in the background, running along the top of the concrete wall.\n- pole: Several streetlight poles are visible along the road.\n- vegetation: Trees are visible in the background and along the roadside.\n- sky: The sky is visible above the buildings and trees.\n- bus: A white bus is visible on the right side of the road.\n- car: A white car is visible in the distance on the road."
-}

@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/stuttgart/stuttgart_000081_000019_leftImg8bit.png",
-  "generated_text": "- road: The image shows a paved street with visible lane markings and cars parked along both sides, indicating it is a road.\n- building: Multiple multi-story buildings line both sides of the street, with architectural details and windows visible.\n- vegetation: Trees are visible along the street and in the background, indicating the presence of vegetation.\n- sky: A portion of the sky is visible above the buildings in the background.\n- car: Numerous cars are parked along both sides of the street and some are driving on the road.\n- truck: A white truck is visible in the distance, driving down the street.\n- person: A person can be seen standing on the sidewalk on the left side of the street."
-}

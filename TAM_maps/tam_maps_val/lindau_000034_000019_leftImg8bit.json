@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/val/lindau/lindau_000034_000019_leftImg8bit.png",
-  "generated_text": "- road: The image shows a cobblestone surface that serves as a road, with visible car markings and vehicles on it.\n- building: A yellowish building with windows and a decorative stone element is visible on the right side of the image.\n- vegetation: There are multiple trees with green leaves visible throughout the image, especially in the background and to the left.\n- car: A blue car is visible on the left side of the image, partially in the frame.\n- truck: The front part of a red truck is visible on the right side of the image.\n- fence: A fence can be seen in the background, behind the trees and near the parked vehicles."
-}

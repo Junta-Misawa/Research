@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/C-driving-rainy/leftImg8bit/test/73760969-5f789e33.jpg",
-  "generated_text": "- road: The image shows a wet multi-lane roadway with visible lane markings and vehicles driving on it.\n- vegetation: Trees are visible along the sides of the road and in the background.\n- sky: The sky is visible above the trees and buildings, appearing overcast.\n- car: Multiple cars and SUVs are visible on the road, including a gray SUV directly in front and a white SUV to the right.\n- truck: A white truck is visible in the distance behind the gray SUV.\n- pole: Streetlight poles are visible in the image, including one prominently in the center-left and another to the right.\n- traffic sign: A traffic sign is visible mounted on a pole on the left side of the road."
-}

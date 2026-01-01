@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/stuttgart/stuttgart_000164_000019_leftImg8bit.png",
-  "generated_text": "- road: The paved surface with white markings in the foreground is clearly a road.\n- sidewalk: The paved area where the person is walking, bordered by bollards, is a sidewalk.\n- building: The large structure with windows and a modern facade in the background is a building.\n- vegetation: There are trees and bushes visible along the sidewalk and behind the bollards.\n- person: A person is visible walking on the sidewalk.\n- pole: There are several vertical bollards and a traffic sign pole visible.\n- traffic sign: Two circular traffic signs with red borders and blue centers are visible on a pole.\n- terrain: There is a strip of grass or vegetation visible behind the sidewalk bollards."
-}

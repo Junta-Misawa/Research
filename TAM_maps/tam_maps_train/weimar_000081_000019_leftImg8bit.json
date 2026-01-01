@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/weimar/weimar_000081_000019_leftImg8bit.png",
-  "generated_text": "- road: The image shows a cobblestone street that serves as a road for vehicles and pedestrians.\n- sidewalk: There are pedestrian walkways alongside the road, clearly separated by curbs.\n- building: Multiple buildings with windows, doors, and facades are visible along the street.\n- vegetation: Trees with green leaves are visible on the right side of the image.\n- terrain: A small patch of grass is visible near the curb on the right side.\n- person: A man is walking on the sidewalk on the left, and another man is pushing a stroller on the right.\n- car: A black SUV is parked on the right side of the road.\n- traffic sign: A blue traffic sign is visible on the right side of the road.\n- pole: A small pole is visible near the traffic sign on the right side of the road."
-}

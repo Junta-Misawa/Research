@@ -1,4 +1,0 @@
-{
-  "image_path": "/home/suzukilab/Research/Dataset/cityscapes/leftImg8bit_trainvaltest/leftImg8bit/train/erfurt/erfurt_000066_000019_leftImg8bit.png",
-  "generated_text": "- sidewalk: The paved area where pedestrians are walking and standing, delimited from the road by poles and the tram tracks.\n- building: The structures with windows and signage (e.g., \"PAPENBREER\") in the background.\n- person: A woman in a purple jacket walking on the sidewalk and a man with a backpack standing on the sidewalk.\n- train: The red and white vehicle on rails, moving through the scene, which is a tram.\n- pole: The dark vertical pole on the sidewalk near the foreground."
-}
